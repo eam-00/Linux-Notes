@@ -54,9 +54,8 @@ tmpfs           2,0G   51M  1,9G   3% /tmp
 tmpfs           392M   76K  392M   1% /run/user/1000
 [epsilon-alpha-mu@mbw ~]$ 
 
-sudo pacman -Rdd lib32-libcanberra ib32-libcanberra-gstreamer
-sudo pacman -Rdd lib32-libcanberra lib32-libcanberra-gstreamer
-sudo pacman -Rdd lib32-libcanberra-pulse 
+sudo pacman -Rdd lib32-libcanberra lib32-libcanberra-gstreamer lib32-libcanberra-pulse
+
 sudo pamac upgrade
 sudo pacman -Rdd libcanberra libcanberra-gstreamer libcanberra-pulse
 
