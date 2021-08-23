@@ -18,7 +18,8 @@ This is helpful when you have a corrupted package database and you want to force
 
 sudo rm /var/lib/pacman/db.lck
 
-sudo pacman-mirrors -f 5 # Update and rank the mirrorlist by speed, up to 5 mirrors
+Update and rank the mirrorlist by speed, up to 5 mirrors  
+sudo pacman-mirrors -f 5
 sudo pacman -Syyuu # Sync, refresh mirrors, downgrade packages to repo version, and update
 
 ## alias update='sudo pamac update'
