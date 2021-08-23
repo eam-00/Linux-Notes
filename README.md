@@ -10,9 +10,10 @@ approach and will leave nothing in the cache folder:
 The Plain Vanilla Update:  
 ``sudo pacman -Syu``
 
-The extra y forces the package manager to download package database regardless of whether there is any change in the versions or not.
-This is helpful when you have a corrupted package database and you want to force a synchronization:
-sudo pacman -Syyu
+The extra y forces the package manager to download package database regardless of whether  
+there is any change in the versions or not.  
+This is helpful when you have a corrupted package database and you want to force a synchronization:  
+``sudo pacman -Syyu``
 
 sudo rm /var/lib/pacman/db.lck
 
