@@ -1,7 +1,7 @@
 **Manjaro**  
 *Some notes and tips that I found useful while setting up & running Manjaro.*
 
-Remove cache packages:  
+- Remove cache packages:  
 ``sudo pacman -Sc``
 
 Remove all files from the cache, use the clean switch twice, this is the most aggressive  
