@@ -3,8 +3,9 @@
 Remove cache packages:  
 ``sudo pacman -Sc``
 
-Remove all files from the cache, use the clean switch twice, this is the most aggressive approach and will leave nothing in the cache folder:
-sudo pacman -Scc
+Remove all files from the cache, use the clean switch twice, this is the most aggressive  
+approach and will leave nothing in the cache folder:  
+``sudo pacman -Scc``
 
 Update:
 sudo pacman -Syu
