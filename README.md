@@ -14,21 +14,7 @@
 approach and will leave nothing in the cache folder:  
 ``sudo pacman -Scc``
 
-The extra y forces the package manager to download package database regardless of whether  
-there is any change in the versions or not.  
-This is helpful when you have a corrupted package database and you want to force a synchronization:  
-``sudo pacman -Syyu``
-
-Update and rank the mirrorlist by speed, up to 5 mirrors  
-sudo pacman-mirrors -f 5
-sudo pacman -Syyuu # Sync, refresh mirrors, downgrade packages to repo version, and update
-
-## alias update='sudo pamac update'
-alias upgrade='sudo pacman -Syu'
-alias remove_lock='sudo rm /var/lib/pacman/db.lck'
-alias delete_cache='sudo pacman -Scc'
-alias list_kernels='pacman -Q linux'
-
+``
 [eam-00@mbw ~]$ df
 Filesystem      Size  Used Avail Use% Mounted on
 dev             2,0G     0  2,0G   0% /dev
@@ -58,6 +44,23 @@ tmpfs           2,0G   51M  1,9G   3% /tmp
 /dev/sda2       511M  424K  511M   1% /boot/efi
 tmpfs           392M   76K  392M   1% /run/user/1000
 [eam-00@mbw ~]$ 
+``
+
+The extra y forces the package manager to download package database regardless of whether  
+there is any change in the versions or not.  
+This is helpful when you have a corrupted package database and you want to force a synchronization:  
+``sudo pacman -Syyu``
+
+Update and rank the mirrorlist by speed, up to 5 mirrors  
+sudo pacman-mirrors -f 5
+sudo pacman -Syyuu # Sync, refresh mirrors, downgrade packages to repo version, and update
+
+## alias update='sudo pamac update'
+alias upgrade='sudo pacman -Syu'
+alias remove_lock='sudo rm /var/lib/pacman/db.lck'
+alias delete_cache='sudo pacman -Scc'
+alias list_kernels='pacman -Q linux'
+
 
 sudo pacman -Rdd lib32-libcanberra lib32-libcanberra-gstreamer lib32-libcanberra-pulse
 
