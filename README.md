@@ -14,8 +14,7 @@
 approach and will leave nothing in the cache folder:  
 ``sudo pacman -Scc``
 
-``
-[eam-00@mbw ~]$ df
+``[eam-00@mbw ~]$ df
 Filesystem      Size  Used Avail Use% Mounted on
 dev             2,0G     0  2,0G   0% /dev
 run             2,0G  1,3M  2,0G   1% /run
@@ -43,8 +42,7 @@ tmpfs           2,0G     0  2,0G   0% /dev/shm
 tmpfs           2,0G   51M  1,9G   3% /tmp
 /dev/sda2       511M  424K  511M   1% /boot/efi
 tmpfs           392M   76K  392M   1% /run/user/1000
-[eam-00@mbw ~]$ 
-``
+[eam-00@mbw ~]$``
 
 The extra y forces the package manager to download package database regardless of whether  
 there is any change in the versions or not.  
