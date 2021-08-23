@@ -16,6 +16,7 @@ there is any change in the versions or not.
 This is helpful when you have a corrupted package database and you want to force a synchronization:  
 ``sudo pacman -Syyu``
 
+Fix “unable to lock database” error:  
 sudo rm /var/lib/pacman/db.lck
 
 Update and rank the mirrorlist by speed, up to 5 mirrors  
