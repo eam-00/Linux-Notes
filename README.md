@@ -7,8 +7,8 @@ Remove all files from the cache, use the clean switch twice, this is the most ag
 approach and will leave nothing in the cache folder:  
 ``sudo pacman -Scc``
 
-Update:
-sudo pacman -Syu
+The Plain Vanilla Update:  
+``sudo pacman -Syu``
 
 The extra y forces the package manager to download package database regardless of whether there is any change in the versions or not.
 This is helpful when you have a corrupted package database and you want to force a synchronization:
