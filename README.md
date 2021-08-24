@@ -22,9 +22,9 @@ approach and will leave nothing in the cache folder:
         tmpfs           2,0G     0  2,0G   0% /dev/shm
         tmpfs           2,0G   51M  1,9G   3% /tmp
         /dev/sda2       511M  424K  511M   1% /boot/efi
-tmpfs           392M   76K  392M   1% /run/user/1000
-[eam-00@mbw ~]$ sudo pacman -Scc
-[sudo] password for epsilon-alpha-mu: 
+        tmpfs           392M   76K  392M   1% /run/user/1000
+        [eam-00@mbw ~]$ sudo pacman -Scc
+        [sudo] password for esm-00: 
 
 Cache directory: /var/cache/pacman/pkg/
 :: Do you want to remove ALL files from cache? [y/N] y
@@ -49,9 +49,8 @@ there is any change in the versions or not.
 This is helpful when you have a corrupted package database and you want to force a synchronization:  
 ``sudo pacman -Syyu``
 
-Update and rank the mirrorlist by speed, up to 5 mirrors  
-sudo pacman-mirrors -f 5
-sudo pacman -Syyuu # Sync, refresh mirrors, downgrade packages to repo version, and update
+- Update and rank the mirrorlist by speed, up to 5 mirrors:  
+``sudo pacman-mirrors -f 5``
 
 ## alias update='sudo pamac update'
 alias upgrade='sudo pacman -Syu'
