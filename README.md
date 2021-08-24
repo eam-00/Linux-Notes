@@ -65,6 +65,6 @@ sudo pacman -Rdd lib32-libcanberra lib32-libcanberra-gstreamer lib32-libcanberra
 sudo pamac upgrade
 sudo pacman -Rdd libcanberra libcanberra-gstreamer libcanberra-pulse
 
-sudo systemctl status sshd.service
-sudo systemctl enable sshd.service
-sudo systemctl start sshd.service
+``sudo systemctl status sshd.service``
+``sudo systemctl enable sshd.service``
+``sudo systemctl start sshd.service``
