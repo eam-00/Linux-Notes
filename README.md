@@ -19,9 +19,9 @@ approach and will leave nothing in the cache folder:
         dev             2,0G     0  2,0G   0% /dev
         run             2,0G  1,3M  2,0G   1% /run
         /dev/dm-0       455G  344G   89G  80% /
-tmpfs           2,0G     0  2,0G   0% /dev/shm
-tmpfs           2,0G   51M  1,9G   3% /tmp
-/dev/sda2       511M  424K  511M   1% /boot/efi
+        tmpfs           2,0G     0  2,0G   0% /dev/shm
+        tmpfs           2,0G   51M  1,9G   3% /tmp
+        /dev/sda2       511M  424K  511M   1% /boot/efi
 tmpfs           392M   76K  392M   1% /run/user/1000
 [eam-00@mbw ~]$ sudo pacman -Scc
 [sudo] password for epsilon-alpha-mu: 
