@@ -15,9 +15,9 @@ approach and will leave nothing in the cache folder:
 ``sudo pacman -Scc``
 
         [eam-00@mbw ~]$ df
-    Filesystem      Size  Used Avail Use% Mounted on
-    dev             2,0G     0  2,0G   0% /dev
-    run             2,0G  1,3M  2,0G   1% /run
+        Filesystem      Size  Used Avail Use% Mounted on
+        dev             2,0G     0  2,0G   0% /dev
+        run             2,0G  1,3M  2,0G   1% /run
     /dev/dm-0       455G  344G   89G  80% /
 tmpfs           2,0G     0  2,0G   0% /dev/shm
 tmpfs           2,0G   51M  1,9G   3% /tmp
