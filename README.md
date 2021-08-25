@@ -45,7 +45,7 @@ approach and will leave nothing in the cache folder:
         tmpfs           392M   76K  392M   1% /run/user/1000
         [eam-00@mbw ~]$
 
-- The extra y forces the package manager to download package database regardless of whether  
+- The extra "y" forces the package manager to download package database regardless of whether  
 there is any change in the versions or not.  
 This is helpful when you have a corrupted package database and you want to force a synchronization:  
 ``sudo pacman -Syyu``
@@ -53,6 +53,7 @@ This is helpful when you have a corrupted package database and you want to force
 - Update and rank the mirrorlist by speed, up to 5 mirrors:  
 ``sudo pacman-mirrors -f 5``
 
+- DOT bashrc aliases:  
 ## alias update='sudo pamac update'
 alias upgrade='sudo pacman -Syu'
 alias remove_lock='sudo rm /var/lib/pacman/db.lck'
@@ -60,7 +61,7 @@ alias delete_cache='sudo pacman -Scc'
 alias list_kernels='pacman -Q linux'
 
 - Remove stalled packages after the initial install:  
-sudo pacman -Rdd lib32-libcanberra lib32-libcanberra-gstreamer lib32-libcanberra-pulse
+sudo pacman -Rdd lib32-libcanberra lib32-libcanberra-gstreamer lib32-libcanberra-pulse libcanberra libcanberra-gstreamer libcanberra-pulse  
 sudo pacman -Rdd libcanberra libcanberra-gstreamer libcanberra-pulse
 
 - Enable SSH:  
