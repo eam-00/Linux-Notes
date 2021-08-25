@@ -26,9 +26,9 @@ approach and will leave nothing in the cache folder:
         [eam-00@mbw ~]$ sudo pacman -Scc
         [sudo] password for esm-00: 
 
-Cache directory: /var/cache/pacman/pkg/
-:: Do you want to remove ALL files from cache? [y/N] y
-removing all files from cache...
+        Cache directory: /var/cache/pacman/pkg/
+        :: Do you want to remove ALL files from cache? [y/N] y
+        removing all files from cache...
 
 Database directory: /var/lib/pacman/
 :: Do you want to remove unused repositories? [Y/n] y
@@ -44,7 +44,7 @@ tmpfs           2,0G   51M  1,9G   3% /tmp
 tmpfs           392M   76K  392M   1% /run/user/1000
 [eam-00@mbw ~]$``
 
-The extra y forces the package manager to download package database regardless of whether  
+- The extra y forces the package manager to download package database regardless of whether  
 there is any change in the versions or not.  
 This is helpful when you have a corrupted package database and you want to force a synchronization:  
 ``sudo pacman -Syyu``
@@ -58,10 +58,7 @@ alias remove_lock='sudo rm /var/lib/pacman/db.lck'
 alias delete_cache='sudo pacman -Scc'
 alias list_kernels='pacman -Q linux'
 
-
 sudo pacman -Rdd lib32-libcanberra lib32-libcanberra-gstreamer lib32-libcanberra-pulse
-
-sudo pamac upgrade
 sudo pacman -Rdd libcanberra libcanberra-gstreamer libcanberra-pulse
 
 - Enable SSH:  
