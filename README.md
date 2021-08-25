@@ -30,10 +30,11 @@ approach and will leave nothing in the cache folder:
         :: Do you want to remove ALL files from cache? [y/N] y
         removing all files from cache...
 
-Database directory: /var/lib/pacman/
-:: Do you want to remove unused repositories? [Y/n] y
-removing unused sync repositories...
-[eam-00@mbw ~]$ df -h
+        Database directory: /var/lib/pacman/
+        :: Do you want to remove unused repositories? [Y/n] y
+        removing unused sync repositories...
+
+        [eam-00@mbw ~]$ df -h
 Filesystem      Size  Used Avail Use% Mounted on
 dev             2,0G     0  2,0G   0% /dev
 run             2,0G  1,3M  2,0G   1% /run
