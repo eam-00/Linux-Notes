@@ -54,7 +54,7 @@ This is helpful when you have a corrupted package database and you want to force
 ``sudo pacman-mirrors -f 5``
 
 - DOT bashrc aliases:  
-alias upgrade='sudo pacman -Syu'
+    alias upgrade='sudo pacman -Syu'
 alias remove_lock='sudo rm /var/lib/pacman/db.lck'
 alias delete_cache='sudo pacman -Scc'
 alias list_kernels='pacman -Q linux'
