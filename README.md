@@ -68,7 +68,7 @@ This is helpful when you have a corrupted package database and you want to force
 ``sudo systemctl enable sshd.service``  
 ``sudo systemctl start sshd.service``
 
-- Logrotate  
+**Logrotate**  
 
 Setup on the file /etc/logrotate.conf
 
