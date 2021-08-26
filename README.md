@@ -70,7 +70,7 @@ This is helpful when you have a corrupted package database and you want to force
 
 **Logrotate**  
 
-Setup on the file /etc/logrotate.conf
+Edit the file /etc/logrotate.conf
 
-compress
-dateext
+        compress
+        dateext
