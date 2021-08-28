@@ -44,8 +44,7 @@
         tmpfs           392M   76K  392M   1% /run/user/1000
         [eam-00@mbw ~]$
 
-- The extra "y" forces the package manager to download package database regardless of whether  
-there is any change in the versions or not. 
+- The extra "y" forces the package manager to download package database regardless of whether there is any change in the versions or not.  
 This is helpful when you have a corrupted package database and you want to force a synchronization:  
 ``sudo pacman -Syyu``
 
