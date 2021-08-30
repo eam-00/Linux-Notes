@@ -74,3 +74,5 @@ Edit the file /etc/logrotate.conf
         dateext
 
 Uncomment the 'compress' entry and add the 'dateext' one in order to have the rotated log files compresssed and the date of the rotation appended to the file name of the log.
+
+**Make Caps Lock another Ctrl key**
