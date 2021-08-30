@@ -77,4 +77,10 @@ Uncomment the 'compress' entry and add the 'dateext' one in order to have the ro
 
 **Make Caps Lock another Ctrl key**
 
-Edit the file ``/etc/default/keyboard``
+Edit the file ``/etc/default/keyboard``:  
+
+ XKBMODEL="pc105"
+ XKBLAYOUT="us"
+ XKBVARIANT="alt-intl
+ XKBOPTIONS="ctrl:nocaps" # Some people prefer "ctrl:swapcaps"
+
