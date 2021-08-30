@@ -84,6 +84,6 @@ Edit the file ``/etc/default/keyboard``:
  XKBVARIANT="alt-intl
  XKBOPTIONS="ctrl:nocaps" # Some people prefer "ctrl:swapcaps"
 
-Make the changes take effect (on X Window) without rebooting:
+In order to make the changes take effect (on X Window) without rebooting:
 
 ``setxkbmap -option ctrl:nocaps``
