@@ -79,10 +79,10 @@ Uncomment the 'compress' entry and add the 'dateext' one in order to have the ro
 
 Edit the file ``/etc/default/keyboard``:  
 
- XKBMODEL="pc105"
- XKBLAYOUT="us"
- XKBVARIANT="alt-intl
- XKBOPTIONS="ctrl:nocaps" # Some people prefer "ctrl:swapcaps"
+        XKBMODEL="pc105"
+        XKBLAYOUT="us"
+        XKBVARIANT="alt-intl
+        XKBOPTIONS="ctrl:nocaps" # Some people prefer "ctrl:swapcaps"
 
 In order to make the changes take effect (on X Window) without rebooting:
 
