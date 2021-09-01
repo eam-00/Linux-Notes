@@ -92,7 +92,7 @@ Another option, on XFCE, would be to add an entry on:
 
 Settings > Session and Startup > Application Autostart > Add Application
 
-Name it whatever you like, same for the description and set the command to be:
+Name it whatever you like, same for the description, but be sure to set the command to be:
 
 ``/usr/bin/setxkbmap -option ctrl:nocaps``
 
