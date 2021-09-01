@@ -92,5 +92,7 @@ Another option, on XFCE, would be to add an entry on:
 
 Settings > Session and Startup > Application Autostart > Add Application
 
+Name in whatever, same for the description and set the command to be:
+
 
 
