@@ -94,5 +94,5 @@ Settings > Session and Startup > Application Autostart > Add Application
 
 Name in whatever, same for the description and set the command to be:
 
-
+``/usr/bin/setxkbmap -option ctrl:nocaps``
 
