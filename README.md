@@ -87,3 +87,5 @@ Edit the file ``/etc/default/keyboard``:
 In order for the changes to take effect (on X Window) without rebooting:
 
 ``setxkbmap -option ctrl:nocaps``
+
+Another option, on XFCE, would be to add an entry on:
