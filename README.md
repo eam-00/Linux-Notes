@@ -1,4 +1,4 @@
-**[Manjaro](linux-notes-manjaro)
+- [Manjaro](linux-notes-manjaro)
 
 
 **Manjaro**  
