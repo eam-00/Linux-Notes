@@ -1,3 +1,6 @@
+**[Manjaro](linux-notes-manjaro)
+
+
 **Manjaro**  
 *Some notes and tips that I found useful while setting up & running Manjaro.*
 
