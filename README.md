@@ -1,4 +1,4 @@
-- [Manjaro](linux-notes-manjaro)
+- [Manjaro](/Manjaro/linux-notes-manjaro.md)
 
 
 **Manjaro**  
