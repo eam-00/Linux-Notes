@@ -12,12 +12,7 @@
 
 
 
-- DOT bashrc aliases:
 
-        alias upgrade='sudo pacman -Syu'
-        alias remove_lock='sudo rm /var/lib/pacman/db.lck'
-        alias delete_cache='sudo pacman -Scc'
-        alias list_kernels='pacman -Q linux'
 
 - Remove stalled packages after the initial install:  
 ``sudo pacman -Rdd lib32-libcanberra lib32-libcanberra-gstreamer lib32-libcanberra-pulse libcanberra libcanberra-gstreamer libcanberra-pulse``  
