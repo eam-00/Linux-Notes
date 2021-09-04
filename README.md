@@ -10,8 +10,7 @@
 
 
 
-- Update and rank the mirrorlist by speed, up to 5 mirrors:  
-``sudo pacman-mirrors -f 5``
+
 
 - DOT bashrc aliases:
 
