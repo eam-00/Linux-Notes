@@ -47,3 +47,6 @@ Some notes and tips that I found useful while setting up & running Manjaro.
 - The extra "y" forces the package manager to download package database regardless of whether there is any change in the versions or not.  
 This is helpful when you have a corrupted package database and you want to force a synchronization:  
 ``sudo pacman -Syyu``
+
+- Update and rank the mirrorlist by speed, up to 5 mirrors:  
+``sudo pacman-mirrors -f 5``
