@@ -43,3 +43,7 @@ Some notes and tips that I found useful while setting up & running Manjaro.
         /dev/sda2       511M  424K  511M   1% /boot/efi
         tmpfs           392M   76K  392M   1% /run/user/1000
         [eam-00@mbw ~]$
+
+- The extra "y" forces the package manager to download package database regardless of whether there is any change in the versions or not.  
+This is helpful when you have a corrupted package database and you want to force a synchronization:  
+``sudo pacman -Syyu``
