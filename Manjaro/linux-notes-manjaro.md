@@ -58,3 +58,11 @@ This is helpful when you have a corrupted package database and you want to force
         alias delete_cache='sudo pacman -Scc'
         alias list_kernels='pacman -Q linux'
         
+- Remove stalled packages after the initial install:  
+``sudo pacman -Rdd lib32-libcanberra lib32-libcanberra-gstreamer lib32-libcanberra-pulse libcanberra libcanberra-gstreamer libcanberra-pulse``  
+
+- Enable SSH:  
+``sudo systemctl status sshd.service``  
+``sudo systemctl enable sshd.service``  
+``sudo systemctl start sshd.service``
+
