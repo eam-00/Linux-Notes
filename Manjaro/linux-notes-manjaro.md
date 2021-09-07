@@ -61,7 +61,7 @@ This is helpful when you have a corrupted package database and you want to force
 - Remove stalled packages after the initial install:  
 ``sudo pacman -Rdd lib32-libcanberra lib32-libcanberra-gstreamer lib32-libcanberra-pulse libcanberra libcanberra-gstreamer libcanberra-pulse``  
 
-- Enable SSH:  
+- Enable the SSH server:  
 ``sudo systemctl status sshd.service``  
 ``sudo systemctl enable sshd.service``  
 ``sudo systemctl start sshd.service``
