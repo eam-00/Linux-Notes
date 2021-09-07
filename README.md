@@ -1,4 +1,5 @@
 - [Manjaro](/Manjaro/linux-notes-manjaro.md)
+- [Keyboard Settings](/Keyboard/linux-notes-keyboard.md)
 
 
 **Manjaro**  
