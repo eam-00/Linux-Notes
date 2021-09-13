@@ -1,3 +1,17 @@
 # Keyboard Settings
 
 ## Make the CapsLock key work as another Ctrl key
+
+Edit the file ``/etc/default/keyboard``:  
+
+        XKBMODEL="pc105"
+        XKBLAYOUT="us"
+        XKBVARIANT="alt-intl
+        XKBOPTIONS="ctrl:nocaps" # Some people prefer "ctrl:swapcaps"
+
+In order for the changes to take effect (on X Window) without rebooting:
+
+``setxkbmap -option ctrl:nocaps``
+
+Another option, on XFCE, would be to add an entry on:
+
