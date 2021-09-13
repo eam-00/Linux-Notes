@@ -21,7 +21,7 @@ Name it whatever you like, same for the description, but be sure to set the comm
 
 ``/usr/bin/setxkbmap -option ctrl:nocaps``
 
-Make sure the trigger is set: **On Login**.
+Also, make sure the trigger is set to: **On Login**.
 
 
 ## Set the Page Back & Page Forward as PgUp & PgDown buttons
