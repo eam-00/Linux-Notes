@@ -25,3 +25,5 @@ Make sure the trigger is set: **On Login**.
 
 
 ## Set the Page Back & Page Forward as PgUp & PgDown buttons
+
+The "old" Thinkpad keyboards has a Page Back and Page Forward buttons right by the arrow keys,  
