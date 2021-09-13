@@ -21,4 +21,4 @@ Name it whatever you like, same for the description, but be sure to set the comm
 
 ``/usr/bin/setxkbmap -option ctrl:nocaps``
 
-Make sure the trigger is set: On Login.
+Make sure the trigger is set: **On Login**.
