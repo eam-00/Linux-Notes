@@ -30,3 +30,6 @@ The "old" Thinkpad keyboards has a Page Back and Page Forward buttons right by t
 I find those unbearable annoying and prone to cause disasters. 
 Issuing the following, as root or via sudo, turns those keys onto a Page Up and Page Down buttons:  
 
+``setkeycodes e049 159 e051 158 e069 109 e06a 104``
+
+
