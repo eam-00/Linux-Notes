@@ -34,4 +34,4 @@ Issuing the following, as root or via sudo, turns those keys onto a Page Up and 
 
 Add that entry onto root's crontab so it is executed everytime the box reboots, to avoid typing it, like this:  
 
-``@reboot setkeycodes e049 159 e051 158 e069 109 e06a 104``
+``@reboot /usr/bin/setkeycodes e049 159 e051 158 e069 109 e06a 104``
