@@ -22,3 +22,6 @@ Example output from the above command:
 ``Archived and active journals take up 1.5G in the file system.``
 
 * Clearing everything older than 30 days:
+
+``sudo journalctl --vacuum-time=30d``
+
