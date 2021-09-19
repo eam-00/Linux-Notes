@@ -13,7 +13,7 @@ The resulting file will be renamed, after logrotate excution, like this:
 
 ## Limit disk usage of /var/log/journal
 
-List disk usage:  
+* List disk usage:  
 
 ``sudo journalctl --disk-usage``
 
