@@ -12,3 +12,5 @@ syslog-20210909.gz
 
 ## Control your /var/log/journal
 
+Archived and active journals take up 1.5G in the file system.
+
