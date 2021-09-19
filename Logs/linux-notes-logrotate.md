@@ -16,5 +16,7 @@ List disk usage:
 
 ``sudo journalctl --disk-usage``
 
+Example output from the above command:  
+
 Archived and active journals take up 1.5G in the file system.
 
