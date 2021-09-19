@@ -10,7 +10,7 @@ Uncomment the 'compress' entry and add the 'dateext' one in order to have the ro
 
 syslog-20210909.gz
 
-## Control your /var/log/journal
+## Limit disk usage of /var/log/journal
 
 List disk usage:  
 
