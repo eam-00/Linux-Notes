@@ -25,3 +25,5 @@ Example output from the above command:
 
 ``sudo journalctl --vacuum-time=30d``
 
+* Keep only 2GB worth of logs, clearing everything that exceeds that limit:
+* 
