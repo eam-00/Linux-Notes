@@ -11,7 +11,7 @@ The resulting file will be renamed, after logrotate excution, like this:
 
 ``syslog-20210909.gz``
 
-Another example of logrotate.conf:  
+Another example snip from the logrotate.conf file:  
 
         /var/log/cisco.log {
                 weekly
