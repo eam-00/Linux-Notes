@@ -13,6 +13,8 @@ The resulting file will be renamed, after logrotate excution, like this:
 
 Another example of logrotate.conf:  
 
+/var/log/cisco.log {
+}
 
 
 ## Limit disk usage of /var/log/journal
