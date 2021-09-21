@@ -14,7 +14,7 @@ The resulting file will be renamed, after logrotate excution, like this:
 Another example of logrotate.conf:  
 
         /var/log/cisco.log {
-     weekly
+                weekly
      rotate 4
      notifempty
      copytruncate
