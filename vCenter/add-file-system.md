@@ -13,7 +13,11 @@ Use fdisk to create the disk partition table:
 
 ``fdisk /dev/sde``  
 
-Select the defaults
+Select the defaults and then:  
+
+``t``  
+``8e``  
+``w``
 
 pvcreate /dev/sde1
 vgextend vg01 /dev/sde1
