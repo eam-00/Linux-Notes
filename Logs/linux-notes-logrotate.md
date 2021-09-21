@@ -18,7 +18,7 @@ Another example of logrotate.conf:
                 rotate 4
                 notifempty
                 copytruncate
-}
+        }
 
 
 ## Limit disk usage of /var/log/journal
