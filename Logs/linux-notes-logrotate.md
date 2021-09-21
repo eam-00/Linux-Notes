@@ -11,6 +11,10 @@ The resulting file will be renamed, after logrotate excution, like this:
 
 ``syslog-20210909.gz``
 
+Another example of logrotate.conf:  
+
+
+
 ## Limit disk usage of /var/log/journal
 
 * List disk usage:  
