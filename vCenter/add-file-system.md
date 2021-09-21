@@ -19,8 +19,10 @@ Select the defaults and then:
 ``8e``  
 ``w``
 
-pvcreate /dev/sde1
-vgextend vg01 /dev/sde1
+pvcreate /dev/sde1  
+
+The LVM volume already exists, so use ``vgextend``
+``vgextend vg01 /dev/sde1``
 lvcreate -l 100%FREE -n lv_test vg01
 mkfs.xfs /dev/mapper/vg01-lv_test
 mkdir /opt/test
