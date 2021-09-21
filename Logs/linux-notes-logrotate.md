@@ -16,8 +16,8 @@ Another example of logrotate.conf:
         /var/log/cisco.log {
                 weekly
                 rotate 4
-     notifempty
-     copytruncate
+                notifempty
+                copytruncate
 }
 
 
