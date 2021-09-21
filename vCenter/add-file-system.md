@@ -10,4 +10,7 @@ pvcreate /dev/sde1
 vgextend vg01 /dev/sde1
 lvcreate -l 100%FREE -n lv_test vg01
 mkfs.xfs /dev/mapper/vg01-lv_test
+mkdir /opt/test
+vi /etc/fstab
+
 
