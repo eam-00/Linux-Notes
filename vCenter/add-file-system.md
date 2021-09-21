@@ -17,7 +17,10 @@ Select the defaults and then:
 
 ``t``  
 ``8e``  
-``w``
+``w``  
+
+And now there is a ``/dev/sde1``.  
+Use ``pvcreate`` to initialize the volume so it can be used by LVM.  
 
 pvcreate /dev/sde1  
 
