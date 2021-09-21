@@ -1,6 +1,10 @@
 # Add A File System
 
-- Add the new drive thur vCenter.  
+- Add the new drive thru vCenter:  
+Search for the sevrer on to add the drive  
+Right click on the server from the inventory  
+Select Edit Settings  
+Add New Device > Select > Hard Disk  
 - On the server run:
 
 ``ls /sys/class/scsi_host/ | while read host ; do echo "- - - " > /sys/class/scsi_host/$host/scan ; done``
