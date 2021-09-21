@@ -1,3 +1,8 @@
 # Add A File System
 
-ls /sys/class/scsi_host/ | while read host ; do echo "- - - " > /sys/class/scsi_host/scan ; done
+Add the new drive thur vCenter.  
+On the server run:
+
+``ls /sys/class/scsi_host/ | while read host ; do echo "- - - " > /sys/class/scsi_host/$host/scan ; done``
+
+
