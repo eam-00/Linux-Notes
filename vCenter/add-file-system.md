@@ -29,4 +29,5 @@ mkfs.xfs /dev/mapper/vg01-lv_test
 mkdir /opt/test
 vi /etc/fstab
 mount /dev/vg01/lv_test /opt/test
-
+umount /opt/test
+mount -a
