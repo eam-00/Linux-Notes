@@ -1,7 +1,7 @@
 # Add A File System
 
 - Add the new drive thru vCenter:  
-Search for the sevrer on to add the drive  
+Search for the server on which you are adding the drive  
 Right click on the server from the inventory  
 Select Edit Settings  
 Add New Device > Select > Hard Disk  
@@ -9,7 +9,10 @@ Add New Device > Select > Hard Disk
 
 ``ls /sys/class/scsi_host/ | while read host ; do echo "- - - " > /sys/class/scsi_host/$host/scan ; done``
 
-fdisk /dev/sde
+``fdisk /dev/sde``  
+
+Select 
+
 pvcreate /dev/sde1
 vgextend vg01 /dev/sde1
 lvcreate -l 100%FREE -n lv_test vg01
