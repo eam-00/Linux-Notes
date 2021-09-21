@@ -9,9 +9,11 @@ Add New Device > Select > Hard Disk
 
 ``ls /sys/class/scsi_host/ | while read host ; do echo "- - - " > /sys/class/scsi_host/$host/scan ; done``
 
+Use fdisk to create the disk partition table:  
+
 ``fdisk /dev/sde``  
 
-Select 
+Select the defaults
 
 pvcreate /dev/sde1
 vgextend vg01 /dev/sde1
