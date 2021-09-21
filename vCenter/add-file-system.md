@@ -28,5 +28,5 @@ lvcreate -l 100%FREE -n lv_test vg01
 mkfs.xfs /dev/mapper/vg01-lv_test
 mkdir /opt/test
 vi /etc/fstab
-
+mount /dev/vg01/lv_test /opt/test
 
