@@ -3,7 +3,7 @@
 
 Edit the file /etc/logrotate.conf:
 
-        compress
+        ccompress
         dateext
 
 Uncomment the 'compress' entry and add the 'dateext' one in order to have the rotated log files compresssed and the date of the rotation appended to the file name of the log.  
@@ -13,7 +13,7 @@ The resulting file will be renamed, after logrotate excution, like this:
 
 Another example of logrotate.conf:  
 
-/var/log/cisco.log {
+        /var/log/cisco.log {
      weekly
      rotate 4
      notifempty
