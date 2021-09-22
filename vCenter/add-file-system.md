@@ -50,13 +50,17 @@ Use ``pvs`` to show information about the physical volumes:
     /dev/sdd1   vg01    lvm2    a--     50.00g  0    
     /dev/sde1   vg01    lvm2    a--     16.00g  16.00g   
 
-
+The new drive doesn't have any disk space alloted yet, it shows the whole 16 GB as free.  
 The LVM volume already exists, so use ``vgextend`` otherwise use ``vgcreate``  
 
-``vgextend vg01 /dev/sde1``
+    [root@server ~]# vgextend vg01 /dev/sde1
+     Volume group "vg01" successfully extended
 
 ``lvcreate -l 100%FREE -n lv_test vg01``  
-mkfs.xfs /dev/mapper/vg01-lv_test
+
+Format the newly added drive:  
+
+``mkfs.xfs /dev/mapper/vg01-lv_test``
 mkdir /opt/test
 vi /etc/fstab
 mount /dev/vg01/lv_test /opt/test
