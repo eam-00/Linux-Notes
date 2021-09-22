@@ -70,6 +70,7 @@ Format the newly added drive:
     data     =                          bsize=4096  blocks=4193280, imaxpct=25
              =                          sunit=0     swidth=0 blks
     naming   =version 2                 bsize=4096  ascii-ci=0  ftype=0
+    log      =internal log              bsize=4096  blocks=2560,    version=2
 
 mkdir /opt/test
 vi /etc/fstab
