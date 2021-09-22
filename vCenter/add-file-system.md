@@ -1,4 +1,4 @@
-# Add A File System
+# Add A File System to LVM
 
 - Add the new drive thru vCenter:  
 1. Search for the server on which you are adding the drive  
@@ -27,7 +27,7 @@ pvcreate /dev/sde1
 The LVM volume already exists, so use ``vgextend`` otherwise use ``vgcreate``  
 ``vgextend vg01 /dev/sde1``
 
-lvcreate -l 100%FREE -n lv_test vg01
+``lvcreate -l 100%FREE -n lv_test vg01``  
 mkfs.xfs /dev/mapper/vg01-lv_test
 mkdir /opt/test
 vi /etc/fstab
