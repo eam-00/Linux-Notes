@@ -10,9 +10,10 @@
 
 ``ls /sys/class/scsi_host/ | while read host ; do echo "- - - " > /sys/class/scsi_host/$host/scan ; done``
 
-Use fdisk to create the disk partition table on the newly added disk:  
+In order to re-scan the drives, so you can avoid rebooting the virtual server to actually be able to see the newly added drive.  
+Use fdisk to create the disk partition table on the new disk:  
 
-``fdisk /dev/sde``  
+    fdisk /dev/sde
 
 Select the defaults:
 
@@ -63,8 +64,10 @@ Use ``lvcreate`` to create a logical volume in the already existing volume group
 Format the newly added drive:  
 
     [root@server ~]# mkfs.xfs /dev/mapper/vg01-lv_test
-    meta-data=/dev/mapper/vg01-lv_test isize=256
-             =
+    meta-data=/dev/mapper/vg01-lv_test isize=256    acount=4, agsize=1048320 blks
+             =                          sectsz=512  attr=2, projid32bit=1
+             =                          crc=0       finobt=0
+    data     =                          bsize=4096  blocks=4193280, imaxpct=25
 
 mkdir /opt/test
 vi /etc/fstab
