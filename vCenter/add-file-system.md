@@ -5,6 +5,7 @@
 2. Right click on the server from the inventory  
 3. Select Edit Settings  
 4. Add New Device > Select > Hard Disk  
+5. The new HDD will be of 16 GB of size
 - On the server run:
 
 ``ls /sys/class/scsi_host/ | while read host ; do echo "- - - " > /sys/class/scsi_host/$host/scan ; done``
@@ -24,15 +25,17 @@ Select the defaults:
     Partition number (1-4, default 1):
     First sector (2048-33554431, default 2048):
     Using default value 2048
-    Last sector, +sectors or +size{K,M,G}
+    Last sector, +sectors or +size{K,M,G} (2048-33554431, default 33554431):
+    Using default value 33554431
+    Partition 1 of type Linux and of size 16 GB is set
 
-and then:  
+and then issue:  
 
 ``t``  
 ``8e``  
 ``w``  
 
-And now there is a ``/dev/sde1``.  
+And now there is a ``/dev/sde1`` drive.  
 Use ``pvcreate`` to initialize the volume so it can be used by LVM.  
 
 pvcreate /dev/sde1  
