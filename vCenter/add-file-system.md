@@ -9,11 +9,19 @@
 
 ``ls /sys/class/scsi_host/ | while read host ; do echo "- - - " > /sys/class/scsi_host/$host/scan ; done``
 
-Use fdisk to create the disk partition table:  
+Use fdisk to create the disk partition table on the newly added disk:  
 
 ``fdisk /dev/sde``  
 
-Select the defaults and then:  
+Select the defaults:
+
+Command (m for help): n
+Partition type:
+  p  primary (0 primary, 0 extended, 4 free)
+  e  extended
+Select 
+
+and then:  
 
 ``t``  
 ``8e``  
