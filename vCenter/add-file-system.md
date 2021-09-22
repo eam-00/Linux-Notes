@@ -56,11 +56,16 @@ The LVM volume already exists, so use ``vgextend`` otherwise use ``vgcreate``
     [root@server ~]# vgextend vg01 /dev/sde1
      Volume group "vg01" successfully extended
 
+Use ``lvcreate`` to create a logical volume in the already existing volume group:  
+
 ``lvcreate -l 100%FREE -n lv_test vg01``  
 
 Format the newly added drive:  
 
-``mkfs.xfs /dev/mapper/vg01-lv_test``
+    [root@server ~]# mkfs.xfs /dev/mapper/vg01-lv_test
+    meta-data=/dev/mapper/vg01-lv_test isize=256
+             =
+
 mkdir /opt/test
 vi /etc/fstab
 mount /dev/vg01/lv_test /opt/test
