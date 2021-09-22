@@ -41,11 +41,14 @@ Use ``pvcreate`` to initialize the volume so it can be used by LVM.
 ``pvcreate /dev/sde1``  
 
 Use ``pvs`` to show information about the physical volumes:  
+
     [root@server ~]# pvs
     PV          VG      Fmt     Attr    PSize   Pfree
     /dev/sda2   rhel    lvm2    a--     39.51g  0
+    /dev/sdb1   vg01    lvm2    a--     10.00g  0
+    /dev/sdc1   vg01    lvm2    a--     200.00g 0    
+    /dev/sdd1   vg01    lvm2    a--      50.00g 0    
     
-
 The LVM volume already exists, so use ``vgextend`` otherwise use ``vgcreate``  
 ``vgextend vg01 /dev/sde1``
 
