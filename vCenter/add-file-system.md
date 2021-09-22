@@ -21,7 +21,8 @@ Partition type:
   e  extended
 Select (default p):
 Using default response p
-
+Partition number (1-4, default 1):
+First sector (2048-33554431, default 2048):
 
 and then:  
 
