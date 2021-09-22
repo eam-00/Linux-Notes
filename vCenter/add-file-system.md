@@ -15,9 +15,9 @@ Use fdisk to create the disk partition table on the newly added disk:
 
 Select the defaults:
 
-Command (m for help): n
-Partition type:
-  p  primary (0 primary, 0 extended, 4 free)
+    Command (m for help): n
+    Partition type:
+      p  primary (0 primary, 0 extended, 4 free)
   e  extended
 Select (default p):
 Using default response p
