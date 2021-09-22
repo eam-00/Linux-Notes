@@ -24,7 +24,7 @@ Using default response p
 Partition number (1-4, default 1):
 First sector (2048-33554431, default 2048):
 Using default value 2048
-Last sector, +sectors or +size
+Last sector, +sectors or +size{K,M,G}
 
 and then:  
 
