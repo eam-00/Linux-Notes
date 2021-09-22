@@ -71,6 +71,7 @@ Format the newly added drive:
              =                          sunit=0     swidth=0 blks
     naming   =version 2                 bsize=4096  ascii-ci=0  ftype=0
     log      =internal log              bsize=4096  blocks=2560,    version=2
+             =                          sectsz=512  sunit=0 blks,   lazy-count=1
 
 mkdir /opt/test
 vi /etc/fstab
