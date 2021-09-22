@@ -38,7 +38,13 @@ and then issue:
 And now there is a ``/dev/sde1`` drive.  
 Use ``pvcreate`` to initialize the volume so it can be used by LVM.  
 
-pvcreate /dev/sde1  
+``pvcreate /dev/sde1``  
+
+Use ``pvs`` to show information about the physical volumes:  
+    [root@server ~]# pvs
+    PV          VG      Fmt     Attr    PSize   Pfree
+    /dev/sda2   rhel    lvm2    a--     39.51g  0
+    
 
 The LVM volume already exists, so use ``vgextend`` otherwise use ``vgcreate``  
 ``vgextend vg01 /dev/sde1``
