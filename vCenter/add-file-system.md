@@ -46,10 +46,13 @@ Use ``pvs`` to show information about the physical volumes:
     PV          VG      Fmt     Attr    PSize   Pfree
     /dev/sda2   rhel    lvm2    a--     39.51g  0
     /dev/sdb1   vg01    lvm2    a--     10.00g  0
-    /dev/sdc1   vg01    lvm2    a--     200.00g 0    
-    /dev/sdd1   vg01    lvm2    a--      50.00g 0    
-    
+    /dev/sdc1   vg01    lvm2    a--    200.00g  0    
+    /dev/sdd1   vg01    lvm2    a--     50.00g  0    
+    /dev/sde1   vg01    lvm2    a--     16.00g  16.00g   
+
+
 The LVM volume already exists, so use ``vgextend`` otherwise use ``vgcreate``  
+
 ``vgextend vg01 /dev/sde1``
 
 ``lvcreate -l 100%FREE -n lv_test vg01``  
