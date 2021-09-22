@@ -19,7 +19,9 @@ Command (m for help): n
 Partition type:
   p  primary (0 primary, 0 extended, 4 free)
   e  extended
-Select 
+Select (default p):
+Using default response p
+
 
 and then:  
 
