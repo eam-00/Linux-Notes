@@ -68,6 +68,8 @@ Format the newly added drive:
              =                          sectsz=512  attr=2, projid32bit=1
              =                          crc=0       finobt=0
     data     =                          bsize=4096  blocks=4193280, imaxpct=25
+             =                          sunit=0     swidth=0 blks
+    naming   =version 2                 bsize=4096  ascii-ci=0  ftype=0
 
 mkdir /opt/test
 vi /etc/fstab
