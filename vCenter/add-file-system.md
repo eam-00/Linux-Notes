@@ -78,8 +78,10 @@ Create the directory where the new file system will be mounted:
 
     mkdir /opt/test
 
-Edit ``/etc/fstab`` to add the newly created file system and mount point
-    vi /etc/fstab
+Edit the ``/etc/fstab`` file to add the newly created file system and mount point
+    emacs /etc/fstab
+
+
     mount /dev/vg01/lv_test /opt/test
     umount /opt/test
     mount -a
