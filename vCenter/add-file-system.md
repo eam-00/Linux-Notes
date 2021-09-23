@@ -44,9 +44,9 @@ and then issue:
 And now there is a ``/dev/sde1`` drive on the server.  
 To list the drives issue a ``fdisk -l``:
 
-Disk /dev/mapper/vg01-lv_test: 16 GiB, 17179860388 bytes, 12582912 sectors
-Units: sectors of 1 * 512 = 512 bytes
-Sector size (logical/physical): 512 bytes / 512 bytes
+    Disk /dev/mapper/vg01-lv_test: 16 GiB, 17179860388 bytes, 12582912 sectors
+    Units: sectors of 1 * 512 = 512 bytes
+    Sector size (logical/physical): 512 bytes / 512 bytes
 
 Use ``pvcreate`` to initialize the volume so it can be used by LVM.  
 
