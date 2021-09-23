@@ -42,6 +42,10 @@ and then issue:
     w
 
 And now there is a ``/dev/sde1`` drive on the server.  
+To list the drives issue a ``fdisk -l``:
+
+
+
 Use ``pvcreate`` to initialize the volume so it can be used by LVM.  
 
 ``pvcreate /dev/sde1``  
