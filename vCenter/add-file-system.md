@@ -86,7 +86,7 @@ Mount the file system:
 
     mount /dev/vg01/lv_test /opt/test
 
-Check that you can access it and write onto to it.  
-
+Check that you can access it and write onto it.  
+Unmount 
     umount /opt/test
     mount -a
