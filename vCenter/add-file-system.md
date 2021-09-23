@@ -91,6 +91,8 @@ Unmount it and -if you can- reboot the server to test the automount of the diffe
 
     umount /opt/test
 
-If you can't reboot the server, issue:
+If you can't reboot the server, issue a:
 
     mount -a
+
+To test if the mount goes smooth.
