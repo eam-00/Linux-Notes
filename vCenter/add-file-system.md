@@ -78,7 +78,8 @@ Create the directory where the new file system will be mounted:
 
     mkdir /opt/test
 
-Edit the ``/etc/fstab`` file to add the newly created file system and mount point
+Edit the ``/etc/fstab`` file to add the newly created file system and mount point  
+
     emacs /etc/fstab
 
 
