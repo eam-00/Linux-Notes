@@ -78,7 +78,7 @@ Create the directory where the new file system will be mounted:
 
     mkdir /opt/test
 
-vi /etc/fstab
-mount /dev/vg01/lv_test /opt/test
-umount /opt/test
-mount -a
+    vi /etc/fstab
+    mount /dev/vg01/lv_test /opt/test
+    umount /opt/test
+    mount -a
