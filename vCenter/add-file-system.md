@@ -74,7 +74,10 @@ Format the newly added drive:
              =                          sectsz=512  sunit=0 blks,   lazy-count=1
     realtime =none                      extsz=4096  blocks=0, rtextents=0
 
-mkdir /opt/test
+Create the directory where the new file system will be mounted:
+
+    mkdir /opt/test
+
 vi /etc/fstab
 mount /dev/vg01/lv_test /opt/test
 umount /opt/test
