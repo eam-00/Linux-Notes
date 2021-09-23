@@ -82,7 +82,11 @@ Edit the ``/etc/fstab`` file to add the newly created file system and mount poin
 
     emacs /etc/fstab
 
+Mount the file system:  
 
     mount /dev/vg01/lv_test /opt/test
+
+Check that you can access it and write onto to it.  
+
     umount /opt/test
     mount -a
