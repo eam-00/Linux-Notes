@@ -3,7 +3,7 @@
 - Add the new drive thru vCenter:  
 1. Search for the server on which you are adding the drive  
 2. Right click on the server from the inventory  
-3. Select Edit Settings  
+3. Select "*Edit Settings*"  
 4. Add New Device > Select > Hard Disk  
 5. The new HDD will be of 16 GB of size
 - On the server run:
@@ -32,11 +32,11 @@ Select the defaults:
 
 and then issue:  
 
-``t``  
-``8e``  
-``w``  
+    t 
+    8e
+    w
 
-And now there is a ``/dev/sde1`` drive.  
+And now there is a ``/dev/sde1`` drive on the server.  
 Use ``pvcreate`` to initialize the volume so it can be used by LVM.  
 
 ``pvcreate /dev/sde1``  
