@@ -87,7 +87,10 @@ Mount the file system:
     mount /dev/vg01/lv_test /opt/test
 
 Check that you can access it and write onto it.  
-Unmount it and if you can reboot the server to test the automount of the different file systems.
+Unmount it and -if you can- reboot the server to test the automount of the different file systems.
 
     umount /opt/test
+
+If you can't reboot the server, issue:
+
     mount -a
