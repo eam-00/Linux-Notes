@@ -41,7 +41,8 @@ This works for the keyboards of Thinkpads like the T43, T60, X220, T410, T420.
 ## Emacs Keybinds on XFCE
 
 Launch XFCE's "Settings Edditor".  
-Select  the Channel "xsettings" and then the Property "KeyThemeName".
+Select  the Channel "xsettings" and then the Property "KeyThemeName".  
+Add the value to the string Emacs.  
 
 
 
