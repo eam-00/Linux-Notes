@@ -45,4 +45,5 @@ Select  the Channel "xsettings" and then the Property "KeyThemeName".
 Add the value to the string "Emacs" (without quotes).  
 That's it you are done.
 
+![XFCE Settings Editor](Pics/Screenshot_2021-09-24_20-01-20.jpg)
 
