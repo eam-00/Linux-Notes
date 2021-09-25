@@ -50,3 +50,5 @@ Use "String" as Type, just like in the screenshot below:
 
 ![XFCE Settings Editor](Pics/Screenshot_2021-09-24_20-01-20.jpg)
 
+Be aware that not all of Emacs keybinds will work and certainly the ones that will work won't work on the whole system, but it is nice to be able to type Ctrl + E and Ctrl + A now and then to go there fast.
+
