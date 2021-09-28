@@ -23,6 +23,7 @@ Name it whatever you like, same for the description, but be sure to set the comm
 
 Also, make sure the trigger is set to: **On Login**.
 
+![XFCE Sessino and Startup](Pics/rsz_screenshot_2021-09-27_21-40-54.jpg)
 
 ## Set the Page Back & Page Forward as PgUp & PgDown buttons
 
