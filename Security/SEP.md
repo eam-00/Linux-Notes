@@ -8,5 +8,6 @@
     - Output:  
 ``14.3 (14.3 XXX) build XXXX (XX.X.XXXX.XXXX)``
 
-
+- List status:  
+``/opt/Symantec/symantec_antivirus/sav info -a``
 
