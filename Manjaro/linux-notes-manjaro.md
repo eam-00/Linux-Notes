@@ -51,7 +51,7 @@ This is helpful when you have a corrupted package database and you want to force
 - Update and rank the mirrorlist by speed, up to 5 mirrors:  
 ``sudo pacman-mirrors -f 5``
 
-- DOT bashrc aliases:
+- DOT bashrc aliases that are Manjaro specific:
 
         alias upgrade='sudo pacman -Syu'
         alias remove_lock='sudo rm /var/lib/pacman/db.lck'
