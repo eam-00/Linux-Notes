@@ -6,5 +6,7 @@
 ``/opt/Symantec/symantec_antivirus/sav info -p``
 
 Output:  
-14.3 (14.3 XXX) build XXXX (XX.X.XXXX.XXXX)
+``14.3 (14.3 XXX) build XXXX (XX.X.XXXX.XXXX)``
+
+
 
