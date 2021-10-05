@@ -5,7 +5,7 @@
 - Check version of the installed client:  
 ``/opt/Symantec/symantec_antivirus/sav info -p``
 
-    -- Output:  
+    - Output:  
 ``14.3 (14.3 XXX) build XXXX (XX.X.XXXX.XXXX)``
 
 
