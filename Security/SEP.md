@@ -11,3 +11,5 @@
 - List status:  
 ``/opt/Symantec/symantec_antivirus/sav info -a``
 
+    - Output:
+ 
