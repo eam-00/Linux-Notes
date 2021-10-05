@@ -12,4 +12,5 @@
 ``/opt/Symantec/symantec_antivirus/sav info -a``
 
     - Output:
- 
+ ``Enabled``
+
