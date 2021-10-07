@@ -1,7 +1,7 @@
 # Logs
 ## Logrotate
 
-Edit the file /etc/logrotate.conf:
+Edit the file ``/etc/logrotate.conf``:
 
         ccompress
         dateext
