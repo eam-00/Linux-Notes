@@ -109,4 +109,4 @@ If you can't reboot the server, issue a:
 
     mount -a
 
-To test if the mount goes smooth.
+To test if the mount, getting the info from the /etc/fstab file, goes smooth.
