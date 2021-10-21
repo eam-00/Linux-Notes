@@ -15,6 +15,7 @@
  ``Enabled``
 
 - Update Virus Definitions:  
+``/opt/Symantec/symantec_antivirus/sav liveupdate -u``
 
 - Run a scan:  
 ``/opt/Symantec/symantec_antivirus/sav manualscan -s /var``
