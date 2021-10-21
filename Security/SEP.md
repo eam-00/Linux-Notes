@@ -14,3 +14,8 @@
     - Output:
  ``Enabled``
 
+- For the newest SEP release:  
+   cd /usr/lib/symantec/
+   ./status.sh
+   
+   
