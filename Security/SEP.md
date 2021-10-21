@@ -14,6 +14,8 @@
     - Output:
  ``Enabled``
 
+- Update Virus Definitions:  
+
 - Run a scan:  
 ``/opt/Symantec/symantec_antivirus/sav manualscan -s /var``
 
