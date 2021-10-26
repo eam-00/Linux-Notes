@@ -21,7 +21,8 @@
 - List Update Status:  
 ``/opt/Symantec/symantec_antivirus/sav liveupdate -v``
 
-   - Output:
+   - Output:  
+    Frquency:                       Hourly
 
 - Run a scan:  
 ``/opt/Symantec/symantec_antivirus/sav manualscan -s /var``
