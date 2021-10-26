@@ -29,7 +29,7 @@
 - Run a scan:  
 ``/opt/Symantec/symantec_antivirus/sav manualscan -s /var``
 
-- For the newest SEP release:  
+- List status (For the newest SEP release):  
 ``cd /usr/lib/symantec/``  
 And issue:   
 ``./status.sh``
