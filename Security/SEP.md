@@ -23,7 +23,7 @@
 
    - Output:  
  
-    Frequency:                       Hourly
+        Frequency:                       Hourly
 
 - Run a scan:  
 ``/opt/Symantec/symantec_antivirus/sav manualscan -s /var``
