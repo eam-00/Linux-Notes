@@ -22,7 +22,8 @@
 ``/opt/Symantec/symantec_antivirus/sav liveupdate -v``
 
    - Output:  
-    Frquency:                       Hourly
+ 
+    Frequency:                       Hourly
 
 - Run a scan:  
 ``/opt/Symantec/symantec_antivirus/sav manualscan -s /var``
