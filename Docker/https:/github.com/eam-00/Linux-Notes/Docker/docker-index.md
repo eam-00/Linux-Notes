@@ -2,6 +2,8 @@
 # Docker
 
 * Remove
-S
+Stop first:  
 docker stop mydockerimage
+
+
 docker rm mydockerimage
