@@ -3,7 +3,7 @@
 
 * Remove  
 Stop first:  
-docker stop mydockerimage
+    docker stop mydockerimage
 
 
 docker rm mydockerimage
