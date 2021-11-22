@@ -10,4 +10,5 @@ First stop it:
 
 Then remove it:
 
-docker rm mydockerimage
+        docker rm mydockerimage
+
