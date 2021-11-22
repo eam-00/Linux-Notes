@@ -1,8 +1,9 @@
 
 # Docker
 
-Some random Docker notes...
+_Some random Docker notes..._
 
+## What is it:
 
 Difference between image & container:  
 * Image is a logical entity.
