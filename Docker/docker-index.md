@@ -21,3 +21,4 @@ Then remove it:
         docker rm mydockerimage
 
 ## Links
+* [7 Cases When You Should Not Use Docker](https://www.freecodecamp.org/news/7-cases-when-not-to-use-docker/)
