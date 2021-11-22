@@ -4,7 +4,8 @@
 Some random Docker notes...
 
 * Remove  
-Stop first:  
+First stop it:  
+
         docker stop mydockerimage
 
 
