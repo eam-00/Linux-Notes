@@ -23,5 +23,7 @@ Then remove the image:
 Apps running for long periods of time eventually transition to a broken state, there is no recovery other than restart.  
 Kubernetes provides liveness probes to detect and remedy such situations.
 
+Create the file "livenessprobe.yaml":
+
 ## Links
 * [7 Cases When You Should Not Use Docker](https://www.freecodecamp.org/news/7-cases-when-not-to-use-docker/)
