@@ -19,6 +19,7 @@ Then remove the image:
 
         docker rm mydockerimage
 
+## Liveness Probe
 
 ## Links
 * [7 Cases When You Should Not Use Docker](https://www.freecodecamp.org/news/7-cases-when-not-to-use-docker/)
