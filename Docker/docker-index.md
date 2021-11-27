@@ -25,11 +25,11 @@ Kubernetes provides liveness probes to detect and remedy such situations.
 
 Create the file "livenessprobe.yaml":
 
-apiVersion: v1
-kind: Pod
-metadata:
-  name: liveness
-spec:
+        apiVersion: v1
+        kind: Pod
+        metadata:
+          name: liveness
+        spec:
   containers:
   - name: liveness
     image: ubuntu
