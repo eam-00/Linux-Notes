@@ -25,5 +25,24 @@ Kubernetes provides liveness probes to detect and remedy such situations.
 
 Create the file "livenessprobe.yaml":
 
+apiVersion: v1
+kind: Pod
+metadata:
+  name: liveness
+spec:
+  containers:
+  - name: liveness
+    image: ubuntu
+    tty: true
+    livenessProbe:
+      exec:
+	command:
+	- service
+        - nginx
+	- status
+      initialDelaySeconds: 20
+      periodSeconds: 5
+
+
 ## Links
 * [7 Cases When You Should Not Use Docker](https://www.freecodecamp.org/news/7-cases-when-not-to-use-docker/)
