@@ -19,7 +19,9 @@ Then remove the image:
 
         docker rm mydockerimage
 
-## Liveness Probe
+## Liveness Probe  
+Apps running for long periods of time eventually transition to a broken state, there is no recovery other than restart.  
+Kubernetes provides liveness probes to detect and remedy such situations.
 
 ## Links
 * [7 Cases When You Should Not Use Docker](https://www.freecodecamp.org/news/7-cases-when-not-to-use-docker/)
