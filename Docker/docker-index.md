@@ -23,6 +23,9 @@ Then remove the image:
 ## Kubernetes Networking Model
 Kubernetes was built to run on distributed systems where there can be hundreds of worker nodes in which Pods would be running.
 
+1. Pods on a node can communicate with all Pods on all nodes w/o NAT.
+
+
 ## Liveness Probe  
 Apps running for long periods of time eventually transition to a broken state, there is no recovery other than restart.  
 Kubernetes provides liveness probes to detect and remedy such situations.
