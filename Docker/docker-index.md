@@ -20,7 +20,7 @@ Then remove the image:
 
         docker rm mydockerimage
 
-## K8s Networking Model
+## Kubernetes Networking Model
 Kubernetes was built to run on distributed systems where there can be hundreds of worker nodes in which Pods would be running.
 
 ## Liveness Probe  
