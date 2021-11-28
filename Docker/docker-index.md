@@ -24,7 +24,8 @@ Then remove the image:
 Kubernetes was built to run on distributed systems where there can be hundreds of worker nodes in which Pods would be running.
 
 1. Pods on a node can communicate with all Pods on all nodes w/o NAT.
-
+2. All Nodes can communicate with all Pods w/o NAT.
+3. The IP that a Pod sees itself as its own is the same IP that others Pod see their own.
 
 ## Liveness Probe  
 Apps running for long periods of time eventually transition to a broken state, there is no recovery other than restart.  
