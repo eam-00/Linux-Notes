@@ -1,6 +1,6 @@
 # Docker
 
-_Some random Docker notes..._
+_My Docker notes..._
 
 ## What is it:
 Docker is an open source platform for building, deploying, and managing containerized applications.
