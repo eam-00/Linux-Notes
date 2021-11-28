@@ -21,7 +21,8 @@ Then remove the image:
         docker rm mydockerimage
 
 ## Build
-On the directory where the Dockerfile is located:  
+On the directory where the Dockerfile is located:
+
         docker build .
 
 ## Kubernetes Networking Model
