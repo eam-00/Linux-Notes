@@ -27,6 +27,15 @@ Kubernetes was built to run on distributed systems where there can be hundreds o
 2. All Nodes can communicate with all Pods w/o NAT.
 3. The IP that a Pod sees itself as its own is the same IP that others Pod see their own.
 
+Four different networking challenges:
+
+1. Container-to-Container Networking
+2. Pod-to-Pod Networking
+3. Pod-to-Service Networking
+4. Internet-to-Service Networking
+
+
+
 ## Liveness Probe  
 Apps running for long periods of time eventually transition to a broken state, there is no recovery other than restart.  
 Kubernetes provides liveness probes to detect and remedy such situations.
