@@ -21,6 +21,7 @@ Then remove the image:
         docker rm mydockerimage
 
 ## K8s Networking Model
+Kubernetes was built to run on distributed systems where there can be hundreds of worker nodes in which Pods would be running.
 
 ## Liveness Probe  
 Apps running for long periods of time eventually transition to a broken state, there is no recovery other than restart.  
