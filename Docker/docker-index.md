@@ -34,7 +34,10 @@ Four different networking challenges:
 3. Pod-to-Service Networking
 4. Internet-to-Service Networking
 
-
+**1- Container-to-Container Networking:**
+Primarly happens inside a Pod.  
+Pods can contain a group of containers with the same IP address.  
+Communication between container inside Pods happens via localhost.  
 
 ## Liveness Probe  
 Apps running for long periods of time eventually transition to a broken state, there is no recovery other than restart.  
