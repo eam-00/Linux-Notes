@@ -15,9 +15,12 @@ The image is created once, while the container can be created many times using a
 First stop it:
 
         docker stop mydockerimage
+
 Then remove the image:
 
         docker rm mydockerimage
+
+## K8s Networking Model
 
 ## Liveness Probe  
 Apps running for long periods of time eventually transition to a broken state, there is no recovery other than restart.  
