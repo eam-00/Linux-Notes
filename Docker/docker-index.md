@@ -63,7 +63,7 @@ Create the file "livenessprobe.yaml":
               exec:
         	command:
         	- service
-                - nginx
+        	- nginx
         	- status
       initialDelaySeconds: 20
       periodSeconds: 5
