@@ -61,10 +61,10 @@ Create the file "livenessprobe.yaml":
             tty: true
             livenessProbe:
               exec:
-	command:
-	- service
-        - nginx
-	- status
+        	command:
+        	- service
+                - nginx
+        	- status
       initialDelaySeconds: 20
       periodSeconds: 5
 
