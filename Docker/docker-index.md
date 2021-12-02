@@ -48,7 +48,7 @@ Communication between container inside Pods happens via localhost.
 Apps running for long periods of time eventually transition to a broken state, there is no recovery other than restart.  
 Kubernetes provides liveness probes to detect and remedy such situations.
 
-Create the file "livenessprobe.yaml":
+Create the file "**livenessprobe.yaml**":
 
         apiVersion: v1
         kind: Pod
