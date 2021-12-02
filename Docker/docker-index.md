@@ -58,9 +58,9 @@ Create the file "livenessprobe.yaml":
           containers:
           - name: liveness
             image: ubuntu
-    tty: true
-    livenessProbe:
-      exec:
+            tty: true
+            livenessProbe:
+              exec:
 	command:
 	- service
         - nginx
