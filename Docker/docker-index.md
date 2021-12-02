@@ -44,6 +44,8 @@ Primarly happens inside a Pod.
 Pods can contain a group of containers with the same IP address.  
 Communication between container inside Pods happens via localhost.  
 
+**2- Pod-to-Pod Networking:**
+
 ## Liveness Probe  
 Apps running for long periods of time eventually transition to a broken state, there is no recovery other than restart.  
 Kubernetes provides liveness probes to detect and remedy such situations.
