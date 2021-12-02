@@ -65,8 +65,8 @@ Create the file "livenessprobe.yaml":
         	- service
         	- nginx
         	- status
-      initialDelaySeconds: 20
-      periodSeconds: 5
+              initialDelaySeconds: 20
+              periodSeconds: 5
 
 
 ## Links
