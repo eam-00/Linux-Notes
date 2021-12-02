@@ -55,9 +55,9 @@ Create the file "livenessprobe.yaml":
         metadata:
           name: liveness
         spec:
-  containers:
-  - name: liveness
-    image: ubuntu
+          containers:
+          - name: liveness
+            image: ubuntu
     tty: true
     livenessProbe:
       exec:
