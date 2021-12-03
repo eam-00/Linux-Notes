@@ -48,6 +48,8 @@ Communication between container inside Pods happens via localhost.
 Bridge to connect the different Pods.
 
 **3- Pod-to-Service Networking:**  
+Kubernetes Services can act as an abstraction which can provide a single IP address and DNS thru which can be accessed.  
+Endpoints tracks the IP address of the objects that service can send traffic to.
 
 ## Liveness Probe  
 Apps running for long periods of time eventually transition to a broken state, there is no recovery other than restart.  
