@@ -34,6 +34,8 @@ Example:
 
 Dockerfile commands:  
 
+COPY  
+Copies files that are locally on the build dir
 
 ## Build
 On the directory where the Dockerfile is located:
