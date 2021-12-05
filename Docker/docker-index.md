@@ -20,6 +20,8 @@ Then remove the image:
 
         docker rm mydockerimage
 
+## Dockerfile
+
 ## Build
 On the directory where the Dockerfile is located:
 
