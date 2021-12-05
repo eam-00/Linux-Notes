@@ -21,6 +21,7 @@ Then remove the image:
         docker rm mydockerimage
 
 ## Dockerfile
+A Dockerfile is a text document that contains all the commands a user could call on the command line to assemble an image.
 
 ## Build
 On the directory where the Dockerfile is located:
