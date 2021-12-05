@@ -23,6 +23,14 @@ Then remove the image:
 ## Dockerfile
 A Dockerfile is a text document that contains all the commands a user could call on the command line to assemble an image.
 
+Example:                                                                                                                                                       
+        # This is a comment                                                                                                                     
+        FROM ubuntu
+        RUN apt-get update                                                                                                                                     
+        RUN apt-get install -y nginx                                                                                                                           
+        COPY index.nginx-debian.html /var/www/html/                                                                                                            
+        CMD nginx -g 'daemon off;'
+
 ## Build
 On the directory where the Dockerfile is located:
 
