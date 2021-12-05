@@ -32,6 +32,9 @@ Example:
         COPY index.nginx-debian.html /var/www/html/
         CMD nginx -g 'daemon off;'
 
+Dockerfile commands:  
+
+
 ## Build
 On the directory where the Dockerfile is located:
 
