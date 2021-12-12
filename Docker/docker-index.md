@@ -48,6 +48,8 @@ The HEALTHCHECK instruction tells Docker how to test a container to check that i
 **ENTRYPOINT**  
 Like RUN but with options.
 
+**WORKDIR**  
+Multiple directories, nested, when the container starts, you are on that directory.
 
 ## Build
 On the directory where the Dockerfile is located:
