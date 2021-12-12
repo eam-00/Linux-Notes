@@ -41,6 +41,8 @@ Copies files that are locally on the build directory.
 Downloads files (but it is better to use curl) from internet.  
 Untars files that are locally on the build directory.
 
+**HEALTHCHECK**  
+
 ## Build
 On the directory where the Dockerfile is located:
 
