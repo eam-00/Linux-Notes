@@ -42,7 +42,8 @@ Downloads files (but it is better to use curl) from internet.
 Untars files that are locally on the build directory.
 
 **HEALTHCHECK**  
-This directive tells Docker how to determine if the state of the container is normal.
+This directive tells Docker how to determine if the state of the container is normal.  
+The HEALTHCHECK instruction tells Docker how to test a container to check that it is still working.
 
 ## Build
 On the directory where the Dockerfile is located:
