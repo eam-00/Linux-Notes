@@ -34,8 +34,11 @@ Example:
 
 Dockerfile commands:  
 
-COPY  
-Copies files that are locally on the build dir
+**COPY**  
+Copies files that are locally on the build directory.
+
+**ADD**  
+Downloads files (but it is better to use curl) from internet
 
 ## Build
 On the directory where the Dockerfile is located:
