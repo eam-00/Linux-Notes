@@ -45,6 +45,10 @@ Untars files that are locally on the build directory.
 This directive tells Docker how to determine if the state of the container is normal.  
 The HEALTHCHECK instruction tells Docker how to test a container to check that it is still working.
 
+**ENTRYPOINT**  
+Like RUN but with options.
+
+
 ## Build
 On the directory where the Dockerfile is located:
 
