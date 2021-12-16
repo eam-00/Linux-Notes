@@ -63,6 +63,10 @@ To list images:
 
        docker images
 
+To list images, you can also:
+
+       
+
 ## Kubernetes Networking Model
 Kubernetes was built to run on distributed systems where there can be hundreds of worker nodes in which Pods would be running.
 
