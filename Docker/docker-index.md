@@ -51,6 +51,9 @@ Like RUN but with options.
 **WORKDIR**  
 Multiple directories, nested, when the container starts, you are on that directory.
 
+**ENV**  
+Sets a environment variable.
+
 ## Build
 On the directory where the Dockerfile is located:
 
