@@ -55,7 +55,7 @@ Multiple directories, nested, when the container starts, you are on that directo
 Sets a environment variable.
 
 ## Build
-On the directory where the Dockerfile is located:
+To build an image on the directory where the Dockerfile is located:
 
         docker build .
 
