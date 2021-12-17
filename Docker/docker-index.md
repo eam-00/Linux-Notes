@@ -81,6 +81,10 @@ To get (download) an image from the internet:
 
         docker image pull splunk/splunk
 
+To get information from an image:
+
+
+
 ## Kubernetes Networking Model
 Kubernetes was built to run on distributed systems where there can be hundreds of worker nodes in which Pods would be running.
 
