@@ -89,6 +89,10 @@ To get specific information from the image:
 
         docker image inspect ubuntu --format='{{.ContainerConfig.Hostname}}'
 
+To clean (delete) unused images:
+
+
+
 ## Kubernetes Networking Model
 Kubernetes was built to run on distributed systems where there can be hundreds of worker nodes in which Pods would be running.
 
