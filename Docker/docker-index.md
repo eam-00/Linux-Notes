@@ -75,6 +75,8 @@ Where: **NAME** will be under **REPOSITORY** and **TAG** under **TAG** (doh!), f
 
 To rename an image, if the image already exists:
 
+        docker tag "IMAGE ID" NAME:TAG
+
 
 ## Kubernetes Networking Model
 Kubernetes was built to run on distributed systems where there can be hundreds of worker nodes in which Pods would be running.
