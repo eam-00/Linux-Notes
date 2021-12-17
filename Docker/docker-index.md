@@ -83,6 +83,7 @@ To get (download) an image from the internet:
 
 To get information from an image:
 
+        docker image inspect ubuntu
 
 To get specific information from the image:
 
