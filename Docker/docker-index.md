@@ -71,7 +71,10 @@ To tag images:
 
        docker build -t NAME:TAG
 
-Where: **NAME** will be under **REPOSITORY** and **TAG** under **TAG** (doh!), for example a TAG might be: "v.1"
+Where: **NAME** will be under **REPOSITORY** and **TAG** under **TAG** (doh!), for example a TAG might be: "v.1".
+
+To rename an image, if the image already exists:
+
 
 ## Kubernetes Networking Model
 Kubernetes was built to run on distributed systems where there can be hundreds of worker nodes in which Pods would be running.
