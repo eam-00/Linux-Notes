@@ -93,6 +93,9 @@ To clean (delete) unused images:
 
         docker image prune
 
+Dangling Images: Images w/o tags & images that are not referenced by any container.
+
+
 ## Kubernetes Networking Model
 Kubernetes was built to run on distributed systems where there can be hundreds of worker nodes in which Pods would be running.
 
