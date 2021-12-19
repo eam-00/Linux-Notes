@@ -97,8 +97,8 @@ To clean (delete) unused images:
 
 Flatten an image by merging the layers:  
 
-docker export myimage > myimageflat.tar
-cat myimageflat.tar | docker import - myimage:latest
+        docker export myimage > myimageflat.tar
+        cat myimageflat.tar | docker import - myimage:latest
 
 ## Kubernetes Networking Model
 Kubernetes was built to run on distributed systems where there can be hundreds of worker nodes in which Pods would be running.
