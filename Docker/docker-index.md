@@ -104,6 +104,8 @@ Registry, a stateless, highly scalable server that stores Docker images: Docker 
 
 Push images to Docker Hub:
 
+docker login
+
 ## Kubernetes Networking Model
 Kubernetes was built to run on distributed systems where there can be hundreds of worker nodes in which Pods would be running.
 
