@@ -95,6 +95,7 @@ To clean (delete) unused images:
 
 **Dangling Images**: Images without tags & images that are not referenced by any container.
 
+Flatten an image by merging layers:
 
 ## Kubernetes Networking Model
 Kubernetes was built to run on distributed systems where there can be hundreds of worker nodes in which Pods would be running.
