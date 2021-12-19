@@ -93,7 +93,7 @@ To clean (delete) unused images:
 
         docker image prune
 
-Dangling Images: Images w/o tags & images that are not referenced by any container.
+**Dangling Images**: Images without tags & images that are not referenced by any container.
 
 
 ## Kubernetes Networking Model
