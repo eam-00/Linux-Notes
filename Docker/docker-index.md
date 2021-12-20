@@ -108,6 +108,8 @@ Push images to Docker Hub:
 
 To search images:
 
+docker search nginx --filter "is-official=true"
+
 ## Kubernetes Networking Model
 Kubernetes was built to run on distributed systems where there can be hundreds of worker nodes in which Pods would be running.
 
