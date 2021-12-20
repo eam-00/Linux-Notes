@@ -110,6 +110,10 @@ To search images:
 
         docker search nginx --filter "is-official=true"
 
+To share images:
+
+
+
 ## Kubernetes Networking Model
 Kubernetes was built to run on distributed systems where there can be hundreds of worker nodes in which Pods would be running.
 
