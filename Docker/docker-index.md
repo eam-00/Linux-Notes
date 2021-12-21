@@ -121,6 +121,8 @@ Network: the default driver is "bridge".
 
         docker container run -dt --name mydockerimage the-realname-of-the-docker-image
 
+# Connect to the container
+
 ## Kubernetes Networking Model
 Kubernetes was built to run on distributed systems where there can be hundreds of worker nodes in which Pods would be running.
 
