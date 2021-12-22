@@ -182,6 +182,9 @@ Create the file "**livenessprobe.yaml**":
               periodSeconds: 5
 
 
+## Storage Class
+
+
 ## Links
 * [7 Cases When You Should Not Use Docker](https://www.freecodecamp.org/news/7-cases-when-not-to-use-docker/)
 * [Docker Healthchecks: Why Not To Use `curl` or `iwr`](https://blog.sixeyed.com/docker-healthchecks-why-not-to-use-curl-or-iwr/)
