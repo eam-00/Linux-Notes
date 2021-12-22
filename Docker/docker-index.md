@@ -17,7 +17,7 @@ Installing on Debian (32 bits):
 
         sudo apt install -y docker.io
 
-* Remove an image
+* Remove an image  
 First stop it:
 
         docker stop mydockerimage
