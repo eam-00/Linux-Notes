@@ -13,6 +13,8 @@ The image is created once, while the container can be created many times using a
 
 ## Installing Docker
 
+Installing on Debian (32 bits):
+
 * Remove an image
 First stop it:
 
