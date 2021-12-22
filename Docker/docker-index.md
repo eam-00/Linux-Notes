@@ -186,6 +186,7 @@ Create the file "**livenessprobe.yaml**":
 
 A storage class provides a way for administrators to describe the "classes" of storage they offer.  
 Different classes might map to quality-of-service levels, or to backup policies or to arbitrary policies determined by the cluster administrators.  
+Each StorageClass contains the fields provisioner, parameters and reclaimPolicy which are used when a PersistentVolume belonging to the class needs to be dynamically provisioned.
 
 ## Links
 * [7 Cases When You Should Not Use Docker](https://www.freecodecamp.org/news/7-cases-when-not-to-use-docker/)
