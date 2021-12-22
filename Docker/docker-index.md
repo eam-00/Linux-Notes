@@ -184,6 +184,7 @@ Create the file "**livenessprobe.yaml**":
 
 ## Storage Class
 
+A storage class provides a way for administrators to describe the "classes" of storage they offer.  
 
 ## Links
 * [7 Cases When You Should Not Use Docker](https://www.freecodecamp.org/news/7-cases-when-not-to-use-docker/)
