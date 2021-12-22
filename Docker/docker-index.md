@@ -11,6 +11,8 @@ Difference between image & container:
 
 The image is created once, while the container can be created many times using a container.
 
+## Installing Docker
+
 * Remove an image
 First stop it:
 
