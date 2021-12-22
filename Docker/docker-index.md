@@ -185,3 +185,4 @@ Create the file "**livenessprobe.yaml**":
 ## Links
 * [7 Cases When You Should Not Use Docker](https://www.freecodecamp.org/news/7-cases-when-not-to-use-docker/)
 * [Docker Healthchecks: Why Not To Use `curl` or `iwr`](https://blog.sixeyed.com/docker-healthchecks-why-not-to-use-curl-or-iwr/)
+* [How to install Docker on 32bit machine having Ubuntu 12.04?](https://stackoverflow.com/questions/37989534/how-to-install-docker-on-32bit-machine-having-ubuntu-12-04)
