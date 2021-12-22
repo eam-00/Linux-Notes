@@ -15,6 +15,8 @@ The image is created once, while the container can be created many times using a
 
 Installing on Debian (32 bits):
 
+sudo apt install -y docker.io
+
 * Remove an image
 First stop it:
 
