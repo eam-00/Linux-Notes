@@ -185,7 +185,7 @@ Create the file "**livenessprobe.yaml**":
 ## Storage Class
 
 A storage class provides a way for administrators to describe the "classes" of storage they offer.  
-Different classes might map to quality-of-service levels, or to backup policies or to arbitrary policies determined by the cluster administrators.
+Different classes might map to quality-of-service levels, or to backup policies or to arbitrary policies determined by the cluster administrators.  
 
 ## Links
 * [7 Cases When You Should Not Use Docker](https://www.freecodecamp.org/news/7-cases-when-not-to-use-docker/)
