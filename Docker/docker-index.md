@@ -38,7 +38,7 @@ Example:
         COPY index.nginx-debian.html /var/www/html/
         CMD nginx -g 'daemon off;'
 
-<u>Dockerfile commands:</u>  
+**Dockerfile commands:**  
 
 **COPY**  
 Copies files that are locally on the build directory.
