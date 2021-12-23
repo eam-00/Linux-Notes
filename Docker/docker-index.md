@@ -131,7 +131,7 @@ To share images:
 
         docker container exec -it the-realname-of-the-docker-image sh
 
-Example:
+*Example:*
 
         docker container exec -it busybox sh
 
