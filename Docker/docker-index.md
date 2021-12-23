@@ -60,7 +60,7 @@ Multiple directories, nested, when the container starts, you are on that directo
 **ENV**  
 Sets a environment variable.
 
-## Build
+## Docker Commands
 To build an image on the directory where the Dockerfile is located:
 
         docker build .
