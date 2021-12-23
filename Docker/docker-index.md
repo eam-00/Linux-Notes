@@ -121,7 +121,7 @@ To share images:
         docker save myimage > myimage.tar
         docker load < myimage.tar
 
-Network: the default driver is "bridge".
+**Network**: the default driver is "bridge".
 
 ## Run
 
