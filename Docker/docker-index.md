@@ -121,6 +121,8 @@ To share images:
         docker save myimage > myimage.tar
         docker load < myimage.tar
 
+To export a container to another system as an image tar file:
+
 **Network**: the default driver is "bridge".
 
 ## Run
