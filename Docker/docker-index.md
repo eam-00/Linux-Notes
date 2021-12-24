@@ -40,6 +40,8 @@ Example:
 
 **Dockerfile commands:**  
 
+**CMD**  
+
 **COPY**  
 Copies files that are locally on the build directory.
 
