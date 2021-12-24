@@ -123,6 +123,8 @@ To share images:
 
 To export a container to another system as an image tar file:
 
+docker export my-container > container.tar
+
 **Network**: the default driver is "bridge".
 
 ## Run
