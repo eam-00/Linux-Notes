@@ -43,7 +43,7 @@ This works for the keyboards of Thinkpads like the T43, T60, X220, T410, T420.
 
 Launch XFCE's **"Settings Edditor"**.  
 Select  the Channel **"xsettings"** and then the Property **"KeyThemeName"**.  
-Add the value to the string "Emacs" (without quotes).  
+Add the value to the string **"Emacs"** (without quotes).  
 That's it you are done.
 
 If the Property isn't there, simply create a new one (be sure to be on the right Channel).  
