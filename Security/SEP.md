@@ -23,9 +23,9 @@
 
    - Output:
  
-        Frequency:                       Hourly
+        Frequency:                       Hourly - every 04
+        Keep trying for(in hours):
         
-
 - Run a scan:  
 ``/opt/Symantec/symantec_antivirus/sav manualscan -s /var``
 
