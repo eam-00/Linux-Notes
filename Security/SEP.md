@@ -24,7 +24,8 @@
    - Output:
 
         ``Frequency:                       Hourly - every 04``  
-        ``Keep trying for(in hours):       02``
+        ``Keep trying for(in hours):       02``  
+        ``State:                           Enabled``
         
 - Run a scan:  
 ``/opt/Symantec/symantec_antivirus/sav manualscan -s /var``
