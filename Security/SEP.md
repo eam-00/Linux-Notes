@@ -18,13 +18,12 @@
 - Update Virus Definitions:  
 ``/opt/Symantec/symantec_antivirus/sav liveupdate -u``
 
-- List Update Status:
-
-        /opt/Symantec/symantec_antivirus/sav liveupdate -v
+- List Update Status:  
+``/opt/Symantec/symantec_antivirus/sav liveupdate -v``
 
    - Output:
 
-        ``Frequency:                       Hourly - every 04``
+        ``Frequency:                       Hourly - every 04``  
         ``Keep trying for(in hours):       02``
         
 - Run a scan:  
