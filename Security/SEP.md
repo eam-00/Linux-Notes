@@ -22,7 +22,7 @@
 ``/opt/Symantec/symantec_antivirus/sav liveupdate -v``
 
    - Output:
- 
+
         Frequency:                       Hourly - every 04
         Keep trying for(in hours):
         
