@@ -37,4 +37,4 @@ And issue:
 
    - Output:
    
-   
+ Daemon status:  
