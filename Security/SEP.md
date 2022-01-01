@@ -35,6 +35,6 @@
 And issue:   
 ``./status.sh``
 
-
+   - Output:
    
    
