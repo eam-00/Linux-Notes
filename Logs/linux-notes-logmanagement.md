@@ -1,4 +1,5 @@
-# Logs Management
+# Log Management
+
 ## Logrotate
 
 Edit the file ``/etc/logrotate.conf``:
