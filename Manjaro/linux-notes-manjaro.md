@@ -1,3 +1,5 @@
+# Manjaro
+
 *Some commands, tips and notes that I found useful while setting up and running Manjaro.*
 
 - Fix “Unable to lock database” error:  
