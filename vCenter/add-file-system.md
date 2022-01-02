@@ -5,7 +5,7 @@
 2. Right click on the server from the inventory  
 3. Select "*Edit Settings*"  
 4. Add New Device > Select > Hard Disk  
-5. The new HDD will be of 16 GB of size
+5. The new HDD will be of 16 GB of size (Unless otherwise specified)
 - On the server run:
 
 ``ls /sys/class/scsi_host/ | while read host ; do echo "- - - " > /sys/class/scsi_host/$host/scan; done``
