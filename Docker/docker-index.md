@@ -145,7 +145,7 @@ To export a container to another system as an image tar file:
 
 # Run a container with a specific program
 
-docker container run -dt --name container-run-ping busybox ping -c10 www.google.com
+        docker container run -dt --name container-run-ping busybox ping -c10 www.google.com
 
 This container dies after pinging ten times www.google.com
 
