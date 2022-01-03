@@ -143,6 +143,8 @@ To export a container to another system as an image tar file:
 
         docker container exec -it busybox sh
 
+# Run a container with a specific program
+
 ## Kubernetes Networking Model
 Kubernetes was built to run on distributed systems where there can be hundreds of worker nodes in which Pods would be running.
 
