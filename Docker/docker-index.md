@@ -152,6 +152,7 @@ This particular container dies after pinging ten times www.google.com.
 # List containers
 
         docker ps
+        docker ps -a
 
 ## Kubernetes Networking Model
 Kubernetes was built to run on distributed systems where there can be hundreds of worker nodes in which Pods would be running.
