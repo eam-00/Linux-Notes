@@ -149,6 +149,8 @@ To export a container to another system as an image tar file:
 
 This particular container dies after pinging ten times www.google.com.
 
+# List containers
+
 ## Kubernetes Networking Model
 Kubernetes was built to run on distributed systems where there can be hundreds of worker nodes in which Pods would be running.
 
