@@ -147,6 +147,8 @@ To export a container to another system as an image tar file:
 
 docker container run -dt --name container-run-ping busybox ping -c10 www.google.com
 
+This container dies after pinging ten times www.google.com
+
 ## Kubernetes Networking Model
 Kubernetes was built to run on distributed systems where there can be hundreds of worker nodes in which Pods would be running.
 
