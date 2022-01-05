@@ -38,4 +38,4 @@ And issue:
    - Output:
    
 ``Daemon status:``
-  cafagent                     running
+``cafagent                     running``
