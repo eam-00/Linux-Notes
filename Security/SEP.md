@@ -37,5 +37,5 @@ And issue:
 
    - Output:
    
-``Daemon status:``
+``Daemon status:``  
 ``cafagent                     running``
