@@ -10,7 +10,7 @@
 
 ``ls /sys/class/scsi_host/ | while read host ; do echo "- - - " > /sys/class/scsi_host/$host/scan; done``
 
-In order to re-scan the drives, so you can avoid rebooting the virtual server to actually be able to "see" the newly added drive. 
+In order to re-scan the drives, so you can avoid rebooting the virtual server to actually be able to "see" the newly added drive.  
 Issue a:  
 
     fdisk -l /dev/sd* | grep -i 'Disk'
