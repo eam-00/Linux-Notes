@@ -42,7 +42,8 @@ Example:
 
 **CMD**  
 Can be overridden.  
-There can only be one CMD instruction in a Dockerfile. If you list more than one CMD only the last CMD will take effect.
+There can only be one CMD instruction in a Dockerfile.  
+If you list more than one CMD only the last CMD will take effect.
 
 **COPY**  
 Copies files that are locally on the build directory.
