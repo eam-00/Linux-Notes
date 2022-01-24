@@ -8,5 +8,6 @@ Should be on ~/.local/share/themes/. Also, it can be an alias to the ~/.themes/.
 
 ## GNOME
 ### Keyboard Shortcuts
+Make Alt + Tab cycle thru all the windows:  
 
 
