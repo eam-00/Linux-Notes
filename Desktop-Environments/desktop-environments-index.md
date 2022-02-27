@@ -13,4 +13,4 @@ Make Alt + Tab cycle thru all the windows:
 Settings > Keyboard > View and Customize Shortcuts > Navigation > Switch Windows > Alt Tabs
 
 ### Make Caps Lock a Ctrl key
-
+Tweaks > 
