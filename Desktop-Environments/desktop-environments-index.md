@@ -14,4 +14,5 @@ Settings > Keyboard > View and Customize Shortcuts > Navigation > Switch Windows
 
 Make Caps Lock a Ctrl key:  
 
-Tweaks > Keyboad & Mouse > Additional Layout Options > Caps Lock behavior 
+Tweaks > Keyboad & Mouse > Additional Layout Options > Caps Lock behavior > Make Caps Lock an additional Ctrl
+
