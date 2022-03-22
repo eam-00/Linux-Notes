@@ -16,3 +16,7 @@ Make Caps Lock a Ctrl key:
 
 Tweaks > Keyboad & Mouse > Additional Layout Options > Caps Lock behavior > Make Caps Lock an additional Ctrl
 
+Emacs Keybindings:  
+
+Tweaks > Keyboad & Mouse > Emacs Input
+
