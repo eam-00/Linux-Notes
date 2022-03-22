@@ -21,3 +21,8 @@ Emacs Keybindings:
 Tweaks > Keyboad & Mouse > Emacs Input
 
 ## Chrome
+Set Chrome startup options:
+
+Edit ~/.config/chrome-flags.conf
+
+--disk-cache-dir=/some/dir/here
