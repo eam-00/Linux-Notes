@@ -20,3 +20,4 @@ Emacs Keybindings:
 
 Tweaks > Keyboad & Mouse > Emacs Input
 
+## Chrome
