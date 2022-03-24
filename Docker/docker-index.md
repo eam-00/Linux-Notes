@@ -158,7 +158,8 @@ This particular container dies after pinging ten times www.google.com.
 # Remove
 
 First stop the containter image:
-docker stop mydockerimage
+
+        docker stop mydockerimage
 
 
 ## Kubernetes Networking Model
