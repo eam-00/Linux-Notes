@@ -161,6 +161,7 @@ First stop the containter image:
 
         docker stop mydockerimage
 
+Then delete the container image:
 
 ## Kubernetes Networking Model
 Kubernetes was built to run on distributed systems where there can be hundreds of worker nodes in which Pods would be running.
