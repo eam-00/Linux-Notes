@@ -155,6 +155,8 @@ This particular container dies after pinging ten times www.google.com.
         docker ps
         docker ps -a
 
+# Remove
+
 First stop the containter image:
 docker stop mydockerimage
 
