@@ -171,6 +171,8 @@ If running, you can force the deletion of the container using the -f flag:
 
 # Remove automagically on exit
 
+docker container run -dt --rm --name container-run-ping busybox ping -c10 www.google.com
+
 ## Kubernetes Networking Model
 Kubernetes was built to run on distributed systems where there can be hundreds of worker nodes in which Pods would be running.
 
