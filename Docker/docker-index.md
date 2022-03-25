@@ -179,6 +179,8 @@ If running, you can force the deletion of the container using the -f flag:
 
 For detailed info:
 
+        docker system df -v
+
 ## Kubernetes Networking Model
 Kubernetes was built to run on distributed systems where there can be hundreds of worker nodes in which Pods would be running.
 
