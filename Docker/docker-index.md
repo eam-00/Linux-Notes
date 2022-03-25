@@ -169,6 +169,8 @@ If running, you can force the deletion of the container using the -f flag:
 
         docker rm -f mydockerimage
 
+# Remove automagically on exit
+
 ## Kubernetes Networking Model
 Kubernetes was built to run on distributed systems where there can be hundreds of worker nodes in which Pods would be running.
 
