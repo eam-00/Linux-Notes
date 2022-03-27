@@ -56,6 +56,7 @@ Be aware that not all of Emacs keybinds will work and certainly the ones that wi
 
 ## XFCE Window Manager Keyboard Shortcuts
 
+Goto > Settings > Window Manager > Keyboard:
 
 | XFCE Option | Keyboard Combo |
 | ----------- | -------------- |
