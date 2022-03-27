@@ -61,6 +61,6 @@ Goto > Settings > Window Manager > Keyboard:
 | XFCE Option | Keyboard Combo |
 | ----------- | -------------- |
 | Show Desktop | Super+D |
-| Maximize Window: | Super+X |
-| Maximize Window Horizontally: | Super+H |
+| Maximize Window | Super+X |
+| Maximize Window Horizontally | Super+H |
 
