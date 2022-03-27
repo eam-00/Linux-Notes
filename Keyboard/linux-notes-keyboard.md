@@ -55,3 +55,7 @@ Use **"String"** as Type, just like in the screenshot below:
 Be aware that not all of Emacs keybinds will work and certainly the ones that will work won't work on the whole system, but it is nice to be able to type Ctrl + E and Ctrl + A now and then to go there fast.
 
 ## XFCE Window Manager Keyboard Shortcuts
+
+| XFCE OPtion | Keyboard Combo | 
+| Show Desktop | Super+D | 
+
