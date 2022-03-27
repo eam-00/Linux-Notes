@@ -60,4 +60,5 @@ Be aware that not all of Emacs keybinds will work and certainly the ones that wi
 | XFCE Option | Keyboard Combo |
 | ----------- | -------------- |
 | Show Desktop | Super+D |
+| Maximize Window: | Super+X |
 
