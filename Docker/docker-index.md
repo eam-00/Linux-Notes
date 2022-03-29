@@ -183,8 +183,9 @@ For detailed info:
 
 ## Docker Swarm
 
-Swarm Mananger:  
-docker swarm init --advertise-addr IP-address-of-eth0-interface
+Swarm Mananger:
+
+        docker swarm init --advertise-addr IP-address-of-eth0-interface
 
 ## Kubernetes Networking Model
 Kubernetes was built to run on distributed systems where there can be hundreds of worker nodes in which Pods would be running.
