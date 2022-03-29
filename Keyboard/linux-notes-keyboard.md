@@ -67,5 +67,7 @@ Goto > Settings > Window Manager > Keyboard:
 | Move Window | Super+M |
 | Resize Window | Super+R |
 | Toggle Fullscreen | F11 |
+| Right Workspace | F6 |
+
 
 
