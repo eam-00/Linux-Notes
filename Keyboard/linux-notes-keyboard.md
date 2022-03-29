@@ -65,4 +65,5 @@ Goto > Settings > Window Manager > Keyboard:
 | Maximize Window Horizontally | Super+H |
 | Maximize Window Vertically | Super+V |
 | Move Window | Super+M |
+| Resize Window | Super+R |
 
