@@ -188,7 +188,8 @@ Swarm Mananger:
         docker swarm init --advertise-addr IP-address-of-eth0-interface
 
 Only one instance of nginx/ webserver on the workers
-docker service create --name webserver --replicas 1 nginx
+
+        docker service create --name webserver --replicas 1 nginx
 
 ## Kubernetes Networking Model
 Kubernetes was built to run on distributed systems where there can be hundreds of worker nodes in which Pods would be running.
