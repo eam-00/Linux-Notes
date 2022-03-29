@@ -66,4 +66,6 @@ Goto > Settings > Window Manager > Keyboard:
 | Maximize Window Vertically | Super+V |
 | Move Window | Super+M |
 | Resize Window | Super+R |
+| Toggle Fullscreen | F11 |
+
 
