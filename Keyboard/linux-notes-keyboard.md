@@ -63,4 +63,5 @@ Goto > Settings > Window Manager > Keyboard:
 | Show Desktop | Super+D |
 | Maximize Window | Super+X |
 | Maximize Window Horizontally | Super+H |
+| Maximize Window Vertically | Super+V |
 
