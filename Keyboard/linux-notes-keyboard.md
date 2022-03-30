@@ -68,6 +68,7 @@ Goto > Settings > Window Manager > Keyboard:
 | Resize Window | Super+R |
 | Toggle Fullscreen | F11 |
 | Right Workspace | F6 |
+| Tile Window to the top | Super+Up |
 
 
 
