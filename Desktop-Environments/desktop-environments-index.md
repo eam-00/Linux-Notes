@@ -26,3 +26,7 @@ Set Chrome startup options:
 Edit (create) the file ``~/.config/chrome-flags.conf`` and add this:
 
 ``--disk-cache-dir=/some/dir/here``
+
+## xrandr
+Set the screen brightness thru xrandr.
+
