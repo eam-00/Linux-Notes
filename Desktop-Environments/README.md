@@ -1,1 +1,1 @@
-Tips for Desktop Environments
+Tips for Linux Desktop Environments
