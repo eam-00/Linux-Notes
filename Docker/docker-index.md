@@ -194,6 +194,8 @@ Only one instance of nginx/ webserver on the workers
         docker service ps
         docker service rm webserver
 
+Containers running in a service are called "tasks".
+
 ## Kubernetes Networking Model
 Kubernetes was built to run on distributed systems where there can be hundreds of worker nodes in which Pods would be running.
 
