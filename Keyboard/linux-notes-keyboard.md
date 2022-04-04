@@ -69,6 +69,7 @@ Goto > Settings > Window Manager > Keyboard:
 | Toggle Fullscreen | F11 |
 | Right Workspace | F6 |
 | Tile Window to the top | Super+Up |
+| Tile Window to the bottom | Super+Down |
 
 
 
