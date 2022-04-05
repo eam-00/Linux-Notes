@@ -21,7 +21,7 @@ Tweaks > Keyboad & Mouse > Additional Layout Options > Caps Lock behavior > Make
 Tweaks > Keyboad & Mouse > Emacs Input
 
 ## Chrome
-Set Chrome startup options:
+- Set Chrome startup options:
 
 Edit (create) the file ``~/.config/chrome-flags.conf`` and add this:
 
