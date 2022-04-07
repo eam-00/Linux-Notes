@@ -14,6 +14,8 @@ Settings > Keyboard > View and Customize Shortcuts > Navigation > Switch Windows
 
 Additionally, if the Alt key is not recognized, do this:  
 
+Tweaks > Keyboad & Mouse > Additional Layout Options > Alt and Win behavior > Alt nad Meta are on Alt
+
 - Make Caps Lock a Ctrl key:  
 
 Tweaks > Keyboad & Mouse > Additional Layout Options > Caps Lock behavior > Make Caps Lock an additional Ctrl
