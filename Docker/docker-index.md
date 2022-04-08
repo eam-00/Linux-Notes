@@ -198,7 +198,7 @@ Containers running in a service are called "tasks".
 
 Scale Up:
 
-docker service scale webserver=5
+        docker service scale webserver=5
 
 
 ## Kubernetes Networking Model
