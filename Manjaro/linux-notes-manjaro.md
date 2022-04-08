@@ -68,3 +68,5 @@ This is helpful when you have a corrupted package database and you want to force
 ``sudo systemctl enable sshd.service``  
 ``sudo systemctl start sshd.service``
 
+- Install Google Chrome
+
