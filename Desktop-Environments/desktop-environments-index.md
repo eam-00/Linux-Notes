@@ -39,3 +39,4 @@ Get the screen info:
 
 ID your display and then issue:
 
+        xrandr --output YOUR-DISPLAY --brightness 0.8
