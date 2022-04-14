@@ -37,3 +37,5 @@ Get the screen info:
 
         xrandr --current --verbose
 
+ID your display and then issue:
+
