@@ -73,5 +73,6 @@ Goto > Settings > Window Manager > Keyboard:
 | Tile Window to the right | Super+Right |
 | Tile Window to the left | Super+Left |
 | Close Window | Super+Q |
+| Move Window to the Previous Workspace | Shift+Super+Left |
 
 
