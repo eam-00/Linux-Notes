@@ -41,7 +41,7 @@ Alternatively:
 
 Edit the file like this:
 
-
+``Exec=/usr/bin/google-chrome-stable --disk-cache-dir=/tmp/cache-chrome --enable-smooth-scrolling %U``
 
 ## xrandr
 Set the screen brightness thru xrandr.  
