@@ -20,6 +20,10 @@ Tweaks > Keyboad & Mouse > Additional Layout Options > Alt and Win behavior > Al
 
 Tweaks > Keyboad & Mouse > Additional Layout Options > Caps Lock behavior > Make Caps Lock an additional Ctrl
 
+Additionally:
+
+
+
 - Emacs Keybindings:  
 
 Tweaks > Keyboad & Mouse > Emacs Input
