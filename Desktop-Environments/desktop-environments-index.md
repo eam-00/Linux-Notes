@@ -35,6 +35,10 @@ Edit (create) the file ``~/.config/chrome-flags.conf`` and add this:
 
 ``--disk-cache-dir=/some/dir/here``
 
+
+
+cp /usr/share/applications/google-chrome.desktop ~/.local/share/applications/
+
 ## xrandr
 Set the screen brightness thru xrandr.  
 Get the screen info:
