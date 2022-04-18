@@ -39,6 +39,10 @@ Alternatively:
 
 ``cp /usr/share/applications/google-chrome.desktop ~/.local/share/applications/``
 
+Edit the file liek this:
+
+
+
 ## xrandr
 Set the screen brightness thru xrandr.  
 Get the screen info:
