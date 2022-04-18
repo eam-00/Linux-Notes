@@ -39,7 +39,7 @@ Alternatively:
 
 ``cp /usr/share/applications/google-chrome.desktop ~/.local/share/applications/``
 
-Edit the file liek this:
+Edit the file like this:
 
 
 
