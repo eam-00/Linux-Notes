@@ -22,7 +22,7 @@ Tweaks > Keyboad & Mouse > Additional Layout Options > Caps Lock behavior > Make
 
 Additionally:
 
-
+Tweaks > Keyboad & Mouse > Additional Layout Options > Caps Lock behavior > Caps Lock is also a Ctrl
 
 - Emacs Keybindings:  
 
