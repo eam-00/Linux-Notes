@@ -76,6 +76,7 @@ Goto > Settings > Window Manager > Keyboard:
 | Move Window to the Previous Workspace | Shift+Super+Left |
 | Move Window to the Next Workspace | Shift+Super+Right |
 | Left Workspace | Ctrl+Alt+Left |
+| Right Workspace | F6 |
 
 
 
