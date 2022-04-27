@@ -77,5 +77,7 @@ Goto > Settings > Window Manager > Keyboard:
 | Left Workspace | Ctrl+Alt+Left |
 | Right Workspace | F6 |
 | Workspace 1 | Super+1 |
+| Workspace 2 | Super+2 |
+
 
 
