@@ -28,6 +28,9 @@ Tweaks > Keyboad & Mouse > Additional Layout Options > Caps Lock behavior > Caps
 
 Tweaks > Keyboad & Mouse > Emacs Input
 
+## Mouse
+
+
 ## Chrome
 - Set Chrome browser startup options:
 
