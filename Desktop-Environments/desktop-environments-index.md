@@ -30,6 +30,8 @@ Tweaks > Keyboad & Mouse > Emacs Input
 
 ## Mouse
 
+Resize with Secondary-Click Check  
+Window Action Key Alt 
 
 ## Chrome
 - Set Chrome browser startup options:
