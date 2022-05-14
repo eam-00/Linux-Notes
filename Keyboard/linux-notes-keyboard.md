@@ -81,5 +81,5 @@ Goto > Settings > Window Manager > Keyboard:
 | Workspace 3 | Super+3 |
 | Workspace 4 | Super+4 |
 
-
+## XFCE Keyboard Shortcuts for Launching Applications
 
