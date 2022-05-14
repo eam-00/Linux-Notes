@@ -83,3 +83,6 @@ Goto > Settings > Window Manager > Keyboard:
 
 ## XFCE Keyboard Shortcuts for Launching Applications
 
+Goto > Settings > Keyboard > Application Shortcuts
+
+
