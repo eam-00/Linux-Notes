@@ -85,4 +85,6 @@ Goto > Settings > Window Manager > Keyboard:
 
 Goto > Settings > Keyboard > Application Shortcuts
 
+| XFCE Option | Keyboard Combo |
+| ----------- | -------------- |
 
