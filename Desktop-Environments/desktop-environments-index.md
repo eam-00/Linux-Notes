@@ -30,7 +30,7 @@ Tweaks > Keyboad & Mouse > Emacs Input
 
 - Circle thru windows on all Virtual desktops:  
 
-gsettings set org.gnome.shell.window-switcher current-workspace-only false
+``gsettings set org.gnome.shell.window-switcher current-workspace-only false``
 
 ## Mouse
 - Resize and move windows with Alt + Mouse buttons
