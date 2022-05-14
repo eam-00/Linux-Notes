@@ -79,6 +79,7 @@ Goto > Settings > Window Manager > Keyboard:
 | Workspace 1 | Super+1 |
 | Workspace 2 | Super+2 |
 | Workspace 3 | Super+3 |
+| Workspace 4 | Super+4 |
 
 
 
