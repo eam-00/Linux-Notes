@@ -28,6 +28,8 @@ Tweaks > Keyboad & Mouse > Additional Layout Options > Caps Lock behavior > Caps
 
 Tweaks > Keyboad & Mouse > Emacs Input
 
+- Circle thru windows on all Virtual desktops:  
+
 ## Mouse
 - Resize and move windows with Alt + Mouse buttons
 Tweaks > Windows 
