@@ -207,6 +207,7 @@ Scale Down:
 Two ways of scaling:
 
 docker service update --replicas 5 webserver
+docker service scale webserver=5
 
 ## Kubernetes Networking Model
 Kubernetes was built to run on distributed systems where there can be hundreds of worker nodes in which Pods would be running.
