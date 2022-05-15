@@ -207,9 +207,9 @@ Scale Down:
 Two ways of scaling:
 
 - 1 
-docker service update --replicas 5 webserver
+        docker service update --replicas 5 webserver
 
-2-
+- 2
 docker service scale webserver=5
 
 ## Kubernetes Networking Model
