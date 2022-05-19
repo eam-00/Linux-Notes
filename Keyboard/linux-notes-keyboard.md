@@ -88,4 +88,5 @@ Goto > Settings > Keyboard > Application Shortcuts
 | XFCE Option | Keyboard Combo |
 | ----------- | -------------- |
 | xfce4-terminal | Super+Enter |
+| thunar | Super+T |
 
