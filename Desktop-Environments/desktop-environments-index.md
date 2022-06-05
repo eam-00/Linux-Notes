@@ -40,6 +40,8 @@ Tweaks > Windows
 Resize with Secondary-Click Check  
 Window Action Key Alt 
 
+## Startup Programs on Login
+
 ## Chrome
 - Set Chrome browser startup options:
 
