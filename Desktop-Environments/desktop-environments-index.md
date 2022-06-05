@@ -42,6 +42,8 @@ Window Action Key Alt
 
 ## Startup Programs on Login
 
+~/.config/autostart/dropbox.desktop
+
 ## Chrome
 - Set Chrome browser startup options:
 
