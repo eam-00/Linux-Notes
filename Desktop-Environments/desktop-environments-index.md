@@ -44,6 +44,15 @@ Window Action Key Alt
 
 ~/.config/autostart/dropbox.desktop
 
+[Desktop Entry]
+Type=Application
+Exec=/home/epsilon-alpha-mu/.dropbox-dist/dropboxd
+Hidden=false
+X-GNOME-Autostart-enabled=true
+Name=Dropbox
+Comment=Online Backups
+
+
 ## Chrome
 - Set Chrome browser startup options:
 
