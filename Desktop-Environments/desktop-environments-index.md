@@ -53,9 +53,9 @@ Here is an example of the start script for Dropbox:
         Type=Application
         Exec=/home/epsilon-alpha-mu/.dropbox-dist/dropboxd
         Hidden=false
-X-GNOME-Autostart-enabled=true
-Name=Dropbox
-Comment=Online Backups
+        X-GNOME-Autostart-enabled=true
+        Name=Dropbox
+        Comment=Online Backups
 
 
 ## Chrome
