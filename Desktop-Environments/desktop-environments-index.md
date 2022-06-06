@@ -47,6 +47,8 @@ With the ".desktop" extension:
 
 ``~/.config/autostart/dropbox.desktop``
 
+Here is an example of the start script for Dropbox:
+
 [Desktop Entry]
 Type=Application
 Exec=/home/epsilon-alpha-mu/.dropbox-dist/dropboxd
