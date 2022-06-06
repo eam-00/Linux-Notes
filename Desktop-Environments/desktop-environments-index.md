@@ -43,9 +43,9 @@ Window Action Key Alt
 ## Startup Programs on Login
 
 Create the file on the ``~/.config/autostart/`` directory.  
-With the ".desktop" extention:  
+With the ".desktop" extension:  
 
-~/.config/autostart/dropbox.desktop
+``~/.config/autostart/dropbox.desktop``
 
 [Desktop Entry]
 Type=Application
