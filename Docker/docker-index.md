@@ -210,7 +210,7 @@ Two ways of scaling:
         ``docker service update --replicas 5 webserver``
 
 - 2
-        docker service scale webserver=5  
+        ``docker service scale webserver=5`` 
 This one can be used to scale multiple services
 
 ## Kubernetes Networking Model
