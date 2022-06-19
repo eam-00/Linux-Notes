@@ -206,7 +206,6 @@ Scale Down:
 
 Two ways of scaling:
 
-- 
         ``docker service update --replicas 5 webserver``
 
 - 2
