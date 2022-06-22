@@ -215,7 +215,8 @@ Service deployment:
 
 - Replicated
 - Global
-One task on every node
+One task on every node  
+
         docker service create --name antivirus --mode global -dt ubuntu
 
 ## Kubernetes Networking Model
