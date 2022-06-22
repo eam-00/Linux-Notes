@@ -216,6 +216,7 @@ Service deployment:
 - Replicated
 - Global
 One task on every node
+docker service create --name antivirus --mode global -dt ubuntu
 
 ## Kubernetes Networking Model
 Kubernetes was built to run on distributed systems where there can be hundreds of worker nodes in which Pods would be running.
