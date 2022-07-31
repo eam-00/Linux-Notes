@@ -74,7 +74,7 @@ Edit the file like this:
 ``Exec=/usr/bin/google-chrome-stable --disk-cache-dir=/some/dir/here --enable-smooth-scrolling --force-dark-mode %U``
 
 Alternatively: 
-Go to: ``chrome://flags/`` and look for *Auto Dark Mode for Web Contents* set it to Enabled.
+Go to: ``chrome://flags/`` and look for *Auto Dark Mode for Web Contents* set it to **Enabled**.
 
 ## xrandr
 Set the screen brightness thru xrandr.  
