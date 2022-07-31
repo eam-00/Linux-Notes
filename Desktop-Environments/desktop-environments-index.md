@@ -73,6 +73,9 @@ Edit the file like this:
 
 ``Exec=/usr/bin/google-chrome-stable --disk-cache-dir=/some/dir/here --enable-smooth-scrolling --force-dark-mode %U``
 
+Alternatively:  
+Go to: 
+
 ## xrandr
 Set the screen brightness thru xrandr.  
 Get the screen info:
