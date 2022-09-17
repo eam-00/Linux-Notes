@@ -45,6 +45,10 @@ Tweaks > Windows
 Resize with Secondary-Click Check  
 Window Action Key Alt 
 
+- Tap to Click
+
+
+
 ## Start Automagically Programs on Login
 
 Create the file on the ``~/.config/autostart/`` directory.  
