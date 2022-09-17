@@ -10,7 +10,7 @@ Should be on ~/.local/share/themes/. Also, it can be an alias to the ~/.themes/.
 ### Keyboard Shortcuts
 - Make Alt + Tab cycle thru all the windows:  
 
-On Debian Bullseye {GNOME }
+On Debian Bullseye {GNOME 3.38.5}  
 Settings > Keyboard Shortcuts > Switch Windows > Alt Tab
 
 Settings > Keyboard > View and Customize Shortcuts > Navigation > Switch Windows > Alt Tabs
