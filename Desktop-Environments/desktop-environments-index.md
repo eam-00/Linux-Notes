@@ -47,7 +47,7 @@ Window Action Key Alt
 
 - Tap to Click
 
-
+Settings > Mouse & Touchpad > Touchpad > Touch to Click
 
 ## Start Automagically Programs on Login
 
