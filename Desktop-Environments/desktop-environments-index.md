@@ -37,7 +37,7 @@ Tweaks > Keyboad & Mouse > Emacs Input
 
 ``gsettings set org.gnome.shell.window-switcher current-workspace-only false``
 
-## Mouse
+### Mouse
 - Resize and move windows with Alt + Mouse buttons  
 
 Tweaks > Windows 
@@ -49,7 +49,7 @@ Window Action Key Alt
 
 Settings > Mouse & Touchpad > Touchpad > Touch to Click
 
-## Start Automagically Programs on Login
+### Start Automagically Programs on Login
 
 Create the file on the ``~/.config/autostart/`` directory.  
 With the ".desktop" extension:  
