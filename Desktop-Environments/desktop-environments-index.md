@@ -37,6 +37,8 @@ Tweaks > Keyboad & Mouse > Emacs Input
 
 ``gsettings set org.gnome.shell.window-switcher current-workspace-only false``
 
+### Keyboard Layout
+
 ### Mouse
 - Resize and move windows with Alt + Mouse buttons  
 
