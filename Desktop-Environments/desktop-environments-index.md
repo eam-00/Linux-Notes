@@ -39,6 +39,8 @@ Tweaks > Keyboad & Mouse > Emacs Input
 
 ### Keyboard Layout
 
+Settings > Region & Language > Input Sources > Click on + below English > Click on English
+
 ### Mouse
 - Resize and move windows with Alt + Mouse buttons  
 
