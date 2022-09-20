@@ -43,6 +43,8 @@ Change the layout from the traditional US to the convenient "English (US, alt. i
 
 Settings > Region & Language > Input Sources > Click on the *+* below "English" > Then click on English
 
+Then scroll until you find "English (US, alt. intl.)"
+
 ### Mouse
 - Resize and move windows with Alt + Mouse buttons  
 
