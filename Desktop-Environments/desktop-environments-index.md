@@ -41,7 +41,7 @@ Tweaks > Keyboad & Mouse > Emacs Input
 
 Change the layout from the traditional US to the convenient "English (US, alt. intl.)"  
 
-Settings > Region & Language > Input Sources > Click on the *+* below "English > Click on English
+Settings > Region & Language > Input Sources > Click on the *+* below "English" > Then click on English
 
 ### Mouse
 - Resize and move windows with Alt + Mouse buttons  
