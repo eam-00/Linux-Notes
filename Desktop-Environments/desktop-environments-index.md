@@ -39,6 +39,8 @@ Tweaks > Keyboad & Mouse > Emacs Input
 
 ### Keyboard Layout
 
+Change the layout from the traditional US to the convenient   
+
 Settings > Region & Language > Input Sources > Click on + below English > Click on English
 
 ### Mouse
