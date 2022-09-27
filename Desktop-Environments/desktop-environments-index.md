@@ -59,6 +59,8 @@ Settings > Mouse & Touchpad > Touchpad > Touch to Click
 
 ### Disable Touchpad When A Mouse Is Plugged
 
+``gsettings set org.gnome.desktop.peripherals.touchpad send-events disabled-on-external-mouse``
+
 ### Start Automagically Programs on Login
 
 Create the file on the ``~/.config/autostart/`` directory.  
