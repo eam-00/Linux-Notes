@@ -63,6 +63,8 @@ Settings > Mouse & Touchpad > Touchpad > Touch to Click
 
 To revert it:
 
+``gsettings set org.gnome.desktop.peripherals.touchpad send-events enabled``
+
 ### Start Automagically Programs on Login
 
 Create the file on the ``~/.config/autostart/`` directory.  
