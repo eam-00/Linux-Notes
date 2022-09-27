@@ -57,6 +57,8 @@ Window Action Key Alt
 
 Settings > Mouse & Touchpad > Touchpad > Touch to Click
 
+### Disable Touchpad When A Mouse Is Plugged
+
 ### Start Automagically Programs on Login
 
 Create the file on the ``~/.config/autostart/`` directory.  
