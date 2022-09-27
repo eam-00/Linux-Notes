@@ -61,6 +61,8 @@ Settings > Mouse & Touchpad > Touchpad > Touch to Click
 
 ``gsettings set org.gnome.desktop.peripherals.touchpad send-events disabled-on-external-mouse``
 
+To revert it:
+
 ### Start Automagically Programs on Login
 
 Create the file on the ``~/.config/autostart/`` directory.  
