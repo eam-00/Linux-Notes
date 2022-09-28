@@ -101,6 +101,8 @@ Edit the file like this:
 Alternatively: 
 Go to: ``chrome://flags/`` and look for *Auto Dark Mode for Web Contents* set it to **Enabled**.
 
+Other startup flags:
+
 ## xrandr
 Set the screen brightness thru xrandr.  
 Get the screen info:
