@@ -103,6 +103,8 @@ Go to: ``chrome://flags/`` and look for *Auto Dark Mode for Web Contents* set it
 
 Other startup flags:
 
+``/usr/bin/google-chrome-stable --disk-cache-dir=/some/dir/here --use-gl=desktop --force-device-scale-factor=2.5 --enable-smooth-scrolling --force-dark-mode %U``
+
 ## xrandr
 Set the screen brightness thru xrandr.  
 Get the screen info:
