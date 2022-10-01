@@ -33,3 +33,19 @@ Reboot to get things work... Login out and back again is not enough.
 After installing Minimal XFCE:
 -----------------------------
 
+
+ /  __ \
+|  /    |
+|  \___-
+-_
+  --_
+eam-00
+os Debian GNU/Linux 11 (bullseye)
+host ThinkPad T43
+kernel 5.10.0-18-686-pae
+uptime 2h 12m
+pkgs 684
+memory 208M / 2012M
+
+
+
