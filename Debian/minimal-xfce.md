@@ -6,12 +6,12 @@ Follow the instructions here: https://github.com/coonrad/Debian-Xfce4-Minimal-In
 
 After the initial install:
 
-  _____
- /  __ \
-|  /    |
-|  \___-
--_
-  --_
+         _____
+        /  __ \
+       |  /    |
+       |  \___-
+       -_
+          --_
 eam-00
 t43
 Debian GNU/Linux 11 (bullseye)
