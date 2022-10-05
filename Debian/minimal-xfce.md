@@ -12,9 +12,9 @@ After the initial install:
        |  \___-
        -_
           --_
-eam-00
-t43
-Debian GNU/Linux 11 (bullseye)
+       eam-00
+       t43
+       Debian GNU/Linux 11 (bullseye)
 5.10.0-18-686-pae
 uptime 14m
 pkgs 360
