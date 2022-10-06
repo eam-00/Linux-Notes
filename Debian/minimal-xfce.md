@@ -15,10 +15,10 @@ After the initial install:
        eam-00
        t43
        Debian GNU/Linux 11 (bullseye)
-5.10.0-18-686-pae
-uptime 14m
-pkgs 360
-memory 43M / 2012M
+       5.10.0-18-686-pae
+       uptime 14m
+       pkgs 360
+       memory 43M / 2012M
 
 eam-00@t43:~/Local/Scripts$ df -h
 Filesystem                Size  Used Avail Use% Mounted on
