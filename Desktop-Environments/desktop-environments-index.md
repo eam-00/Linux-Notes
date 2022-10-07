@@ -13,7 +13,7 @@ Should be on ~/.local/share/themes/. Also, it can be an alias to the ~/.themes/.
 On Debian Bullseye {GNOME 3.38.5}  
 Settings > Keyboard Shortcuts > Switch Windows > Alt Tab
 
-Select "Replace" if the shortcut is already in use.
+Select "*Replace*" if the shortcut is already in use.
 
 Settings > Keyboard > View and Customize Shortcuts > Navigation > Switch Windows > Alt Tabs
 
