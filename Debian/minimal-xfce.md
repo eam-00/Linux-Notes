@@ -33,7 +33,7 @@ tmpfs                     202M     0  202M   0% /run/user/1000
 Reboot to get things work... Login out and back again is not enough.
 
 After installing Minimal XFCE:
------------------------------
+
 
 
  /  __ \
