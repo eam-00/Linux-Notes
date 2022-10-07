@@ -20,10 +20,10 @@ After the initial install:
        pkgs 360
        memory 43M / 2012M
 
-eam-00@t43:~/Local/Scripts$ df -h
-Filesystem                Size  Used Avail Use% Mounted on
-udev                      993M     0  993M   0% /dev
-tmpfs                     202M  784K  201M   1% /run
+       eam-00@t43:~/Local/Scripts$ df -h
+       Filesystem                Size  Used Avail Use% Mounted on
+       udev                      993M     0  993M   0% /dev
+       tmpfs                     202M  784K  201M   1% /run
 /dev/mapper/t43--vg-root   72G  1.5G   67G   3% /
 tmpfs                    1007M     0 1007M   0% /dev/shm
 tmpfs                     5.0M     0  5.0M   0% /run/lock
