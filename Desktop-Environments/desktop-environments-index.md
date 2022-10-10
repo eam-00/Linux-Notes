@@ -45,6 +45,8 @@ Settings > Region & Language > Input Sources > Click on the *+* below "English" 
 
 Then scroll until you find "English (US, alt. intl.)"
 
+### Set a Solid Color as Desktop
+
 ### Mouse
 - Resize and move windows with Alt + Mouse buttons  
 
