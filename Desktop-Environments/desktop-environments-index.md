@@ -49,6 +49,7 @@ Then scroll until you find "English (US, alt. intl.)"
 
 gsettings set org.gnome.desktop.background picture-uri none
 gsettings set org.gnome.desktop.background primary-color '#BF4040'
+gsettings set org.gnome.desktop.background color-shading-type 'solid'
 
 ### Mouse
 - Resize and move windows with Alt + Mouse buttons  
