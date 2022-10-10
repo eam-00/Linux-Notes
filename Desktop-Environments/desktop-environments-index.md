@@ -47,6 +47,8 @@ Then scroll until you find "English (US, alt. intl.)"
 
 ### Set a Solid Color as Desktop
 
+gsettings set org.gnome.desktop.background picture-uri none
+
 ### Mouse
 - Resize and move windows with Alt + Mouse buttons  
 
