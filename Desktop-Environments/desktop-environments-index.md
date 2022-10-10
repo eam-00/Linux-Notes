@@ -65,7 +65,7 @@ To revert it:
 
 ``gsettings set org.gnome.desktop.peripherals.touchpad send-events enabled``
 
-### Start Automagically Programs on Login
+### Start Programs Automagically upon Login
 
 Create the file on the ``~/.config/autostart/`` directory.  
 With the ".desktop" extension:  
