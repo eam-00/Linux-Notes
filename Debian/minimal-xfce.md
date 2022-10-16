@@ -36,8 +36,8 @@ After installing Minimal XFCE:
 
 
 
- /  __ \
-|  /    |
+        /  __ \
+       |  /    |
 |  \___-
 -_
   --_
