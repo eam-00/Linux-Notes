@@ -89,5 +89,6 @@ Goto > Settings > Keyboard > Application Shortcuts
 | ----------- | -------------- |
 | xfce4-terminal | Super+Enter |
 | thunar | Super+T |
+| xfce4-popup-applicationsmenu | Super+W |
 
 
