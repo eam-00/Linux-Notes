@@ -5,3 +5,4 @@
 - [Docker](/Docker/docker-index.md)
 - [Desktop Environments](/Desktop-Environments/desktop-environments-index.md)
 - [Debian](Debian/minimal-xfce.md)
+- [NOTES](Misc/notes.md)
