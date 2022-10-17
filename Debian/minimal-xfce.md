@@ -38,9 +38,9 @@ After installing Minimal XFCE:
 
         /  __ \
        |  /    |
-|  \___-
--_
-  --_
+       |  \___-
+       -_
+         --_
 eam-00
 os Debian GNU/Linux 11 (bullseye)
 host ThinkPad T43
