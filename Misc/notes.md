@@ -1,6 +1,6 @@
 ## tmpfs on /etc/fstab
 
-Setup tmpfs for /tmp and other flags for /
+Setup tmpfs for /tmp and other flags for / - Useful for SSD drives
 
      # <file system>						<mount point>	<type>	<options>				<dump>	<pass>
 
