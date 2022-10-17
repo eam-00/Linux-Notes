@@ -1,0 +1,5 @@
+## tmpfs on /etc/fstab
+
+
+
+
