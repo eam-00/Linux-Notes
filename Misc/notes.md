@@ -3,7 +3,7 @@
 Setup tmpfs for /tmp and other flags for /
 
      # <file system>						<mount point>	<type>	<options>				<dump>	<pass>
-     /dev/mapper/hpenvy--vg-root				/		ext4	relatime,discard,errors=remount-ro      0       1
+
      
      /dev/mapper/mint--vg-root                       /               ext4    relatime,discard,errors=remount-ro      0       1
      UUID=eded2f34-69eb-450e-b6a7-7930a3ca1046       /boot           ext2    defaults                                0       2
