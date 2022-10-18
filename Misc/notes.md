@@ -1,7 +1,7 @@
 ## tmpfs on /etc/fstab
 
 Setup /tmp as tmpfs (on RAM) and other miscelaneous flags for /  
-Those are useful for SSD drives, they extend the life of drive.
+Setting /tmp on RAM as well as the options for / reduce the writes on SSD, extending its file span.
 
      # <file system>                                 <mount point>   <type>	<options>				<dump>	<pass> 
      /dev/mapper/hpenvy--vg-root                     /               ext4    relatime,discard,errors=remount-ro      0       1
