@@ -1,7 +1,7 @@
 ## tmpfs on /etc/fstab
 
 Setup /tmp as tmpfs (on RAM) and other miscelaneous flags for /  
-Useful for SSD drives
+Those are useful for SSD drives, they extend the life of drive.
 
      # <file system>						<mount point>	<type>	<options>				<dump>	<pass>
 
