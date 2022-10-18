@@ -3,7 +3,7 @@
 Setup /tmp as tmpfs (on RAM) and other miscelaneous flags for /  
 Those are useful for SSD drives, they extend the life of drive.
 
-     # <file system>						<mount point>	<type>	<options>				<dump>	<pass> 
+     # <file system>                                 <mount point>	<type>	<options>				<dump>	<pass> 
      /dev/mapper/hpenvy--vg-root                     /               ext4    relatime,discard,errors=remount-ro      0       1
      UUID=eded2f34-69eb-450e-b6a7-7930a3ca1046       /boot           ext2    defaults                                0       2
      tmpfs                                           /tmp            tmpfs   defaults,noatime,mode=1777              0       0
