@@ -17,3 +17,5 @@ To force a re-read of the file.
 
 ## Install Chrome
 
+     sudo su -
+
