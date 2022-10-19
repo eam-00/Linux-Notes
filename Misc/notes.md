@@ -13,5 +13,6 @@ After editing the ``/etc/fstab`` file, issue a:
 
      mount -a
 
+To force a re-read of the file.
 
 
