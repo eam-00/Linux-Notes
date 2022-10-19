@@ -1,4 +1,4 @@
-## tmpfs on /etc/fstab
+## Setup tmpfs on /etc/fstab
 
 Setup /tmp as tmpfs (on RAM) and other miscelaneous flags for the root / partition.  
 Setting /tmp on RAM as well as the options for / reduce the writes on SSD, extending its file span.
