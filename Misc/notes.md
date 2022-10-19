@@ -15,4 +15,5 @@ After editing the ``/etc/fstab`` file, issue a:
 
 To force a re-read of the file.
 
+## Install Chrome
 
