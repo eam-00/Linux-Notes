@@ -18,4 +18,5 @@ To force a re-read of the file.
 ## Install Chrome
 
      sudo su -
-
+     echo "deb http://dl.google.com/linux/chrome/deb/ stable main" > /etc/apt/sources.list.d/chrome.list
+     
