@@ -9,7 +9,7 @@ Setting /tmp on RAM as well as the options for / reduce the writes on SSD, exten
      tmpfs                                           /tmp            tmpfs   defaults,noatime,mode=1777              0       0
      /dev/mapper/cryptswap1                          none            swap    sw                                      0       0
 
-After editing the /etc/fstab file, issue a:
+After editing the ``/etc/fstab`` file, issue a:
 
      mount -a
 
