@@ -11,7 +11,7 @@ Setting /tmp on RAM as well as the options for / reduce the writes on SSD, exten
 
 After editing the file /etc/fstab, issue a:
 
-     /etc/fstab
+     mount -a
 
 
 
