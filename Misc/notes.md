@@ -21,3 +21,4 @@ To force a re-read of the file.
      echo "deb http://dl.google.com/linux/chrome/deb/ stable main" > /etc/apt/sources.list.d/chrome.list
      wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | apt-key add -
      
+Run an apt update:
