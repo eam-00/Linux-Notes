@@ -34,5 +34,7 @@ And then remove the original repo, first go to the directory:
      cd /etc/apt/sources.list.d/
      rm -f chrome.list
 
-There is another repo, installed when you install Chrome, so the browser will continue to get updated thru apt-get like all the other programs.
+There is another repo, installed when you install Chrome, so the browser will continue to get updated thru apt-get like all the other programs.  
+The repo is called:
+
   
