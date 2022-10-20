@@ -31,3 +31,4 @@ And then install chrome:
 
 And then remove the original repo:
 
+     cd /etc/apt/sources.list.d/
