@@ -29,6 +29,6 @@ And then install chrome:
 
      apt-get install google-chrome-stable
 
-And then remove the original repo:
+And then remove the original repo, first go to the directory:
 
      cd /etc/apt/sources.list.d/
