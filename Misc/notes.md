@@ -37,4 +37,5 @@ And then remove the original repo, first go to the directory:
 There is another repo, installed when you install Chrome, so the browser will continue to get updated thru apt-get like all the other programs.  
 The repo is called:
 
-  
+     google-chrome.list
+
