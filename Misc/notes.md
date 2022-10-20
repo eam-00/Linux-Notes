@@ -22,3 +22,5 @@ To force a re-read of the file.
      wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | apt-key add -
      
 Run an apt update:
+
+     apt-get update
