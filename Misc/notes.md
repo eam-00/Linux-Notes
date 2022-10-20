@@ -29,5 +29,5 @@ And then install chrome:
 
      apt-get install google-chrome-stable
 
-Thns remove the original repo:
+And then remove the original repo:
 
