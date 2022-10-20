@@ -26,3 +26,5 @@ Run an apt update:
      apt-get update
 
 And then install chrome:
+
+     apt-get install google-chrome-stable
