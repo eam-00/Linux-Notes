@@ -24,3 +24,5 @@ To force a re-read of the file.
 Run an apt update:
 
      apt-get update
+
+And then install chrome:
