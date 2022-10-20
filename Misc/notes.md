@@ -28,3 +28,6 @@ Run an apt update:
 And then install chrome:
 
      apt-get install google-chrome-stable
+
+Thns remove the original repo:
+
