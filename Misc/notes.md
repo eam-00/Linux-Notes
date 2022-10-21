@@ -40,3 +40,5 @@ The repo is called:
      google-chrome.list
 
 ## Dropbox
+
+Install Dropbox from the CLI
