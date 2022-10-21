@@ -42,3 +42,6 @@ The repo is called:
 ## Dropbox
 
 Install Dropbox from the CLI
+
+
+cd ~ && wget -O - "https://www.dropbox.com/download?plat=lnx.x86_64" | tar xzf -
