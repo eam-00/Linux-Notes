@@ -106,7 +106,7 @@ Edit the file like this:
 
 Also to set a dark Chrome, you can go to:  
 ``chrome://flags/``  
-and look for the enrty *Auto Dark Mode for Web Contents* and set it to **Enabled**.
+and look for the entry called *Auto Dark Mode for Web Contents* and set it to **Enabled**.
 
 Other startup flags:
 
