@@ -46,7 +46,7 @@ Install Dropbox from the CLI
 **64-bit installer**:  
 ``cd ~ && wget -O - "https://www.dropbox.com/download?plat=lnx.x86_64" | tar xzf -``
 
-32-bit installer:  
+**32-bit installer**:  
 ``cd ~ && wget -O - "https://www.dropbox.com/download?plat=lnx.x86" | tar xzf -``
 
 ~/.dropbox-dist/dropboxd
