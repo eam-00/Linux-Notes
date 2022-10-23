@@ -105,6 +105,7 @@ Edit the file like this:
 ``Exec=/usr/bin/google-chrome-stable --disk-cache-dir=/some/dir/here --enable-smooth-scrolling --force-dark-mode %U``
 
 Also to set a dark Chrome, you can go to:  
+
 ``chrome://flags/``  
 and look for the entry called *Auto Dark Mode for Web Contents* and set it to **Enabled**.
 
