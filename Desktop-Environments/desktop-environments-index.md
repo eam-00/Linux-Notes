@@ -112,7 +112,7 @@ Other startup flags:
 
 ``/usr/bin/google-chrome-stable --disk-cache-dir=/some/dir/here --use-gl=desktop --force-device-scale-factor=2.5 --enable-smooth-scrolling --force-dark-mode %U``
 
-These are the flags currently using on the HP Envy:
+This are the flags currently using on the HP Envy:
 
 ``/usr/bin/google-chrome-stable --disk-cache-dir=/some/dir/here --use-gl=desktop --force-device-scale-factor=2.2 --force-dark-mode %U``
 
