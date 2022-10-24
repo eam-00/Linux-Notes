@@ -51,7 +51,7 @@ Install Dropbox from the CLI
 
 Then issue:
 
-~/.dropbox-dist/dropboxd
+``~/.dropbox-dist/dropboxd``
 
 To start Dropbox.
 
