@@ -53,3 +53,6 @@ Then issue:
 
 ~/.dropbox-dist/dropboxd
 
+To start Dropbox.
+
+
