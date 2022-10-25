@@ -30,7 +30,7 @@ After the initial install:
        /dev/sda1                 470M  109M  337M  25% /boot
        tmpfs                     202M     0  202M   0% /run/user/1000
 
-Reboot to get things work... Login out and back again is not enough.
+Reboot to get things working... Login out and back again is not enough.
 
 After installing Minimal XFCE:
 
