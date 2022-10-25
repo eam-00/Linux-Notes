@@ -92,3 +92,6 @@ Goto > Settings > Keyboard > Application Shortcuts
 | xfce4-popup-applicationsmenu | Super+W |
 
 ## Links
+
+* [GNOME Keyboard Shortcuts](https://github.com/eam-00/Linux-Notes/blob/main/Desktop-Environments/desktop-environments-index.md#keyboard-shortcuts)
+
