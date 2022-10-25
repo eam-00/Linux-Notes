@@ -91,4 +91,4 @@ Goto > Settings > Keyboard > Application Shortcuts
 | thunar | Super+T |
 | xfce4-popup-applicationsmenu | Super+W |
 
-
+## Links
