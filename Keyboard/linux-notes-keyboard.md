@@ -21,6 +21,7 @@ Name it whatever you like, same for the description, but be sure to set the comm
 
 ``/usr/bin/setxkbmap -option ctrl:nocaps``
 
+I had to give the full path to ``setxkbmap``, otherwise it failed.  
 Also, make sure the trigger is set to: **On Login**.
 
 ![XFCE Sessino and Startup](Pics/rsz_screenshot_2021-09-27_21-40-54.jpg)
