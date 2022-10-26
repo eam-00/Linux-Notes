@@ -58,6 +58,8 @@ Tweaks > Windows
 
 Enable the option:  
 *Resize with Secondary-Click*
+
+Then set:
 Window Action Key Alt 
 
 - Tap to Click
