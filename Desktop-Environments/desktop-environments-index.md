@@ -56,6 +56,7 @@ gsettings set org.gnome.desktop.background color-shading-type 'solid'
 
 Tweaks > Windows 
 
+Enable the option:  
 Resize with Secondary-Click Check  
 Window Action Key Alt 
 
