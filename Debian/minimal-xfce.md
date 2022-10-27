@@ -44,10 +44,10 @@ After installing Minimal XFCE:
        eam-00
        os Debian GNU/Linux 11 (bullseye)
        host ThinkPad T43
-kernel 5.10.0-18-686-pae
-uptime 2h 12m
-pkgs 684
-memory 208M / 2012M
+       kernel 5.10.0-18-686-pae
+       uptime 2h 12m
+       pkgs 684
+       memory 208M / 2012M
 
 
 
