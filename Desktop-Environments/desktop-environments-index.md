@@ -71,7 +71,7 @@ Settings > Mouse & Touchpad > Touchpad > Touch to Click
 
 ``gsettings set org.gnome.desktop.peripherals.touchpad send-events disabled-on-external-mouse``
 
-To revert it:
+If you want to revert that:
 
 ``gsettings set org.gnome.desktop.peripherals.touchpad send-events enabled``
 
