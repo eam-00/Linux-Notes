@@ -64,9 +64,9 @@ This is helpful when you have a corrupted package database and you want to force
 ``sudo pacman -Rdd lib32-libcanberra lib32-libcanberra-gstreamer lib32-libcanberra-pulse libcanberra libcanberra-gstreamer libcanberra-pulse``  
 
 - Enable the SSH server:  
-``sudo systemctl status sshd.service``  
 ``sudo systemctl enable sshd.service``  
-``sudo systemctl start sshd.service``
+``sudo systemctl start sshd.service``  
+``sudo systemctl status sshd.service``  
 
 - Install Google Chrome:  
 ``sudo pamac install google-chrome``
