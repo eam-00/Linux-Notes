@@ -94,6 +94,8 @@ Goto > Settings > Keyboard > Application Shortcuts
 
 ## Links
 
+Other keyboard resources
+
 * [GNOME Keyboard Shortcuts](https://github.com/eam-00/Linux-Notes/blob/main/Desktop-Environments/desktop-environments-index.md#keyboard-shortcuts)
 * [GNOME Keyboard Layout](https://github.com/eam-00/Linux-Notes/blob/main/Desktop-Environments/desktop-environments-index.md#keyboard-layout)
 
