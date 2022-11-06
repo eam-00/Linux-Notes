@@ -94,7 +94,7 @@ Here is an example of the start script for Dropbox:
 
 ### Gnome Extensions
 
-## Manually install extensions
+#### Manually install extensions
 
 ## Chrome
 - Set Chrome browser startup options:
