@@ -92,6 +92,8 @@ Here is an example of the start script for Dropbox:
         Name=Dropbox
         Comment=Online Backups
 
+### Gnome Extensions
+
 
 ## Chrome
 - Set Chrome browser startup options:
