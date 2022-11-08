@@ -97,7 +97,8 @@ Here is an example of the start script for Dropbox:
 #### Manually install extensions
 
 ## Chrome
-- Set Chrome browser startup options:
+
+### Set Chrome browser startup options:
 
 Edit (create) the file ``~/.config/chrome-flags.conf`` and add this:
 
