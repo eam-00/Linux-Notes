@@ -132,6 +132,8 @@ Launch Chrome and open: chrome://flags/#tab-hover-card-images
 
 Set it to: Disabled
 
+Relaunch Chrome for the changes to make it work.
+
 ## xrandr
 Set the screen brightness thru xrandr.  
 Get the screen info:
