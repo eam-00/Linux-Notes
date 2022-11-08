@@ -130,6 +130,8 @@ This are the flags currently using on the HP Envy:
 
 Launch Chrome and open: chrome://flags/#tab-hover-card-images
 
+Set it to: Disabled
+
 ## xrandr
 Set the screen brightness thru xrandr.  
 Get the screen info:
