@@ -40,7 +40,7 @@ Tweaks > Keyboad & Mouse > Emacs Input
 
 ### Keyboard Layout
 
-Change the layout from the traditional US to the convenient "English (US, alt. intl.)"  
+Change the layout from the traditional US to the more convenient "English (US, alt. intl.)"  
 
 Settings > Region & Language > Input Sources > Click on the *+* below "English" > Then click on English
 
