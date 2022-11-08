@@ -128,6 +128,8 @@ This are the flags currently using on the HP Envy:
 
 ### Disable Tab Hover Previews in Chrome
 
+Launch Chrome and open: chrome://flags/#tab-hover-card-images
+
 ## xrandr
 Set the screen brightness thru xrandr.  
 Get the screen info:
