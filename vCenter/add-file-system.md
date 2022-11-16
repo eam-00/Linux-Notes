@@ -114,7 +114,7 @@ To test if the mount, getting the info from the ``/etc/fstab`` file, goes smooth
 
 
 * Attach the new storage to the system.
-Create a new Physical Volume (PV) from that storage.
+* Create a new Physical Volume (PV) from that storage.
 
   pvcreate /dev/xvdc
 
