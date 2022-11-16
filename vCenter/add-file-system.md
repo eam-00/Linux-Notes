@@ -110,3 +110,28 @@ If you can't reboot the server, issue a:
     mount -a
 
 To test if the mount, getting the info from the ``/etc/fstab`` file, goes smooth.
+
+Attach the new storage to the system.
+Create a new Physical Volume (PV) from that storage.
+
+  pvcreate /dev/xvdc
+
+Identify the Volume Group
+
+  vgs
+
+Extend the Volume Group
+
+  vgextend
+
+Add the PV to the Volume Group (VG).
+
+Extend the Logical Volume (LV).
+
+  lvextend -l +100%FREE /dev/centos/root
+
+Extend the filesystem
+
+  xfs_growfs
+
+
