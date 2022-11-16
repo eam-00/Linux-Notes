@@ -130,7 +130,7 @@ Add the PV to the Volume Group (VG).
 
 Extend the Logical Volume (LV).
 
-  lvextend -l +100%FREE /dev/centos/root
+  ``lvextend -l +100%FREE /dev/centos/root``
 
 Extend the filesystem
 
