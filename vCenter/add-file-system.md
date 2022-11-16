@@ -118,7 +118,7 @@ To test if the mount, getting the info from the ``/etc/fstab`` file, goes smooth
 
   ``pvcreate /dev/xvdc``
 
-Identify the Volume Group
+* Identify the Volume Group
 
   ``vgs``
 
