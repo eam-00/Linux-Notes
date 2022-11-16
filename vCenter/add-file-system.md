@@ -124,7 +124,7 @@ To test if the mount, getting the info from the ``/etc/fstab`` file, goes smooth
 
 Extend the Volume Group
 
-  vgextend
+  ``vgextend``
 
 Add the PV to the Volume Group (VG).
 
