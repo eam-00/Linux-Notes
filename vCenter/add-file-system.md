@@ -132,7 +132,7 @@ To test if the mount, getting the info from the ``/etc/fstab`` file, goes smooth
 
   ``lvextend -l +100%FREE /dev/centos/root``
 
-Extend the filesystem
+* Extend the filesystem
 
   ``xfs_growfs``
 
