@@ -120,7 +120,7 @@ To test if the mount, getting the info from the ``/etc/fstab`` file, goes smooth
 
 Identify the Volume Group
 
-  vgs
+  ``vgs``
 
 Extend the Volume Group
 
