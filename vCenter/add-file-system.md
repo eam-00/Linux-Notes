@@ -134,6 +134,6 @@ To test if the mount, getting the info from the ``/etc/fstab`` file, goes smooth
 
 Extend the filesystem
 
-  xfs_growfs
+  ``xfs_growfs``
 
 
