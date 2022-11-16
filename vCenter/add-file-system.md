@@ -128,7 +128,7 @@ To test if the mount, getting the info from the ``/etc/fstab`` file, goes smooth
 
 * Add the PV to the Volume Group (VG).
 
-Extend the Logical Volume (LV).
+* Extend the Logical Volume (LV).
 
   ``lvextend -l +100%FREE /dev/centos/root``
 
