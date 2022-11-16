@@ -122,7 +122,7 @@ To test if the mount, getting the info from the ``/etc/fstab`` file, goes smooth
 
   ``vgs``
 
-Extend the Volume Group
+* Extend the Volume Group
 
   ``vgextend``
 
