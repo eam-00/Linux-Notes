@@ -139,4 +139,5 @@ To test if the mount, getting the info from the ``/etc/fstab`` file, goes smooth
 # Links
 
 * [How to resize a logical volume with 5 simple LVM commands](https://www.redhat.com/sysadmin/resize-lvm-simple)
+* [LFCS: How to Manage and Create LVM Using vgcreate, lvcreate and lvextend Commands – Part 11](https://www.tecmint.com/manage-and-create-lvm-parition-using-vgcreate-lvcreate-and-lvextend/)
 * [How to Extend/Reduce LVM’s (Logical Volume Management) in Linux – Part II](https://www.tecmint.com/extend-and-reduce-lvms-in-linux/)
