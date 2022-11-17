@@ -130,7 +130,7 @@ This are the flags currently using on the HP Envy:
 
 Launch Chrome and open: chrome://flags/#tab-hover-card-images
 
-Set it to: Disabled
+Set it to: *Disabled*
 
 Relaunch Chrome for the changes to make it work.
 
