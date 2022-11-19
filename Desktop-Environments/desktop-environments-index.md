@@ -99,6 +99,9 @@ Here is an example of the start script for Dropbox:
 * Download the extension.
 * Extract the zip file.
 * cd onto the extracted directory.
+
+On the directory there is a file named "metadata.json".
+
 * Rename the directory of the Gnome extension:
 
 ## Chrome
