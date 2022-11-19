@@ -97,6 +97,7 @@ Here is an example of the start script for Dropbox:
 #### Manually install extensions
 
 * Download the extension.
+* Extract the zip file.
 
 ## Chrome
 
