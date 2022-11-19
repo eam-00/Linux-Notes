@@ -107,7 +107,7 @@ Do a less on the file and look for the value on the "uuid" variable.
 
 Go up one directory and then rename the directory with the value that the "uuid" variable has.
 
-
+* Copy the renamed directory to your user’s Gnome extension directory.
 
 * Move the renamed directory to your user’s Gnome extension directory.
 
