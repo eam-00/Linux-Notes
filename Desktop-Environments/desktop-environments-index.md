@@ -100,7 +100,8 @@ Here is an example of the start script for Dropbox:
 * Extract the zip file.
 * cd onto the extracted directory.
 
-On the directory there is a file named "metadata.json".
+On the directory there is a file named "*metadata.json*".  
+Do a less on the file and look for the value on the "uuid" variable.  
 
 * Rename the directory of the Gnome extension:
 
