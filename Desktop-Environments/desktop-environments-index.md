@@ -109,7 +109,7 @@ Go up one directory and then rename the directory with the value that the "uuid"
 
 * Copy the renamed directory to your user’s Gnome extension directory.
 
-* Move the renamed directory to your user’s Gnome extension directory.
+
 
 ## Chrome
 
