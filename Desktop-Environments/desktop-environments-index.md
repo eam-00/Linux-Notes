@@ -103,7 +103,7 @@ Here is an example of the start script for Dropbox:
 On the directory there is a file named "*metadata.json*".  
 Do a less on the file and look for the value on the "uuid" variable.
 
-* Rename the directory of the Gnome extension:
+* Rename the directory of the Gnome extension.
 
 Go up one directory and then rename the directory with the value that the "uuid" variable has.
 
