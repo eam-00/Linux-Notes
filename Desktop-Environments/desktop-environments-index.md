@@ -106,6 +106,8 @@ Go up one directory and then rename the directory with the value that the "uuid"
 
 * Rename the directory of the Gnome extension:
 
+* Move the renamed directory to your user’s Gnome extension directory.
+
 ## Chrome
 
 ### Set Chrome browser startup options:
