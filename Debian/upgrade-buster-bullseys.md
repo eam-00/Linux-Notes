@@ -1,7 +1,7 @@
 # Upgade from Buster to Bullseye
 
 ## To start with
-
+``
 optiplex-755-usff:~/Local/Scripts$ date
 Sun 25 Dec 2022 02:00:54 AM -03
 optiplex-755-usff:~/Local/Scripts$ ./pfetch 
@@ -14,4 +14,7 @@ optiplex-755-usff:~/Local/Scripts$ ./pfetch
              memory 681M / 7774M
 
 optiplex-755-usff:~/Local/Scripts$ 
+``
+
+
 
