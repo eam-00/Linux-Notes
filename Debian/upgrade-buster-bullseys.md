@@ -4,7 +4,7 @@
 
     optiplex-755-usff:~/$ date
     Sun 25 Dec 2022 02:00:54 AM -03
-    optiplex-755-usff:~/Local/Scripts$ ./pfetch 
+    optiplex-755-usff:~/$ ./pfetch 
       _____      eam-00@optiplex-755-usff
      /  __ \     os     Debian GNU/Linux 10 (buster)
     |  /    |    host   3113BS3 ThinkPad X201 Tablet
