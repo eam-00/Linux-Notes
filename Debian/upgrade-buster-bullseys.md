@@ -28,3 +28,8 @@ optiplex-755-usff:~/Local/Scripts$ ./pfetch
   --_        pkgs   1614
              memory 727M / 7774M
 
+sudo apt full-upgrade
+
+
+
+
