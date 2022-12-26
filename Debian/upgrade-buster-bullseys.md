@@ -2,7 +2,7 @@
 
 ## To start with
 
-    optiplex-755-usff:~/Local/Scripts$ date
+    optiplex-755-usff:~/$ date
     Sun 25 Dec 2022 02:00:54 AM -03
     optiplex-755-usff:~/Local/Scripts$ ./pfetch 
       _____      eam-00@optiplex-755-usff
