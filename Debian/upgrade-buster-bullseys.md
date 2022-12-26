@@ -17,4 +17,14 @@
 sudo apt update
 sudo apt upgrade 
 
+optiplex-755-usff:~/Local/Scripts$ date
+Sun 25 Dec 2022 02:37:22 AM -03
+optiplex-755-usff:~/Local/Scripts$ ./pfetch 
+  _____      epsilon-alpha-mu@optiplex-755-usff
+ /  __ \     os     Debian GNU/Linux 11 (bullseye)
+|  /    |    host   3113BS3 ThinkPad X201 Tablet
+|  \___-     kernel 4.19.0-23-amd64
+-_           uptime 1h 48m
+  --_        pkgs   1614
+             memory 727M / 7774M
 
