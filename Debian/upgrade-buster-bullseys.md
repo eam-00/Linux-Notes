@@ -43,3 +43,14 @@ optiplex-755-usff:~/Local/Scripts$ ./pfetch
 
 sudo apt autoremove
 
+optiplex-755-usff:~/Local/Scripts$ date
+Sun 25 Dec 2022 03:07:36 AM -03
+optiplex-755-usff:~/Local/Scripts$ ./pfetch 
+  _____      epsilon-alpha-mu@optiplex-755-usff
+ /  __ \     os     Debian GNU/Linux 11 (bullseye)
+|  /    |    host   3113BS3 ThinkPad X201 Tablet
+|  \___-     kernel 4.19.0-23-amd64
+-_           uptime 2h 19m
+  --_        pkgs   1668
+             memory 721M / 7774M
+
