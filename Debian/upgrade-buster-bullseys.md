@@ -41,5 +41,5 @@ optiplex-755-usff:~/Local/Scripts$ ./pfetch
   --_        pkgs   1780
              memory 740M / 7774M
 
-
+sudo apt autoremove
 
