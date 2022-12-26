@@ -14,7 +14,7 @@
              memory 681M / 7774M
 
 
-
+sudo apt update
 
 
 
