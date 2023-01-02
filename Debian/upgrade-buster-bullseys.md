@@ -1,6 +1,6 @@
 # Upgade from Buster to Bullseye
 
-## To start with
+## Starting with 1557 packages
 
     optiplex-755-usff:~/$ date
     Sun 25 Dec 2022 02:00:54 AM -03
@@ -14,8 +14,8 @@
              memory 681M / 7774M
 
 
-sudo apt update
-sudo apt upgrade 
+    sudo apt update
+    sudo apt upgrade 
 
 optiplex-755-usff:~/Local/Scripts$ date
 Sun 25 Dec 2022 02:37:22 AM -03
