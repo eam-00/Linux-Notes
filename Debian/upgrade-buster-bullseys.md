@@ -43,6 +43,8 @@ optiplex-755-usff:~/Local/Scripts$ ./pfetch
 
 sudo apt autoremove
 
+## Finishing with 1668 packages
+
 optiplex-755-usff:~/Local/Scripts$ date
 Sun 25 Dec 2022 03:07:36 AM -03
 optiplex-755-usff:~/Local/Scripts$ ./pfetch 
