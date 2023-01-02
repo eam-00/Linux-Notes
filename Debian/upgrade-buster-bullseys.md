@@ -28,7 +28,7 @@ optiplex-755-usff:~/Local/Scripts$ ./pfetch
   --_        pkgs   1614
              memory 727M / 7774M
 
-sudo apt full-upgrade
+    sudo apt full-upgrade
 
 optiplex-755-usff:~/Local/Scripts$ date
 Sun 25 Dec 2022 03:04:28 AM -03
@@ -41,11 +41,11 @@ optiplex-755-usff:~/Local/Scripts$ ./pfetch
   --_        pkgs   1780
              memory 740M / 7774M
 
-sudo apt autoremove
+    sudo apt autoremove
 
 ## Finishing with 1668 packages
 
-optiplex-755-usff:~/Local/Scripts$ date
+    optiplex-755-usff:~/Local/Scripts$ date
 Sun 25 Dec 2022 03:07:36 AM -03
 optiplex-755-usff:~/Local/Scripts$ ./pfetch 
   _____      epsilon-alpha-mu@optiplex-755-usff
