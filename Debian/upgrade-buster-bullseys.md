@@ -30,9 +30,9 @@
 
     sudo apt full-upgrade
 
-optiplex-755-usff:~/Local/Scripts$ date
-Sun 25 Dec 2022 03:04:28 AM -03
-optiplex-755-usff:~/Local/Scripts$ ./pfetch 
+    optiplex-755-usff:~/Local/Scripts$ date
+    Sun 25 Dec 2022 03:04:28 AM -03
+    optiplex-755-usff:~/Local/Scripts$ ./pfetch 
   _____      epsilon-alpha-mu@optiplex-755-usff
  /  __ \     os     Debian GNU/Linux 11 (bullseye)
 |  /    |    host   3113BS3 ThinkPad X201 Tablet
