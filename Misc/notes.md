@@ -15,7 +15,7 @@ After editing the ``/etc/fstab`` file, issue a:
 
 To force a re-read of the file.
 
-## Install Chrome
+## Install Google Chrome
 
      sudo su -
      echo "deb http://dl.google.com/linux/chrome/deb/ stable main" > /etc/apt/sources.list.d/chrome.list
