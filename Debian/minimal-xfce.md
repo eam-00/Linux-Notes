@@ -35,7 +35,7 @@ Reboot to get things working... Login out and back again is not enough.
 After installing Minimal XFCE:
 
 
-
+         _____
         /  __ \
        |  /    |
        |  \___-
