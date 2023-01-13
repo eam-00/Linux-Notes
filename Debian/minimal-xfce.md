@@ -2,7 +2,7 @@
 
 Some notes for making a minimal XFCE installation on Debian Bullseye.
 
-Follow the instructions here: https://github.com/coonrad/Debian-Xfce4-Minimal-Install
+Follow the instructions here: [Debian Xfce4 Minimal Install Guide](https://github.com/coonrad/Debian-Xfce4-Minimal-Install)
 
 After the initial install:
 
