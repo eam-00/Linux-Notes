@@ -2,7 +2,7 @@
 
 _My Docker notes..._
 
-## What is it:
+## What is it
 Docker is an open source platform for building, deploying, and managing containerized applications.
 
 Difference between image & container:
