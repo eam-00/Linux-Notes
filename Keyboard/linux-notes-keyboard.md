@@ -1,5 +1,7 @@
 # Keyboard Settings
 
+Miscelaneous notes & tips for keyboard on XFCE
+
 ## Make the CapsLock key work as another Ctrl key
 
 Edit the file ``/etc/default/keyboard``:  
