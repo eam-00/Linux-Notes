@@ -33,9 +33,9 @@
     optiplex-755-usff:~/Local/Scripts$ date
     Sun 25 Dec 2022 03:04:28 AM -03
     optiplex-755-usff:~/Local/Scripts$ ./pfetch 
-  _____      epsilon-alpha-mu@optiplex-755-usff
- /  __ \     os     Debian GNU/Linux 11 (bullseye)
-|  /    |    host   3113BS3 ThinkPad X201 Tablet
+      _____      epsilon-alpha-mu@optiplex-755-usff
+     /  __ \     os     Debian GNU/Linux 11 (bullseye)
+    |  /    |    host   3113BS3 ThinkPad X201 Tablet
 |  \___-     kernel 4.19.0-23-amd64
 -_           uptime 2h 16m
   --_        pkgs   1780
