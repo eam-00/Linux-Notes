@@ -36,10 +36,10 @@
       _____      epsilon-alpha-mu@optiplex-755-usff
      /  __ \     os     Debian GNU/Linux 11 (bullseye)
     |  /    |    host   3113BS3 ThinkPad X201 Tablet
-|  \___-     kernel 4.19.0-23-amd64
--_           uptime 2h 16m
-  --_        pkgs   1780
-             memory 740M / 7774M
+    |  \___-     kernel 4.19.0-23-amd64
+    -_           uptime 2h 16m
+      --_        pkgs   1780
+                 memory 740M / 7774M
 
     sudo apt autoremove
 
