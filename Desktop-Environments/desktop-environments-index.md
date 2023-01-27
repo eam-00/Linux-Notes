@@ -52,6 +52,8 @@ Then scroll until you find "English (US, alt. intl.)"
 ``gsettings set org.gnome.desktop.background primary-color '#BF4040'``  
 ``gsettings set org.gnome.desktop.background color-shading-type 'solid'``
 
+### Gedit
+
 ### Mouse
 - Resize and move windows with Alt + Mouse buttons  
 
