@@ -54,6 +54,10 @@ Then scroll until you find "English (US, alt. intl.)"
 
 ### Gedit
 
+Gedit styles are stored in:
+
+
+
 ### Mouse
 - Resize and move windows with Alt + Mouse buttons  
 
