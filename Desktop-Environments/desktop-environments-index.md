@@ -56,7 +56,7 @@ Then scroll until you find "English (US, alt. intl.)"
 
 Gedit styles are stored in:
 
-``/.local/share/gedit/styles/``
+``~/.local/share/gedit/styles/``
 
 
 ### Mouse
