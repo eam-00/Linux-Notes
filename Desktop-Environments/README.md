@@ -1,4 +1,4 @@
-#Tips for Linux Desktop Environments
+# Tips for Linux Desktop Environments
 
 Budgie
 
