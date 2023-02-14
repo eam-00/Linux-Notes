@@ -1,7 +1,7 @@
 
 # Tips for Desktop Environments
 ## Budgie
-### Themes
+
 
 
 
