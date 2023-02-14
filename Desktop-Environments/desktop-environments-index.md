@@ -1,6 +1,6 @@
 
 # Tips for Desktop Environments
-## Budgie
+* [Budgie](https://github.com/eam-00/Linux-Notes/blob/main/Desktop-Environments/Budgie.md)
 
 
 
