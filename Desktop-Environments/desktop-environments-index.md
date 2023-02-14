@@ -2,7 +2,7 @@
 # Tips for Desktop Environments
 ## Budgie
 ### Themes
-Budgie themes should be copied onto the directory ~/.local/share/themes/.  
+
 
 
 
