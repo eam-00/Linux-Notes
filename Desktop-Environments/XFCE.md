@@ -1,1 +1,3 @@
 # XFCE
+
+## Theming
