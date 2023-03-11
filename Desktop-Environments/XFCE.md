@@ -5,6 +5,8 @@ Set theme from the CLI:
 
 ``xfconf-query -c xsettings -p /Net/ThemeName -s "Greybird"``
 
+Set icon theme from CLI:
+
 
 ## Keyboard
 * [EMACS Keybinds on XFCE](https://github.com/eam-00/Linux-Notes/blob/main/Keyboard/linux-notes-keyboard.md#emacs-keybindings-on-xfce)
