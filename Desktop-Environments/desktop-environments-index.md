@@ -123,7 +123,7 @@ Go up one directory and then rename the directory with the value that the "uuid"
 ### Set Chrome browser startup options
 
 
-``--disk-cache-dir=/some/dir/here``
+
 
 Alternatively:
 
