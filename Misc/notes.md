@@ -58,4 +58,4 @@ You'll be prompted -or forced- to login in order to start using Dropbox.
 
 ## SSL Certificate on Name Cheap -> Heroku
 
-
+- Login to Name Cheap
