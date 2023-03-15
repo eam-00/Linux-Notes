@@ -59,3 +59,5 @@ You'll be prompted -or forced- to login in order to start using Dropbox.
 ## SSL Certificate on Name Cheap -> Heroku
 
 - Login to Name Cheap
+They need a CSR in order to renew the SSL certificate.
+
