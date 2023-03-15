@@ -56,4 +56,6 @@ Then issue:
 To start Dropbox.  
 You'll be prompted -or forced- to login in order to start using Dropbox.
 
+## SSL Certificate on Name Cheap -> Heroku
+
 
