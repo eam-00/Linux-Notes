@@ -62,8 +62,8 @@ You'll be prompted -or forced- to login in order to start using Dropbox.
 They need a CSR in order to renew the SSL certificate.  
 Generate CSR locally on any Linux box:  
 ``openssl req -nodes -newkey rsa:2048 -keyout domain.something.key -out domain.something.csr``  
-Paste the CSR on the Name Cheap page.
-
+Paste the CSR on the Name Cheap page.  
+Validate the ownership of the domain thru HTTP (upload a specific file onto a specific directory on the server)
 
 
 
