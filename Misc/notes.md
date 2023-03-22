@@ -65,5 +65,5 @@ Generate CSR locally on any Linux box:
 Paste the CSR on the Name Cheap page.  
 Validate the ownership of the domain thru HTTP (upload a specific file onto a specific directory on the server)
 - Send email to domain.something with the validation file and the instructions to create and upload everything to the server.
-
+ Once they create the directories and copy the validation file on the server
 
