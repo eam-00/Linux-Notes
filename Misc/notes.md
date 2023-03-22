@@ -66,4 +66,5 @@ Paste the CSR on the Name Cheap page.
 Validate the ownership of the domain thru HTTP (upload a specific file onto a specific directory on the server)
 - Send email to domain.something with the validation file and the instructions to create and upload everything to the server.  
 When they confirm that the directories and the validation file are on the server.  
+Test it on an Incognito session.  
 Contact Name Cheap Support via chat, they issue the SSL certificate immediately.
