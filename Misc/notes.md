@@ -68,7 +68,8 @@ Validate the ownership of the domain thru HTTP (upload a specific file onto a sp
 When they confirm that the directories and the validation file are on the server.  
 Test it on an Incognito session.  
 Contact Name Cheap Support via chat, they issue the SSL certificate immediately.
-- Send email with the SSL certificate & the key to **domain.something**.
+- Send email with the SSL certificate & the key to **domain.something**.  
+They will be responsible for installing the cert on their servers.
 - After all of this, you need to set up a couple of DNS TXT records.  
 On Heroku they will issue or have a TXT record that we need to add to the DNS for **domain.something**.
 
