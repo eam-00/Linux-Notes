@@ -70,5 +70,5 @@ Test it on an Incognito session.
 Contact Name Cheap Support via chat, they issue the SSL certificate immediately.
 - Send email with the SSL certificate & the key to **domain.something**.
 - After all of this, you need to set up a couple of DNS TXT records.  
-On Heroku they have a TXT record that we need to add to the DNS for **domain.something**.
+On Heroku they will issue or have a TXT record that we need to add to the DNS for **domain.something**.
 
