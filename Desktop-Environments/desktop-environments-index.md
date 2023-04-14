@@ -5,8 +5,6 @@
 
 
 
-
-
 ## GNOME
 ### Keyboard Shortcuts
 - Make Alt + Tab cycle thru all the windows:  
