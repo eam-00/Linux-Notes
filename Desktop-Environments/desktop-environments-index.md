@@ -125,9 +125,7 @@ Go up one directory and then rename the directory with the value that the "uuid"
 
 
 
-Alternatively:
 
-``cp /usr/share/applications/google-chrome.desktop ~/.local/share/applications/``
 
 And then search on the file for the string and edit it like this:
 
