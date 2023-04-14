@@ -22,5 +22,9 @@ Also to set a dark Chrome, you can go to:
 
 and look for the entry called *Auto Dark Mode for Web Contents* and set it to **Enabled**.
 
+Other startup flags:
+
+``/usr/bin/google-chrome-stable --disk-cache-dir=/some/dir/here --use-gl=desktop --force-device-scale-factor=2.5 --enable-smooth-scrolling --force-dark-mode %U``
+
 ## Disable Tab Hover Previews in Chrome
 
