@@ -28,3 +28,7 @@ Other startup flags:
 
 ## Disable Tab Hover Previews in Chrome
 
+Launch Chrome and open: chrome://flags/#tab-hover-card-images
+
+
+
