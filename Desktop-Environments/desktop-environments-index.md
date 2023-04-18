@@ -118,7 +118,7 @@ Go up one directory and then rename the directory with the value that the "uuid"
 
 ## Chrome
 
-### Set Chrome browser startup options
+
 
 
 
