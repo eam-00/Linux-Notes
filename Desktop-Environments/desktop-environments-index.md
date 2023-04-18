@@ -127,7 +127,6 @@ Go up one directory and then rename the directory with the value that the "uuid"
 
 
 
-``Exec=/usr/bin/google-chrome-stable --disk-cache-dir=/some/dir/here --enable-smooth-scrolling --force-dark-mode %U``
 
 Also to set a dark Chrome, you can go to:  
 
