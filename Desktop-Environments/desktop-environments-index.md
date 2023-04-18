@@ -125,7 +125,7 @@ Go up one directory and then rename the directory with the value that the "uuid"
 
 
 
-And then search on the file for the string and edit it like this:
+
 
 ``Exec=/usr/bin/google-chrome-stable --disk-cache-dir=/some/dir/here --enable-smooth-scrolling --force-dark-mode %U``
 
