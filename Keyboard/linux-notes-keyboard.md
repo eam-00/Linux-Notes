@@ -40,7 +40,7 @@ Add the following entry onto root's crontab so it is executed everytime the box 
 
 ``@reboot /usr/bin/setkeycodes e049 159 e051 158 e069 109 e06a 104``
 
-This works for the keyboards of Thinkpads like the T43, T60, X220, T410, T420.
+This works for keyboards on Thinkpads like the T43, T60, X220, T410, T420.
 
 ## Emacs Keybindings on XFCE
 
