@@ -120,9 +120,6 @@ Go up one directory and then rename the directory with the value that the "uuid"
 
 
 
-
-
-
 Other startup flags:
 
 ``/usr/bin/google-chrome-stable --disk-cache-dir=/some/dir/here --use-gl=desktop --force-device-scale-factor=2.5 --enable-smooth-scrolling --force-dark-mode %U``
