@@ -120,7 +120,7 @@ Go up one directory and then rename the directory with the value that the "uuid"
 
 
 
-``chrome://flags/``
+
 
 and look for the entry called *Auto Dark Mode for Web Contents* and set it to **Enabled**.
 
