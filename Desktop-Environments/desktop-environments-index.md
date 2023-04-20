@@ -128,7 +128,7 @@ Go up one directory and then rename the directory with the value that the "uuid"
 
 
 
-Also to set a dark Chrome, you can go to:  
+
 
 ``chrome://flags/``
 
