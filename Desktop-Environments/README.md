@@ -1,4 +1,4 @@
-# Tips for Linux Desktop Environments
+# Tips for Linux Desktop Environments/ Window Managers
 
 * [i3wm](/Desktop-Environments/i3wm.md)
 * [Budgie](/Desktop-Environments/Budgie.md)
