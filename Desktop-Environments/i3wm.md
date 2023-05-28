@@ -7,4 +7,5 @@ https://unix.stackexchange.com/questions/131778/how-do-you-change-the-color-for-
 Mi configuración de i3
 https://sergioquijanorey.github.io/i3/linux/programacion/administracion/2018/09/09/configuraci%C3%B3n-i3wm.html
 
+A Guided Tour of an i3 Configuration
 https://www.sglavoie.com/posts/2020/08/15/a-guided-tour-of-an-i3-configuration/
