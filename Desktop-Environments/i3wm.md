@@ -9,5 +9,4 @@ https://sergioquijanorey.github.io/i3/linux/programacion/administracion/2018/09/
 A Guided Tour of an i3 Configuration  
 https://www.sglavoie.com/posts/2020/08/15/a-guided-tour-of-an-i3-configuration/
 
-i3wm-nord  
-https://github.com/TheDistroHopper/i3wm-nord/tree/main
+* [i3wm-nord](https://github.com/TheDistroHopper/i3wm-nord/tree/main)
