@@ -124,14 +124,6 @@ This are the flags currently using on the HP Envy:
 
 ``/usr/bin/google-chrome-stable --disk-cache-dir=/some/dir/here --use-gl=desktop --force-device-scale-factor=2.2 --force-dark-mode %U``
 
-
-
-
-
-
-
-Relaunch Chrome for the changes to make it work.
-
 ## xrandr
 Set the screen brightness thru xrandr.  
 Get the screen info:
