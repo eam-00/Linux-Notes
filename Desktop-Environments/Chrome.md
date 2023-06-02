@@ -28,6 +28,8 @@ Other startup flags:
 
 This are the flags currently using on the HP Envy:
 
+``/usr/bin/google-chrome-stable --disk-cache-dir=/some/dir/here --use-gl=desktop --force-device-scale-factor=2.2 --force-dark-mode %U``
+
 ## Disable Tab Hover Previews in Chrome
 
 Launch Chrome and open: chrome://flags/#tab-hover-card-images
