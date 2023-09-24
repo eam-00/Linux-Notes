@@ -42,4 +42,7 @@ Relaunch Chrome for the changes to make it work.
 
 Open: ``chrome://flags/#power-bookmarks-side-panel``
 
+Set it to: *Disabled*
+
+
 
