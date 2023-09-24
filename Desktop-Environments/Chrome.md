@@ -40,4 +40,6 @@ Relaunch Chrome for the changes to make it work.
 
 ## Delete "All Bookmarks" from the Bookmarks Bar
 
+Open: chrome://flags/#power-bookmarks-side-panel
+
 
