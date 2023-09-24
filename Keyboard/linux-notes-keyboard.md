@@ -8,7 +8,7 @@ Edit the file ``/etc/default/keyboard``:
 
         XKBMODEL="pc105"
         XKBLAYOUT="us"
-        XKBVARIANT="alt-intl
+        XKBVARIANT="alt-intl"
         XKBOPTIONS="ctrl:nocaps" # Some people prefer "ctrl:swapcaps"
 
 In order for the changes to take effect (on X Window) without rebooting:
