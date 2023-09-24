@@ -38,6 +38,6 @@ Set it to: *Disabled*
 
 Relaunch Chrome for the changes to make it work.
 
-## Delete "All Bookmarks" from Bookmarks Bar
+## Delete "All Bookmarks" from the Bookmarks Bar
 
 
