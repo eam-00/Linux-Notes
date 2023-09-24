@@ -32,7 +32,7 @@ This are the flags currently using on the HP Envy:
 
 ## Disable Tab Hover Previews in Chrome
 
-Launch Chrome and open: chrome://flags/#tab-hover-card-images
+Launch Chrome and open: ``chrome://flags/#tab-hover-card-images``
 
 Set it to: *Disabled*
 
