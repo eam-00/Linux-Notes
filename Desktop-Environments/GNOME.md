@@ -1,3 +1,3 @@
 ## GNOME
 
-# Gnome Extensions
+### Gnome Extensions
