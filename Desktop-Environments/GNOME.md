@@ -4,3 +4,4 @@
 
 #### Manually install extensions
 
+- Download the extension.
