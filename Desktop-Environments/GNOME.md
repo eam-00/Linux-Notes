@@ -6,3 +6,4 @@
 
 - Download the extension
 - Extract the zip file
+- cd onto the extracted directory
