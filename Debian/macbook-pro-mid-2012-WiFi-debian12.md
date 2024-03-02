@@ -11,7 +11,6 @@ Configure the WiFi card on the Macbook Pro Mid 2012 ([MacBookPro9,2 1.0](https:/
 Add to the bottom of `/etc/apt/sources.list`: 
 
 ```
-# Debian 12 "Bookworm"
 deb http://deb.debian.org/debian bookworm main contrib non-free-firmware non-free
 ```
 Issue as root or via sudo:
