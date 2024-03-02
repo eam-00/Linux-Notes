@@ -6,6 +6,8 @@ Link: https://wiki.debian.org/wl
 
 ____
 
+Configure the WiFi card on the Macbook Pro Mid 2012 (MacBookPro9,2 1.0)
+
 Add to the bottom of `/etc/apt/sources.list`: 
 
 ```
