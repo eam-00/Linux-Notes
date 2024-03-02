@@ -6,8 +6,6 @@ Link: https://wiki.debian.org/wl
 
 ____
 
-Configure the WiFi card on the Macbook Pro Mid 2012 ([MacBookPro9,2 1.0](https://everymac.com/systems/apple/macbook_pro/specs/macbook-pro-core-i5-2.5-13-mid-2012-unibody-usb3-specs.html)) on Debian 12 "Bookworm".
-
 Add to the bottom of `/etc/apt/sources.list`: 
 
 ```
