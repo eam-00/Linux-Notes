@@ -2,6 +2,8 @@
 
 ### Gnome Extensions
 
+#### Activities Workspace Name
+
 #### Manually install extensions
 
 - Download the extension
