@@ -13,6 +13,7 @@ gsettings set org.gnome.desktop.wm.preferences workspace-names "['1', '2', '3']"
 * Download the extension
 * cd $DONWLOADS
 * `unzip gnome-activities-workspace-name-main.zip`
+* `cd gnome-activities-workspace-name`
 
 
 
