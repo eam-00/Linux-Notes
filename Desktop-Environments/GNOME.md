@@ -4,6 +4,8 @@
 
 #### Activities Workspace Name
 
+Link: https://github.com/ahmafi/gnome-activities-workspace-name
+
 #### Manually install extensions
 
 - Download the extension
