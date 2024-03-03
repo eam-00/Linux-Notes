@@ -6,6 +6,9 @@
 
 Link: https://github.com/ahmafi/gnome-activities-workspace-name
 
+Set Workspaces first:
+
+
 #### Manually install extensions
 
 - Download the extension
