@@ -17,6 +17,7 @@ gsettings set org.gnome.desktop.wm.preferences workspace-names "['1', '2', '3']"
 * `mkdir -p ~/.local/share/gnome-shell/extensions/activitiesworkspacename@ahmafi.ir`
 * `cp -r src/* ~/.local/share/gnome-shell/extensions/activitiesworkspacename@ahmafi.ir`
 * Re start or logout from GNOME
+* `gnome-extensions enable activitiesworkspacename@ahmafi.ir`
 
 #### Manually install extensions
 
