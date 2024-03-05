@@ -8,6 +8,9 @@ Check theme:
 Set theme:  
 `gsettings set org.gnome.desktop.interface icon-theme 'Papirus'`
 
+Go back to the default theme:  
+`gsettings set org.gnome.desktop.interface icon-theme 'Adwaita'`
+
 ### Gnome Extensions
 
 #### Activities Workspace Name
