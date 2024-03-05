@@ -2,7 +2,7 @@
 
 ### Gnome Themes
 
-Check theme:
+Check theme:  
 `gsettings get org.gnome.desktop.interface icon-theme`
 
 ### Gnome Extensions
