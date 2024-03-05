@@ -12,7 +12,7 @@ Go back to the default theme:
 `gsettings set org.gnome.desktop.interface icon-theme 'Adwaita'`
 
 Set mouse theme:  
-`gsettings set org.gnome.desktop.interface cursor-theme 'my-Adwaita'
+`gsettings set org.gnome.desktop.interface cursor-theme 'my-Adwaita'`
 
 ### Gnome Extensions
 
