@@ -2,6 +2,9 @@
 
 ### Gnome Themes
 
+Check theme:
+`gsettings get org.gnome.desktop.interface icon-theme`
+
 ### Gnome Extensions
 
 #### Activities Workspace Name
