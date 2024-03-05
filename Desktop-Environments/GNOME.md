@@ -22,6 +22,8 @@ gsettings set org.gnome.desktop.wm.preferences workspace-names "['1', '2', '3']"
 
 #### WorkspaceSwitcherWrapAround
 
+Link: https://github.com/theychx/WorkspaceSwitcherWrapAround/tree/master
+
 #### Manually install extensions
 
 - Download the extension
