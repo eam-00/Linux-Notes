@@ -19,6 +19,9 @@ gsettings set org.gnome.desktop.wm.preferences workspace-names "['1', '2', '3']"
 * Re start (X11) or logout (Wayland) from GNOME.
 * `gnome-extensions enable activitiesworkspacename@ahmafi.ir`
 
+
+#### WorkspaceSwitcherWrapAround
+
 #### Manually install extensions
 
 - Download the extension
