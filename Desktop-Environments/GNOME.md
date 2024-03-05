@@ -5,6 +5,9 @@
 Check theme:  
 `gsettings get org.gnome.desktop.interface icon-theme`
 
+Set theme:  
+`gsettings set org.gnome.desktop.interface icon-theme 'Papirus'`
+
 ### Gnome Extensions
 
 #### Activities Workspace Name
