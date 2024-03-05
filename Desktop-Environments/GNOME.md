@@ -1,5 +1,7 @@
 ## GNOME
 
+### Gnome Themes
+
 ### Gnome Extensions
 
 #### Activities Workspace Name
