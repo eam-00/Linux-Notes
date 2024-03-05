@@ -27,6 +27,7 @@ Link: https://github.com/theychx/WorkspaceSwitcherWrapAround/tree/master
 * Download the extension
 * cd $DONWLOADS
 * `unzip WorkspaceSwitcherWrapAround-master.zip`
+* `cd WorkspaceSwitcherWrapAround-master/`
 * `mkdir -p ~/.local/share/gnome-shell/extensions/workspace-switch-wraparound@theychx.org`
 * `cp -r src/* ~/.local/share/gnome-shell/extensions/workspace-switch-wraparound@theychx.org`
 
