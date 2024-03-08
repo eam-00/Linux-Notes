@@ -54,5 +54,7 @@ Link: https://github.com/theychx/WorkspaceSwitcherWrapAround/tree/master
 - cd onto the extracted directory   
   On the directory there is a file named "metadata.json".
   Do a less on the file and look for the value on the "uuid" variable.
+- Rename the directory of the Gnome extension.
+- 
   
 
