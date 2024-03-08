@@ -57,5 +57,5 @@ Link: https://github.com/theychx/WorkspaceSwitcherWrapAround/tree/master
 - Rename the directory of the Gnome extension.
   Go up one directory and then rename the directory with the value that the "uuid" variable has.
 - Copy the renamed directory to your user’s Gnome extension directory:
-- 
+``~/.local/share/gnome-shell/extensions/``
 
