@@ -14,6 +14,7 @@ Go back to the default theme:
 Set mouse theme:  
 `gsettings set org.gnome.desktop.interface cursor-theme 'my-Adwaita'`
 
+Move windows by pressing Alt + Left mouse button: 
 `gsettings set org.gnome.desktop.wm.preferences mouse-button-modifier '<Alt>'`
 
 ### Gnome Extensions
