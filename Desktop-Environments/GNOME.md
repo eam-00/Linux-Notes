@@ -17,6 +17,9 @@ Set mouse theme:
 Move windows by pressing Alt + Left mouse button:   
 `gsettings set org.gnome.desktop.wm.preferences mouse-button-modifier '<Alt>'`
 
+`gsettings set org.gnome.desktop.wm.preferences resize-with-right-button true`
+
+
 ### Gnome Extensions
 
 #### Activities Workspace Name
