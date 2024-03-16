@@ -2,10 +2,10 @@
 
 ### Gnome Themes
 
-Check theme:  
+Check icon theme:  
 `gsettings get org.gnome.desktop.interface icon-theme`
 
-Set theme:  
+Set icon theme:  
 `gsettings set org.gnome.desktop.interface icon-theme 'Papirus'`
 
 Go back to the default theme:  
