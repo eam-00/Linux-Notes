@@ -2,5 +2,5 @@
 
 Remove unnecessary packages from Debian 12 "Bookworm".
 
-"Anthy Dictionary editor"
-"Mozc Setup"
+* "Anthy Dictionary editor"
+* "Mozc Setup"
