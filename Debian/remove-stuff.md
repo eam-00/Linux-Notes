@@ -58,3 +58,9 @@ Purging configuration files for mozc-data (2.28.4715.102+dfsg-2.2) ...
 ____
 
 * "GNOME Games"
+
+```
+sudo apt remove gnome-games
+```
+
+
