@@ -61,6 +61,19 @@ ____
 
 ```
 sudo apt remove gnome-games
+
+The following packages were automatically installed and are no longer required:
+  aisleriot five-or-more four-in-a-row gnome-2048 gnome-chess gnome-klotski gnome-mahjongg gnome-mines gnome-nibbles gnome-robots
+  gnome-sudoku gnome-taquin gnome-tetravex guile-3.0-libs hitori hoichess iagno libgc1 libgnome-games-support-1-3
+  libgnome-games-support-common libminiupnpc17 libnatpmp1 libqqwing2v5 lightsoff quadrapassel swell-foop tali
+Use 'sudo apt autoremove' to remove them.
+The following packages will be REMOVED:
+  gnome-games
+0 upgraded, 0 newly installed, 1 to remove and 0 not upgraded.
+After this operation, 10.2 kB disk space will be freed.
+Do you want to continue? [Y/n] y
+(Reading database ... 175427 files and directories currently installed.)
+Removing gnome-games (1:43+1) ...
 ```
 
 
