@@ -92,6 +92,7 @@ Do you want to continue? [Y/n]
 
 _____
 
+```
 #!/usr/bin/env bash
 
 LOG_FILE="/tmp/purged-packages-debian12.log"
@@ -232,6 +233,6 @@ sudo apt-get remove --purge fonts-farsiweb fonts-sil-abyssinica fonts-sil-andika
 
 
 sudo apt autoremove
-
+```
 
 
