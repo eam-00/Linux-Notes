@@ -96,8 +96,8 @@ _____
 #!/usr/bin/env bash
 
 LOG_FILE="/tmp/purged-packages-debian12.log"
-echo -e "===========================" >> $LOG_FILE
-date > $LOG_FILE
+echo -e "===========================" > $LOG_FILE
+date >> $LOG_FILE
 echo -e "===========================" >> $LOG_FILE
 pfetch >> $LOG_FILE
 echo -e "===========================" >> $LOG_FILE
