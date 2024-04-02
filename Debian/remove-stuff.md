@@ -225,7 +225,7 @@ echo "Xsane"
 sudo apt purge $(apt-cache search xsane | grep -i xsane | awk '{print $1}')
 
 * Fonts:
-
+```
 sudo apt-get remove --purge fonts-noto-extra
 sudo apt-get remove --purge fonts-dzongkha fonts-noto-cjk fonts-noto-cjk-extra fonts-noto-color-emoji fonts-unikurdweb fonts-vlgothic fonts-urw-base35
 sudo apt-get remove --purge fonts-gujr-extra fonts-ipafont fonts-ipafont-gothic fonts-ipafont-mincho fonts-arundina fonts-beng-extra
@@ -234,7 +234,7 @@ sudo apt-get remove --purge xfonts-thai-etl xfonts-thai-manop xfonts-thai-nectec
 sudo apt-get remove --purge fonts-farsiweb fonts-sil-abyssinica fonts-sil-andika fonts-smc-anjalioldlipi fonts-smc-chilanka fonts-smc-dyuthi fonts-smc-karumbi fonts-smc-keraleeyam fonts-smc-manjari fonts-smc-meera fonts-smc-rachana fonts-smc-raghumalayalamsans fonts-smc-suruma fonts-smc-uroob
 
 
-sudo apt autoremove
+
 ```
 
 
