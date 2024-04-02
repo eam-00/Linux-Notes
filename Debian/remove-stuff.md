@@ -219,7 +219,7 @@ date >> $LOG_FILE
 echo -e "===========================" >> $LOG_FILE
 
 ## EOF ##
-
+```
 
 echo "Xsane"
 sudo apt purge $(apt-cache search xsane | grep -i xsane | awk '{print $1}')
