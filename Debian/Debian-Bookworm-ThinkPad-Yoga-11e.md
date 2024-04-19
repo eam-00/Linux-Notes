@@ -2,5 +2,5 @@
 
 ## Model
 
-Minimal GNOME install
+## Minimal GNOME install
 
