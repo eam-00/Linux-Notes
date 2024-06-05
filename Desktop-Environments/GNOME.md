@@ -53,6 +53,8 @@ Link: https://github.com/theychx/WorkspaceSwitcherWrapAround/tree/master
 * Re start (X11) or logout (Wayland) from GNOME.
 * `gnome-extensions enable workspace-switch-wraparound@theychx.org`
 
+#### Executor
+
 #### Manually install extensions
 
 - Download the extension
