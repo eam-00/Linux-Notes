@@ -55,6 +55,8 @@ Link: https://github.com/theychx/WorkspaceSwitcherWrapAround/tree/master
 
 #### Executor
 
+Link: https://github.com/raujonas/executor
+
 #### Manually install extensions
 
 - Download the extension
