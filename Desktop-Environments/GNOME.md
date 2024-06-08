@@ -57,6 +57,9 @@ Link: https://github.com/theychx/WorkspaceSwitcherWrapAround/tree/master
 
 Link: https://github.com/raujonas/executor
 
+Should be uses with the GenMon Plugin scripts.
+
+
 #### Manually install extensions
 
 - Download the extension
