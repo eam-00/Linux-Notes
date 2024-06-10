@@ -10,7 +10,7 @@ Settings > Keyboard Shortcuts > Switch Windows > Alt Tab
 
 .
 
-Settings > Keyboard > View and Customize Shortcuts > Navigation > Switch Windows > Alt Tabs
+
 
 Additionally, if the Alt key is not recognized, do this:  
 
