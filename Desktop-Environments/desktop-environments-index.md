@@ -8,7 +8,7 @@
   
 Settings > Keyboard Shortcuts > Switch Windows > Alt Tab
 
-Select "*Replace*" if the shortcut is already in use.
+.
 
 Settings > Keyboard > View and Customize Shortcuts > Navigation > Switch Windows > Alt Tabs
 
