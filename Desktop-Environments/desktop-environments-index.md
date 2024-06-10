@@ -5,7 +5,7 @@
 ### Keyboard Shortcuts
 - Make Alt + Tab cycle thru all the windows:  
 
-On Debian Bullseye {GNOME 3.38.5}  
+  
 Settings > Keyboard Shortcuts > Switch Windows > Alt Tab
 
 Select "*Replace*" if the shortcut is already in use.
