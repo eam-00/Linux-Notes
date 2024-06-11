@@ -6,7 +6,7 @@
 ```
 ## GNOME install
 
-[Installer options](https://github.com/eam-00/Linux-Notes/blob/main/Debian/Debian-Bookworm-ThinkPad-Yoga-11e-Pics/tasksel_first_0.png?raw=true)
+![Installer options](https://github.com/eam-00/Linux-Notes/blob/main/Debian/Debian-Bookworm-ThinkPad-Yoga-11e-Pics/tasksel_first_0.png?raw=true)
 
 *Note:*  
 The laptop touch screen works OK even during the installation.
