@@ -24,7 +24,17 @@ tmpfs                     5.0M   12K  5.0M   1% /run/lock
 tmpfs                     783M   80K  783M   1% /run/user/1000
 epsilon-alpha-mu@11e:~$ 
 ```
-
+Number of packages installed:
+```
+root@11e:~$ pfetch 
+  _____      epsilon-alpha-mu@11e
+ /  __ \     os     Debian GNU/Linux 12 (bookworm)
+|  /    |    host   20SES0M800 ThinkPad 11e Yoga Gen 6
+|  \___-     kernel 6.1.0-20-amd64
+-_           uptime 18m
+  --_        pkgs   1600
+             memory 1025M / 7827M
+```
 *Note:*  
 The laptop touch screen works OK even during the installation.
 
