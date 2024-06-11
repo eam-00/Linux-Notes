@@ -5,7 +5,7 @@ Set theme from the CLI:
 
 ``xfconf-query -c xsettings -p /Net/ThemeName -s "Greybird"``
 
-Set icon theme from CLI:
+Set the icon theme from the CLI:
 
 ``xfconf-query -c xsettings -p /Net/IconThemeName -s Numix-Circle``
 
