@@ -1,6 +1,6 @@
 ## GNOME
 
-### Gnome Themes
+### Theming
 
 Check icon theme:  
 `gsettings get org.gnome.desktop.interface icon-theme`
