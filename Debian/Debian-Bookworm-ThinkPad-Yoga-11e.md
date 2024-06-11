@@ -4,7 +4,7 @@
 ```
 20D90027US
 ```
-## Minimal GNOME install
+## GNOME install
 
 *Note:*  
 The touch screen works OK even during the installation.
