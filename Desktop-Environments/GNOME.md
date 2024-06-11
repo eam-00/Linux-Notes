@@ -12,6 +12,7 @@ Go back to the default theme:
 `gsettings set org.gnome.desktop.interface icon-theme 'Adwaita'`
 
 Set GTK theme:  
+`gsettings set org.gnome.desktop.interface gtk-theme 'adw-gtk3-dark'`
 
 Set mouse theme:  
 `gsettings set org.gnome.desktop.interface cursor-theme 'my-Adwaita'`
