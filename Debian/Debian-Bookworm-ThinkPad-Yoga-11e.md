@@ -7,5 +7,5 @@
 ## GNOME install
 
 *Note:*  
-The touch screen works OK even during the installation.
+The laptop touch screen works OK even during the installation.
 
