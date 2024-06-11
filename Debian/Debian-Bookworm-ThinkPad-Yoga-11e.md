@@ -6,6 +6,8 @@
 ```
 ## GNOME install
 
+The GNOME installer options:
+
 ![Installer options](https://github.com/eam-00/Linux-Notes/blob/main/Debian/Debian-Bookworm-ThinkPad-Yoga-11e-Pics/tasksel_first_0.png?raw=true)
 
 *Note:*  
