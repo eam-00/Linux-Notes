@@ -1,7 +1,7 @@
 # XFCE
 
 ## Theming
-Set theme from the CLI:
+Set the theme from the CLI:
 
 ``xfconf-query -c xsettings -p /Net/ThemeName -s "Greybird"``
 
