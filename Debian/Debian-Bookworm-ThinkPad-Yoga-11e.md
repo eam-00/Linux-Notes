@@ -10,7 +10,7 @@ The GNOME installer options:
 
 ![Installer options](https://github.com/eam-00/Linux-Notes/blob/main/Debian/Debian-Bookworm-ThinkPad-Yoga-11e-Pics/tasksel_first_0.png?raw=true)
 
-Disk usage:
+Disk usage after the installation:
 ```
 epsilon-alpha-mu@11e:~$ df -h
 Filesystem                Size  Used Avail Use% Mounted on
