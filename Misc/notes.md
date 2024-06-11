@@ -79,3 +79,11 @@ They will be responsible for installing the cert on their servers.
 - After all of this, you need to set up a couple of DNS TXT records.  
 On Heroku they will issue or have a TXT record that we need to add to the DNS for **domain.something**.
 
+## Install deb
+
+Download to /tmp
+
+ar x package.deb
+
+tar xvf control.tar.gz
+
