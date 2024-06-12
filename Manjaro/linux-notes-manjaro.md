@@ -11,8 +11,7 @@
 - Remove cache packages:  
 ``sudo pacman -Sc``
 
-- Remove all files from the cache, use the clean switch twice.
-This is the most aggressive approach and it will leave nothing in the cache directory: 
+- Remove all files from the cache, use the clean switch twice.  This is the most aggressive approach and it will leave nothing in the cache directory: 
 
 ``sudo pacman -Scc``
 
