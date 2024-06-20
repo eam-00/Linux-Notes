@@ -17,6 +17,8 @@ Set GTK theme:
 Set mouse theme:  
 `gsettings set org.gnome.desktop.interface cursor-theme 'my-Adwaita'`
 
+Include the day of the week on the date:  
+
 ### Keyboard
 
 Move windows by pressing Alt + Left mouse button:   
