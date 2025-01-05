@@ -82,3 +82,6 @@ Should be used with the [GenMon Plugin scripts](https://github.com/eam-00/Util-s
 
 #### Debug extensions
 
+```
+journalctl -S "2025-01-07" -g extension
+```
