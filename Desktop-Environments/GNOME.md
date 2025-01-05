@@ -80,3 +80,5 @@ Should be used with the [GenMon Plugin scripts](https://github.com/eam-00/Util-s
 - Copy the renamed directory to your user’s GNOME extension directory:  
 ``~/.local/share/gnome-shell/extensions/``
 
+#### Debug extensions
+
