@@ -50,7 +50,7 @@ deb-src http://ar.deb.devuan.org/merged daedalus-updates main non-free-firmware
 # see the sources.list(5) manual.
 ```
 
-### Daedalus Switch to Ceres
+### Switch from Daedalus to Ceres
 
 To switch to Ceres/ Sid on  -> Unstable, the /etc/apt/sources.list has to be like this:
 ```
