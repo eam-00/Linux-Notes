@@ -1,9 +1,9 @@
 # Devuan Stuff
 
-dd bs=4M if=./devuan_daedalus_5.0.1_amd64_netinstall.iso of=/dev/sdd status=progress oflag=sync
+`dd bs=4M if=./devuan_daedalus_5.0.1_amd64_netinstall.iso of=/dev/sdd status=progress oflag=sync`
 
-umonut /dev/sdd1
-dd bs=4M if=./devuan_daedalus_5.0.1_i386_netinstall.iso of=/dev/sdd status=progress oflag=sync
+`umonut /dev/sdd1`  
+`dd bs=4M if=./devuan_daedalus_5.0.1_i386_netinstall.iso of=/dev/sdd status=progress oflag=sync` 
 
 ## Devuan Daedalus @Dell XPS m1330:
 
@@ -15,7 +15,7 @@ The Software selection during the installation should be this or even nothing at
   - SSH Server
   - Standard System Utilities
 
-Right up after the install it uses:
+Right up after the install it contains:
 ```
 root@m1330:/usr/local/bin# pfetch 
     ___       os     Devuan GNU/Linux 5 (daedalus)
