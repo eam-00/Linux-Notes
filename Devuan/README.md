@@ -58,6 +58,7 @@ deb http://ar.deb.devuan.org/merged ceres main non-free-firmware
 deb-src http://ar.deb.devuan.org/merged ceres main non-free-firmware
 ```
 
+```
 root@m1330:/etc/apt# apt update
 Hit:1 http://ar.deb.devuan.org/merged ceres InRelease
 Reading package lists... Done
