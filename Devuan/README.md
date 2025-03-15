@@ -1,15 +1,22 @@
-Devuan Stuff
+# Devuan Stuff
 
-Devuan Daedalus @Dell m1330:
----------------------------
+dd bs=4M if=./devuan_daedalus_5.0.1_amd64_netinstall.iso of=/dev/sdd status=progress oflag=sync
 
-Software selection during the installation:
+umonut /dev/sdd1
+dd bs=4M if=./devuan_daedalus_5.0.1_i386_netinstall.iso of=/dev/sdd status=progress oflag=sync
 
-- SSH Server
-- Standard System Utilities
+## Devuan Daedalus @Dell XPS m1330:
 
-Right up after the install:
+### Devuan Daedalus Installation
 
+Start with a minimal install from the netinstall ISO.  
+The Software selection during the installation should be this or even nothing at all:
+
+  - SSH Server
+  - Standard System Utilities
+
+Right up after the install it uses:
+```
 root@m1330:/usr/local/bin# pfetch 
     ___       os     Devuan GNU/Linux 5 (daedalus)
    (.· |      host   XPS M1330
@@ -20,9 +27,9 @@ _/\ __)/_)    memory 110M / 7939M
 \/-____\/
 
 root@m1330:/usr/local/bin# 
-
-The original -on Daedalus sources.list:
-
+```
+The original -on Daedalus- sources.list:
+```
 #deb cdrom:[Devuan GNU/Linux 5.0.1 daedalus amd64 - netinstall 20230914]/ daedalus contrib main non-free non-free-firmware
 
 deb http://ar.deb.devuan.org/merged daedalus main non-free-firmware
@@ -41,13 +48,15 @@ deb-src http://ar.deb.devuan.org/merged daedalus-updates main non-free-firmware
 # entries were disabled at the end of the installation process.
 # For information about how to configure apt package sources,
 # see the sources.list(5) manual.
+```
 
+### Daedalus Switch to Ceres
 
-To switch to Ceres/ Sid -> Unstable, the /etc/apt/sources.list has to be like this:
-
+To switch to Ceres/ Sid on  -> Unstable, the /etc/apt/sources.list has to be like this:
+```
 deb http://ar.deb.devuan.org/merged ceres main non-free-firmware
 deb-src http://ar.deb.devuan.org/merged ceres main non-free-firmware
-
+```
 
 root@m1330:/etc/apt# apt update
 Hit:1 http://ar.deb.devuan.org/merged ceres InRelease
