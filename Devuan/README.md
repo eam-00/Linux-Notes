@@ -52,7 +52,7 @@ deb-src http://ar.deb.devuan.org/merged daedalus-updates main non-free-firmware
 
 ### Switch from Daedalus to Ceres
 
-To switch to Ceres/ Sid on  -> Unstable, the /etc/apt/sources.list has to be like this:
+To switch to Ceres (**Sid** on Debian) the Unstable, sort of rolling release version, edit the `/etc/apt/sources.list` to look like this:
 ```
 deb http://ar.deb.devuan.org/merged ceres main non-free-firmware
 deb-src http://ar.deb.devuan.org/merged ceres main non-free-firmware
