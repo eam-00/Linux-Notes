@@ -193,7 +193,8 @@ root@m1330:/# ln -nsf usr/sbin sbin
 root@m1330:/# ln -nsf usr/lib lib
 root@m1330:/# ln -nsf usr/lib64 lib64
 ```
-
+But it failed again:
+```
 root@m1330:/# apt update
 Hit:1 http://ar.deb.devuan.org/merged ceres InRelease
 Reading package lists... Done       
@@ -277,7 +278,7 @@ Errors were encountered while processing:
  /var/cache/apt/archives/base-files_13.7devuan1_amd64.deb
 E: Sub-process /usr/bin/dpkg returned an error code (1)
 root@m1330:/# 
-
+```
 But it failed...
 
 So installed the package listed by the error message:
