@@ -151,9 +151,15 @@ Errors were encountered while processing:
  /var/cache/apt/archives/base-files_13.7devuan1_amd64.deb
 E: Sub-process /usr/bin/dpkg returned an error code (1)
 root@m1330:/etc/apt# 
+```
 
+Tested a fix issuing:
+```
 apt update && apt --fix-broken install
+```
 
+And then again:
+```
 root@m1330:/etc/apt# apt dist-upgrade
 
 ******************************************************************************
