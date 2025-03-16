@@ -279,10 +279,8 @@ Errors were encountered while processing:
 E: Sub-process /usr/bin/dpkg returned an error code (1)
 root@m1330:/# 
 ```
-But it failed...
-
 So installed the package listed by the error message:
-
+```
 root@m1330:/# apt install usrmerge
 Reading package lists... Done
 Building dependency tree... Done
