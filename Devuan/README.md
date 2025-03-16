@@ -192,6 +192,8 @@ root@m1330:/# ln -nsf usr/bin bin
 root@m1330:/# ln -nsf usr/sbin sbin
 root@m1330:/# ln -nsf usr/lib lib
 root@m1330:/# ln -nsf usr/lib64 lib64
+```
+
 root@m1330:/# apt update
 Hit:1 http://ar.deb.devuan.org/merged ceres InRelease
 Reading package lists... Done       
