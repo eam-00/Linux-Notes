@@ -293,7 +293,9 @@ The following NEW packages will be installed:
 Need to get 53.9 kB of archives.
 After this operation, 147 kB of additional disk space will be used.
 Do you want to continue? [Y/n] 
-
+```
+This time it did work:
+```
 root@m1330:/# apt upgrade
 
 root@m1330:/# apt dist-upgrade 
