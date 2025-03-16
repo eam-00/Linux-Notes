@@ -186,7 +186,7 @@ Found this while searching on the web:
 
 * [Upgrade broken: base-files installation fails due to alledgedly unmet usrmerge](https://forum.siduction.org/index.php?topic=9457.0)
 
-````
+```
 root@m1330:/etc/apt# cd /
 root@m1330:/# ln -nsf usr/bin bin
 root@m1330:/# ln -nsf usr/sbin sbin
