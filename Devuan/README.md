@@ -158,7 +158,7 @@ Tested a fix issuing:
 apt update && apt --fix-broken install
 ```
 
-And then again:
+But failed again:
 ```
 root@m1330:/etc/apt# apt dist-upgrade
 
@@ -183,8 +183,8 @@ root@m1330:/etc/apt#
 ```
 
 Found this while searching on the web:
-Upgrade broken: base-files installation fails due to alledgedly unmet usrmerge
-https://forum.siduction.org/index.php?topic=9457.0
+
+* [Upgrade broken: base-files installation fails due to alledgedly unmet usrmerge](https://forum.siduction.org/index.php?topic=9457.0)
 
 ````
 root@m1330:/etc/apt# cd /
