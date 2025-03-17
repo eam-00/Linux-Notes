@@ -282,7 +282,7 @@ root@m1330:/#
 
 #### The solution to the apt upgrade problem
 
-So installed the package listed by the error message:
+Installed the package listed by the error message:
 ```
 root@m1330:/# apt install usrmerge
 Reading package lists... Done
