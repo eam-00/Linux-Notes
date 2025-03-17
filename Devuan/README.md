@@ -279,6 +279,9 @@ Errors were encountered while processing:
 E: Sub-process /usr/bin/dpkg returned an error code (1)
 root@m1330:/# 
 ```
+
+#### The solution to the apt upgrade problem
+
 So installed the package listed by the error message:
 ```
 root@m1330:/# apt install usrmerge
@@ -346,6 +349,7 @@ Need to get 0 B/66.7 MB of archives.
 After this operation, 320 MB disk space will be freed.
 Do you want to continue? [Y/n] 
 ```
+### Devuan Ceres Post install notes
 ```
 root@m1330:/# pfetch 
     ___       os     Devuan GNU/Linux 6 (excalibur/ceres)
