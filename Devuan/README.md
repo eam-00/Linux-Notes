@@ -350,6 +350,8 @@ After this operation, 320 MB disk space will be freed.
 Do you want to continue? [Y/n] 
 ```
 ### Devuan Ceres Post install notes
+
+The installation contained 483 packages:
 ```
 root@m1330:/# pfetch 
     ___       os     Devuan GNU/Linux 6 (excalibur/ceres)
