@@ -363,8 +363,10 @@ _/\ __)/_)    memory 137M / 7939M
 \/-____\/
 
 root@m1330:/# 
+```
+Issued an `autoremove` to get rid of unwanted packages:
 
-
+```
 root@m1330:/# apt autoremove
 REMOVING:                       
   adwaita-icon-theme         libcbor0.8               liblcms2-2                libsharpyuv0        pkexec
