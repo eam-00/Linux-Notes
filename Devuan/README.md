@@ -392,7 +392,7 @@ Summary:
   Upgrading: 0, Installing: 0, Removing: 106, Not Upgrading: 0
   Freed space: 174 MB
 
-Continue? [Y/n] 
+Continue? [Y/n] y
 
 root@m1330:/# pfetch 
     ___       os     Devuan GNU/Linux 6 (excalibur/ceres)
@@ -415,17 +415,6 @@ tmpfs                       1.6G     0  1.6G   0% /dev/shm
 /dev/sda1                   455M   97M  334M  23% /boot
 tmpfs                       3.9G     0  3.9G   0% /tmp
 tmpfs                       795M     0  795M   0% /run/user/1000
-epsilon-alpha-mu@m1330:~$ 
-
-epsilon-alpha-mu@m1330:~$ pfetch 
-    ___       os     Devuan GNU/Linux 6 (excalibur/ceres)
-   (.· |      host   XPS M1330
-   (<> |      kernel 6.12.17-amd64
-  / __  \     uptime 4m
- ( /  \ /|    pkgs   392
-_/\ __)/_)    memory 135M / 7946M
-\/-____\/
-
 epsilon-alpha-mu@m1330:~$ 
 
 root@m1330:~# apt clean
