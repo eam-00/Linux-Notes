@@ -398,7 +398,7 @@ Summary:
 
 Continue? [Y/n] y
 ```
-
+```
 root@m1330:/# pfetch 
     ___       os     Devuan GNU/Linux 6 (excalibur/ceres)
    (.· |      host   XPS M1330
