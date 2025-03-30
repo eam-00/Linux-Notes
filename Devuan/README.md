@@ -15,7 +15,7 @@ The Software selection during the installation should be this or even nothing at
   - SSH Server
   - Standard System Utilities
 
-Right up after the install it contains:
+Right up after the install it contains less than 500 packages:
 ```
 root@m1330:/usr/local/bin# pfetch 
     ___       os     Devuan GNU/Linux 5 (daedalus)
