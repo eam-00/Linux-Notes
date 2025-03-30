@@ -28,7 +28,7 @@ _/\ __)/_)    memory 110M / 7939M
 
 root@m1330:/usr/local/bin# 
 ```
-The original -on Daedalus- `/etc/apt/sources.list` looked like this:
+The original -on Daedalus- `/etc/apt/sources.list` file looked like this:
 ```
 #deb cdrom:[Devuan GNU/Linux 5.0.1 daedalus amd64 - netinstall 20230914]/ daedalus contrib main non-free non-free-firmware
 
