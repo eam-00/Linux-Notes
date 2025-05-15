@@ -71,7 +71,7 @@ This is helpful when you have a corrupted package database and you want to force
 - Install Google Chrome:  
 ``sudo pamac install google-chrome``
 
-/etc/systemd/system/swap_opt_cmd.service
+``/etc/systemd/system/swap_opt_cmd.service``
 
 [Unit]
 Description=Swap Opt Command Key
