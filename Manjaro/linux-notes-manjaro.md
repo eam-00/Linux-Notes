@@ -70,3 +70,66 @@ This is helpful when you have a corrupted package database and you want to force
 
 - Install Google Chrome:  
 ``sudo pamac install google-chrome``
+
+/etc/systemd/system/swap_opt_cmd.service
+
+[Unit]
+Description=Swap Opt Command Key
+
+[Service]
+ExecStart=/usr/bin/swap_opt_cmd.sh
+
+[Install]
+WantedBy=multi-user.target
+
+  chmod 0644 /etc/systemd/system/swap_opt_cmd.service
+  systemctl enable swap_opt_cmd.service
+
+-----------------------------
+
+#!/bin/bash
+echo "1" > /sys/module/hid_apple/parameters/swap_opt_cmd
+
+chmod +x /usr/bin/swap_opt_cmd.sh
+
+=============================
+
+/etc/systemd/system/set_swappines.service
+
+[Unit]
+Description=Set Swappiness
+
+[Service]
+ExecStart=/usr/bin/set_swappines.sh
+
+[Install]
+WantedBy=multi-user.target
+
+  chmod 0644 /etc/systemd/system/set_swappines.service
+  systemctl enable set_swappines.service
+
+-----------------------------
+
+#!/bin/bash
+/usr/bin/sysctl -w vm.swappiness=5
+chmod +x /usr/bin/set_swappines.sh
+
+=============================
+
+/etc/systemd/system/my_suspend.service
+
+[Unit]
+Description=Enable Suspend
+
+[Service]
+ExecStart=/usr/bin/my_suspend.sh
+
+[Install]
+WantedBy=multi-user.target
+
+  chmod 0644 /etc/systemd/system/my_suspend.service
+  systemctl enable my_suspend.service
+
+-----------------------------
+
+nano /usr/bin/my_suspend.sh
