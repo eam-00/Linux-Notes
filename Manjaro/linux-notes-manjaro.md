@@ -94,7 +94,7 @@ chmod +x /usr/bin/swap_opt_cmd.sh
 
 =============================
 
-/etc/systemd/system/set_swappines.service
+``/etc/systemd/system/set_swappines.service``
 
 [Unit]
 Description=Set Swappiness
