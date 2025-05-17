@@ -1,1 +1,1 @@
-Sample scripts to start & set config thru systemd
+Sample scripts to start & set configuration options thru systemd
