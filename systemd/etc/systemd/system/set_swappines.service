@@ -7,3 +7,6 @@ ExecStart=/usr/bin/set_swappines.sh
 [Install]
 WantedBy=multi-user.target
 
+#chmod 0644 /etc/systemd/system/set_swappines.service
+#systemctl enable set_swappines.service
+
