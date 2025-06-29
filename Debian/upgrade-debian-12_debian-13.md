@@ -4,6 +4,7 @@
 
 Right after the netinstall with only the "SSH Server" option enabled:
 
+```
 root@t43:/etc/apt# pfetch 
   _____      os     Debian GNU/Linux 12 (bookworm)
  /  __ \     host   2669C8U ThinkPad T43
@@ -11,7 +12,7 @@ root@t43:/etc/apt# pfetch
 |  \___-     uptime 19m
 -_           pkgs   275
   --_        memory 109M / 2010M
-
+```
 root@t43:/etc/apt# df -h
 Filesystem                Size  Used Avail Use% Mounted on
 udev                      985M     0  985M   0% /dev
