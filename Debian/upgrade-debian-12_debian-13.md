@@ -13,6 +13,7 @@ root@t43:/etc/apt# pfetch
 -_           pkgs   275
   --_        memory 109M / 2010M
 ```
+```
 root@t43:/etc/apt# df -h
 Filesystem                Size  Used Avail Use% Mounted on
 udev                      985M     0  985M   0% /dev
@@ -24,6 +25,7 @@ tmpfs                     5.0M     0  5.0M   0% /run/lock
 tmpfs                     202M     0  202M   0% /run/user/0
 tmpfs                     202M     0  202M   0% /run/user/1000
 root@t43:/etc/apt# 
+```
 
 cd /etc/apt
 cp sources.list sources.list.ORIG
