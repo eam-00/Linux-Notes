@@ -4,6 +4,7 @@
 
 Right after the Debian 12 netinstall with only the "*SSH Server*" option enabled:
 
+275 packages installed:
 ```
 root@t43:/etc/apt# pfetch 
   _____      os     Debian GNU/Linux 12 (bookworm)
