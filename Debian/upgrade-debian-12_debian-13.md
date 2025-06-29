@@ -2,7 +2,7 @@
 
 **Debian 12 to Debian 13**
 
-Reight after the netinstall with only the "SSH Server" option enabled:
+Right after the netinstall with only the "SSH Server" option enabled:
 
 root@t43:/etc/apt# pfetch 
   _____      os     Debian GNU/Linux 12 (bookworm)
