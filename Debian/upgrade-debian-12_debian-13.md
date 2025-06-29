@@ -1,7 +1,6 @@
-----------------------
 
-Debian 12 to Debian 13
-----------------------
+
+**Debian 12 to Debian 13**
 
 Reight after the netinstall with only the "SSH Server" option enabled:
 
