@@ -27,6 +27,7 @@ tmpfs                     202M     0  202M   0% /run/user/0
 tmpfs                     202M     0  202M   0% /run/user/1000
 root@t43:/etc/apt# 
 ```
+The actual upgrade:
 
 cd /etc/apt
 cp sources.list sources.list.ORIG
