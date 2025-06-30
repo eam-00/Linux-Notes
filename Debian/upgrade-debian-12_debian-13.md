@@ -28,7 +28,7 @@ tmpfs                     202M     0  202M   0% /run/user/1000
 root@t43:/etc/apt# 
 ```
 The actual upgrade:
-
+```
 cd /etc/apt
 cp sources.list sources.list.ORIG
 apt-get update && apt-get dist-upgrade --autoremove -y
@@ -36,7 +36,7 @@ sed -i 's/bookworm/trixie/g' /etc/apt/sources.list
 apt-get update
 apt-get dist-upgrade --autoremove -y
 reboot
-
+```
 After switching to Trixie:
 
 epsilon-alpha-mu@t43:~$ df -h
