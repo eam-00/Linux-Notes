@@ -33,7 +33,7 @@ cd /etc/apt
 cp sources.list sources.list.ORIG
 apt-get update && apt-get dist-upgrade --autoremove -y
 sed -i 's/bookworm/trixie/g' /etc/apt/sources.list
-sudo apt-get update
+apt-get update
 apt-get dist-upgrade --autoremove -y
 reboot
 
