@@ -38,7 +38,7 @@ apt-get dist-upgrade --autoremove -y
 reboot
 ```
 After switching to Trixie:
-
+```
 epsilon-alpha-mu@t43:~$ df -h
 Filesystem                Size  Used Avail Use% Mounted on
 udev                      983M     0  983M   0% /dev
@@ -49,7 +49,9 @@ tmpfs                     5.0M     0  5.0M   0% /run/lock
 tmpfs                    1006M     0 1006M   0% /tmp
 /dev/sda1                 455M  109M  322M  26% /boot
 tmpfs                     202M  8.0K  202M   1% /run/user/1000
-epsilon-alpha-mu@t43:~$ 
+epsilon-alpha-mu@t43:~$
+```
+
 epsilon-alpha-mu@t43:~$ pfetch 
   _____      os     Debian GNU/Linux 13 (trixie)
  /  __ \     host   2669C8U ThinkPad T43
