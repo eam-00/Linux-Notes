@@ -51,7 +51,7 @@ tmpfs                    1006M     0 1006M   0% /tmp
 tmpfs                     202M  8.0K  202M   1% /run/user/1000
 epsilon-alpha-mu@t43:~$
 ```
-
+```
 epsilon-alpha-mu@t43:~$ pfetch 
   _____      os     Debian GNU/Linux 13 (trixie)
  /  __ \     host   2669C8U ThinkPad T43
@@ -60,4 +60,6 @@ epsilon-alpha-mu@t43:~$ pfetch
 -_           pkgs   294
   --_        memory 107M / 2010M
 
-epsilon-alpha-mu@t43:~$ 
+epsilon-alpha-mu@t43:~$
+```
+
