@@ -73,6 +73,7 @@ This is helpful when you have a corrupted package database and you want to force
 
 ``/etc/systemd/system/swap_opt_cmd.service``
 
+``
 [Unit]
 Description=Swap Opt Command Key
 
@@ -81,6 +82,7 @@ ExecStart=/usr/bin/swap_opt_cmd.sh
 
 [Install]
 WantedBy=multi-user.target
+```
 
   chmod 0644 /etc/systemd/system/swap_opt_cmd.service
   systemctl enable swap_opt_cmd.service
