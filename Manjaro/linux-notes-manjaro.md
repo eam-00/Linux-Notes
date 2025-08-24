@@ -84,7 +84,7 @@ ExecStart=/usr/bin/swap_opt_cmd.sh
 WantedBy=multi-user.target
 ```
 
-  chmod 0644 /etc/systemd/system/swap_opt_cmd.service
+  ``chmod 0644 /etc/systemd/system/swap_opt_cmd.service``
   systemctl enable swap_opt_cmd.service
 
 -----------------------------
