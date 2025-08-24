@@ -73,7 +73,7 @@ This is helpful when you have a corrupted package database and you want to force
 
 ``/etc/systemd/system/swap_opt_cmd.service``
 
-``
+```
 [Unit]
 Description=Swap Opt Command Key
 
