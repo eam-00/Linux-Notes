@@ -11,6 +11,14 @@ Set the icon theme from the CLI:
 
 ### Themes
 
+
+
+    Clearlooks Phenix
+
+    Xfce ClassicLooks
+
+
+
 ## Genmon
 
 * [Genmon Scripts](https://github.com/eam-00/Util-scripts/tree/master/Genmon)
