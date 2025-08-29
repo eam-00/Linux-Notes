@@ -9,6 +9,8 @@ Set the icon theme from the CLI:
 
 ``xfconf-query -c xsettings -p /Net/IconThemeName -s Numix-Circle``
 
+### Themes
+
 ## Genmon
 
 * [Genmon Scripts](https://github.com/eam-00/Util-scripts/tree/master/Genmon)
