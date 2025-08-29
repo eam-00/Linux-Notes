@@ -11,9 +11,7 @@ Set the icon theme from the CLI:
 
 ### Themes
 
-
-
-    Clearlooks Phenix
+* Clearlooks Phenix
 
     Xfce ClassicLooks
 
