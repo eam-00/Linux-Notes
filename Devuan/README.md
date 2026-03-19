@@ -2,7 +2,7 @@
 
 `dd bs=4M if=./devuan_daedalus_5.0.1_amd64_netinstall.iso of=/dev/sdd status=progress oflag=sync`
 
-`umonut /dev/sdd1`  
+`umount /dev/sdd1`  
 `dd bs=4M if=./devuan_daedalus_5.0.1_i386_netinstall.iso of=/dev/sdd status=progress oflag=sync` 
 
 ## Devuan Daedalus @Dell XPS m1330:
