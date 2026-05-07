@@ -25,7 +25,7 @@ This is the most aggressive approach and it will leave nothing in the cache dire
         /dev/sda2       511M  424K  511M   1% /boot/efi
         tmpfs           392M   76K  392M   1% /run/user/1000
         [eam-00@mbw ~]$ sudo pacman -Scc
-        [sudo] password for esm-00: 
+        [sudo] password for eam-00: 
 
         Cache directory: /var/cache/pacman/pkg/
         :: Do you want to remove ALL files from cache? [y/N] y
